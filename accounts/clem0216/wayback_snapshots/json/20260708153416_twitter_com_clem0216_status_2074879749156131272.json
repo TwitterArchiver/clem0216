@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2074751571813150784",
+    "created_at": "2026-07-08T15:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074879749156131272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1679381806913560578",
+          "start": 0,
+          "username": "kurazawanaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074879749156131272",
+    "in_reply_to_user_id": "1679381806913560578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074751571813150784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurazawanaki 毕业快乐，恭喜毕业"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074751518423818240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMr_g3TaoAAlNwW.jpg",
+        "width": 1497
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2074751571813150784",
+        "created_at": "2026-07-08T15:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074879749156131272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679381806913560578",
+              "start": 0,
+              "username": "kurazawanaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074879749156131272",
+        "in_reply_to_user_id": "1679381806913560578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074751571813150784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurazawanaki 毕业快乐，恭喜毕业"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074751518423818240"
+          ]
+        },
+        "author_id": "1679381806913560578",
+        "conversation_id": "2074751571813150784",
+        "created_at": "2026-07-08T07:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074751571813150784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxuRuZn04q",
+              "end": 27,
+              "expanded_url": "https://x.com/kurazawanaki/status/2074751571813150784/photo/1",
+              "media_key": "3_2074751518423818240",
+              "start": 4,
+              "url": "https://t.co/KxuRuZn04q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074751571813150784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2076,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毕业啦 https://t.co/KxuRuZn04q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 66,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "只是一个普通的女⃫孩⃫子⃫.🏳️‍⚧️",
+        "id": "1679381806913560578",
+        "name": "Anemoly",
+        "pinned_tweet_id": "2056329506856796287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054398857346207744/mxos-SBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 1296,
+          "like_count": 17197,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "kurazawanaki",
+        "verified": false
+      }
+    ]
+  }
+}

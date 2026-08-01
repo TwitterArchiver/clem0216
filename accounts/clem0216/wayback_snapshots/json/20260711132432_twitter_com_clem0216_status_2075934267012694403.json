@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075934257051291648"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2075934267012694403",
+    "created_at": "2026-07-11T13:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075934267012694403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3WlY5LsQcA",
+          "end": 77,
+          "expanded_url": "https://x.com/clem0216/status/2075934267012694403/photo/1",
+          "media_key": "3_2075934257051291648",
+          "start": 54,
+          "url": "https://t.co/3WlY5LsQcA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075934267012694403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我差不多又要买魔爪了，有谁要三人团吗？白魔爪，63块，不买的话也帮忙拼一下呗，拼完之后退款就行了🥴蟹蟹泥们 https://t.co/3WlY5LsQcA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2119,
+        "media_key": "3_2075934257051291648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8zNUCbUAAMOUm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075934257051291648"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2075934267012694403",
+        "created_at": "2026-07-11T13:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075934267012694403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3WlY5LsQcA",
+              "end": 77,
+              "expanded_url": "https://x.com/clem0216/status/2075934267012694403/photo/1",
+              "media_key": "3_2075934257051291648",
+              "start": 54,
+              "url": "https://t.co/3WlY5LsQcA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075934267012694403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我差不多又要买魔爪了，有谁要三人团吗？白魔爪，63块，不买的话也帮忙拼一下呗，拼完之后退款就行了🥴蟹蟹泥们 https://t.co/3WlY5LsQcA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/我会回关每一个关注我的人",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 111,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

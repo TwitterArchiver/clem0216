@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077744212758679552"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2077744216046985394",
+    "created_at": "2026-07-16T13:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077744216046985394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sRQOuctwZm",
+          "end": 86,
+          "expanded_url": "https://x.com/clem0216/status/2077744216046985394/photo/1",
+          "media_key": "3_2077744212758679552",
+          "start": 63,
+          "url": "https://t.co/sRQOuctwZm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077744216046985394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢两位推u宝宝打赏投喂的钱\n谢谢你们，会开开心心的\n也祝你们天天开心\n再次真心感谢你们\n应其中一位宝宝要求打码名字(已重发 https://t.co/sRQOuctwZm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2077744212758679552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWhWmea0AAtZrp.jpg",
+        "width": 996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077744212758679552"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2077744216046985394",
+        "created_at": "2026-07-16T13:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077744216046985394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sRQOuctwZm",
+              "end": 86,
+              "expanded_url": "https://x.com/clem0216/status/2077744216046985394/photo/1",
+              "media_key": "3_2077744212758679552",
+              "start": 63,
+              "url": "https://t.co/sRQOuctwZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077744216046985394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢两位推u宝宝打赏投喂的钱\n谢谢你们，会开开心心的\n也祝你们天天开心\n再次真心感谢你们\n应其中一位宝宝要求打码名字(已重发 https://t.co/sRQOuctwZm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分互fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 248,
+          "like_count": 4843,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 387
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

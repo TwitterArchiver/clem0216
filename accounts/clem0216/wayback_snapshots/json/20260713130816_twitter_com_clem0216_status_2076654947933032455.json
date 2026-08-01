@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2076619010125578520",
+    "created_at": "2026-07-13T13:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076654947933032455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069131894957191168",
+          "start": 0,
+          "username": "Hemlock_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076654947933032455",
+    "in_reply_to_user_id": "2069131894957191168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076619010125578520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hemlock_114 抱抱你，小可怜🫂🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2076619010125578520",
+        "created_at": "2026-07-13T13:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076654947933032455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069131894957191168",
+              "start": 0,
+              "username": "Hemlock_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076654947933032455",
+        "in_reply_to_user_id": "2069131894957191168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076619010125578520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hemlock_114 抱抱你，小可怜🫂🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069131894957191168",
+        "conversation_id": "2076619010125578520",
+        "created_at": "2026-07-13T10:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076619010125578520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076619010125578520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 652,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我完了 我爸妈发现我od了 我爸一直骂我 我妈一直翻我书包翻我袋子 逼我把所有好友删掉 把我的药全扔了 我好崩溃 她一直在翻 我好怕他们发我的避孕药 他们让我删掉所有人 我好崩溃 我的药 我的sns 我晚上要睡不着了 好想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 126,
+          "like_count": 1167,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T18:56:04.000Z",
+        "description": "🇭🇰 10 单机透明人🍋\noder｜🩸｜碎碎念｜小作文\n前世@Hemlock_113 (´；ω；｀)\n害怕社交 社交恐惧 只互fo同类",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Hemlock_113"
+              }
+            ]
+          }
+        },
+        "id": "2069131894957191168",
+        "name": "凝檬_☆2.0",
+        "pinned_tweet_id": "2069139098594611364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069134933218705408/DX0rO-YL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 107,
+          "like_count": 256,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 382
+        },
+        "url": "",
+        "username": "Hemlock_114",
+        "verified": true
+      }
+    ]
+  }
+}

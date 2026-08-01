@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2077730094618165743",
+    "created_at": "2026-07-16T12:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077730094618165743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GabrielFor6287…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/GabrielFor6287/status/2077684578308051220",
+          "start": 19,
+          "url": "https://t.co/LrOj5OOtQX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077730094618165743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077684578308051220",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小时候，农村旱厕，喜欢，捡，蜗牛🐌吃 https://t.co/LrOj5OOtQX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2077730094618165743",
+        "created_at": "2026-07-16T12:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077730094618165743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GabrielFor6287…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/GabrielFor6287/status/2077684578308051220",
+              "start": 19,
+              "url": "https://t.co/LrOj5OOtQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077730094618165743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077684578308051220",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小时候，农村旱厕，喜欢，捡，蜗牛🐌吃 https://t.co/LrOj5OOtQX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745160587292610560",
+        "conversation_id": "2077684578308051220",
+        "created_at": "2026-07-16T09:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077684578308051220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077684578308051220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 585,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候，农村旱厕，喜欢，捡，蜗牛🐌吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo/没回fo请私信",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 244,
+          "like_count": 4729,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T19:08:06.000Z",
+        "description": "屌丝来上网了，欢迎互fo",
+        "id": "1745160587292610560",
+        "location": "250m",
+        "name": "屑鱼屑屑",
+        "pinned_tweet_id": "1745161003019501957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005945705328959489/htAyuPqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 57,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "GabrielFor6287",
+        "verified": false
+      }
+    ]
+  }
+}

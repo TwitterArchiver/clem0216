@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075753753173766145"
+      ],
+      "media_source_tweet_id": [
+        "2076127654995005828"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Herbs and spices",
+          "id": "1032695810033471488",
+          "name": "Herbs and spices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Herbs and spices",
+          "id": "1032695810033471488",
+          "name": "Herbs and spices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Herbs and spices",
+          "id": "1032695810033471488",
+          "name": "Herbs and spices"
+        }
+      }
+    ],
+    "conversation_id": "2076135435542442049",
+    "created_at": "2026-07-12T02:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076135435542442049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a5HLfY25Vm",
+          "end": 77,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/2076127654995005828/photo/1",
+          "media_key": "3_2075753753173766145",
+          "start": 54,
+          "url": "https://t.co/a5HLfY25Vm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076135435542442049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076127654995005828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: 天使はね、お砂糖とスパイス、そしてみんなの愛で出来てるからだよ♪ https://t.co/a5HLfY25Vm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 315,
+        "media_key": "3_2075753753173766145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6PCmsbMAE16OV.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075753753173766145"
+          ],
+          "media_source_tweet_id": [
+            "2076127654995005828"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Herbs and spices",
+              "id": "1032695810033471488",
+              "name": "Herbs and spices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Herbs and spices",
+              "id": "1032695810033471488",
+              "name": "Herbs and spices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Herbs and spices",
+              "id": "1032695810033471488",
+              "name": "Herbs and spices"
+            }
+          }
+        ],
+        "conversation_id": "2076135435542442049",
+        "created_at": "2026-07-12T02:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076135435542442049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5HLfY25Vm",
+              "end": 77,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2076127654995005828/photo/1",
+              "media_key": "3_2075753753173766145",
+              "start": 54,
+              "url": "https://t.co/a5HLfY25Vm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076135435542442049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076127654995005828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: 天使はね、お砂糖とスパイス、そしてみんなの愛で出来てるからだよ♪ https://t.co/a5HLfY25Vm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075753753173766145"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Herbs and spices",
+              "id": "1032695810033471488",
+              "name": "Herbs and spices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Herbs and spices",
+              "id": "1032695810033471488",
+              "name": "Herbs and spices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Herbs and spices",
+              "id": "1032695810033471488",
+              "name": "Herbs and spices"
+            }
+          }
+        ],
+        "conversation_id": "2076127654995005828",
+        "created_at": "2026-07-12T02:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076127654995005828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5HLfY25Vm",
+              "end": 56,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2076127654995005828/photo/1",
+              "media_key": "3_2075753753173766145",
+              "start": 33,
+              "url": "https://t.co/a5HLfY25Vm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076127654995005828",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 13796,
+          "like_count": 451,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "天使はね、お砂糖とスパイス、そしてみんなの愛で出来てるからだよ♪ https://t.co/a5HLfY25Vm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/我会回关每一个关注我的人",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 115,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "location": "キミのぱそこん",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543406,
+          "following_count": 1,
+          "like_count": 44,
+          "listed_count": 1164,
+          "media_count": 815,
+          "tweet_count": 1952
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

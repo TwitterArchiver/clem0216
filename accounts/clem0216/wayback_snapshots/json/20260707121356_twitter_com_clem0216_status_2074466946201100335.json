@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2074337509803475318",
+    "created_at": "2026-07-07T12:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074466946201100335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2074131584093970433",
+          "start": 0,
+          "username": "fuckingshit0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074466946201100335",
+    "in_reply_to_user_id": "2074131584093970433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074337509803475318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckingshit0721 可以送我一个蓝v吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2074337509803475318",
+        "created_at": "2026-07-07T12:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074466946201100335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2074131584093970433",
+              "start": 0,
+              "username": "fuckingshit0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074466946201100335",
+        "in_reply_to_user_id": "2074131584093970433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074337509803475318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckingshit0721 可以送我一个蓝v吗"
+      },
+      {
+        "article": {
+          "title": "关于被赠送的免费P+"
+        },
+        "attachments": {},
+        "author_id": "2074131584093970433",
+        "conversation_id": "2074337509803475318",
+        "created_at": "2026-07-07T03:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074337509803475318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2074…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2074334566979088384",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2074334566979088384",
+              "url": "https://t.co/WLVpefv62y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074337509803475318",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12276,
+          "like_count": 66,
+          "quote_count": 9,
+          "reply_count": 38,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WLVpefv62y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 63,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-06T14:02:40.000Z",
+        "description": "万物生发复归根，凡事从此始喵🏳️‍🌈\n茫茫冻土身相随，有心炽如火喵🏳️‍⚧️",
+        "id": "2074131584093970433",
+        "name": "sin🍥",
+        "pinned_tweet_id": "2074337509803475318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074175326490693632/MHVw21ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 1,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "fuckingshit0721",
+        "verified": true
+      }
+    ]
+  }
+}

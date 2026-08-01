@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2075430632709329270",
+    "created_at": "2026-07-10T04:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T05:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075430632709329270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1889248100503736320",
+          "start": 3,
+          "username": "loooolxiaozao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075430632709329270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075178905800155541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loooolxiaozao: 旧账号已经无法继续使用 这是我的新账号 我会回关每一个转发的谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2075430632709329270",
+        "created_at": "2026-07-10T04:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075430632709329270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1889248100503736320",
+              "start": 3,
+              "username": "loooolxiaozao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075430632709329270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075178905800155541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loooolxiaozao: 旧账号已经无法继续使用 这是我的新账号 我会回关每一个转发的谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889248100503736320",
+        "conversation_id": "2075178905800155541",
+        "created_at": "2026-07-09T11:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075178905800155541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075178905800155541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4040,
+          "like_count": 24,
+          "quote_count": 9,
+          "reply_count": 3,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "旧账号已经无法继续使用 这是我的新账号 我会回关每一个转发的谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 85,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T09:40:30.000Z",
+        "description": "",
+        "id": "1889248100503736320",
+        "name": "小藻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074804347859607552/HEhZ7-ME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 24,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "loooolxiaozao",
+        "verified": false
+      }
+    ]
+  }
+}

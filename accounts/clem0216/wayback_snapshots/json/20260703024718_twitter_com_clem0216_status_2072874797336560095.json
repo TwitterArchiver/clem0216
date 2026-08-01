@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2072874797336560095",
+    "created_at": "2026-07-03T02:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T03:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072874797336560095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882823505336750080",
+          "start": 3,
+          "username": "huiseliuye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072874797336560095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072480459821564016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huiseliuye: 我会定期脱毛的因为我不喜欢。阴毛腋毛腿毛，，，想了很多之后确认自己不是被规训是真的不喜欢体毛。我真的喜欢白白嫩嫩的人体，男人也应当这样，不全身脱毛的男人给人的观感就像未开化的野兽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2072874797336560095",
+        "created_at": "2026-07-03T02:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072874797336560095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882823505336750080",
+              "start": 3,
+              "username": "huiseliuye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072874797336560095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072480459821564016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huiseliuye: 我会定期脱毛的因为我不喜欢。阴毛腋毛腿毛，，，想了很多之后确认自己不是被规训是真的不喜欢体毛。我真的喜欢白白嫩嫩的人体，男人也应当这样，不全身脱毛的男人给人的观感就像未开化的野兽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882823505336750080",
+        "conversation_id": "2072480459821564016",
+        "created_at": "2026-07-02T00:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072480459821564016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072480459821564016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 37670,
+          "like_count": 525,
+          "quote_count": 3,
+          "reply_count": 86,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我会定期脱毛的因为我不喜欢。阴毛腋毛腿毛，，，想了很多之后确认自己不是被规训是真的不喜欢体毛。我真的喜欢白白嫩嫩的人体，男人也应当这样，不全身脱毛的男人给人的观感就像未开化的野兽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 43,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T16:11:30.000Z",
+        "description": "我呢是一位好评率100%的客服呀\n温良呆萌善良的小猪猪一枚呀\n一个比心兔兔回关",
+        "id": "1882823505336750080",
+        "location": "服了还要天天给你们这群猪支教",
+        "name": "客服萌萌猪。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038166012840001536/sI7fZzsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 86,
+          "like_count": 24557,
+          "listed_count": 4,
+          "media_count": 287,
+          "tweet_count": 2870
+        },
+        "url": "",
+        "username": "huiseliuye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2077301384119226578",
+    "created_at": "2026-07-15T09:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077321937790091310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042966135490965504",
+          "start": 0,
+          "username": "monesy233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077321937790091310",
+    "in_reply_to_user_id": "2042966135490965504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077307733922189810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@monesy233 不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2077301384119226578",
+        "created_at": "2026-07-15T09:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077321937790091310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042966135490965504",
+              "start": 0,
+              "username": "monesy233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077321937790091310",
+        "in_reply_to_user_id": "2042966135490965504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077307733922189810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@monesy233 不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042966135490965504",
+        "conversation_id": "2077301384119226578",
+        "created_at": "2026-07-15T08:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077307733922189810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077307733922189810",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077301384119226578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 你是…药娘？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo/没回fo请私信",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 195,
+          "like_count": 2860,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T14:01:11.000Z",
+        "description": "生有涯，艺无涯\n(08高中牲 粉猎鹰  我是monesy的 big fan😋)\nwe are (      )🖐🏻😬🖐🏻\n看到难受的推会当心理老师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/monesy26445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/monesy26445",
+                "start": 0,
+                "url": "https://t.co/THDSbOiCPr"
+              }
+            ]
+          }
+        },
+        "id": "2042966135490965504",
+        "location": "四川遂宁",
+        "name": "认真做mONESY～",
+        "pinned_tweet_id": "2076587243830129064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045147730767708160/0rsMmth1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 66,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/THDSbOiCPr",
+        "username": "monesy233",
+        "verified": false
+      }
+    ]
+  }
+}

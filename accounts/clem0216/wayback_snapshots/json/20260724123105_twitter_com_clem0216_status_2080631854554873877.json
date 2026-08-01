@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2080621541168124362",
+    "created_at": "2026-07-24T12:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080631854554873877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2004456046295973888",
+          "start": 0,
+          "username": "kohoshitsumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080631854554873877",
+    "in_reply_to_user_id": "2004456046295973888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080630580090478835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohoshitsumu 闹矛盾了，断钱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2080630501749239808",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HN_iau2bMAAhlgc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HN_iau2bMAAhlgc.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2080621541168124362",
+        "created_at": "2026-07-24T12:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080631854554873877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004456046295973888",
+              "start": 0,
+              "username": "kohoshitsumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080631854554873877",
+        "in_reply_to_user_id": "2004456046295973888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080630580090478835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohoshitsumu 闹矛盾了，断钱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2080630501749239808"
+          ]
+        },
+        "author_id": "2004456046295973888",
+        "conversation_id": "2080621541168124362",
+        "created_at": "2026-07-24T12:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080630580090478835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MlwQPKnZmS",
+              "end": 48,
+              "expanded_url": "https://x.com/kohoshitsumu/status/2080630580090478835/photo/1",
+              "media_key": "16_2080630501749239808",
+              "start": 25,
+              "url": "https://t.co/MlwQPKnZmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080630580090478835",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080621541168124362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 波奇酱爸爸妈妈呢🥹🥹🥹\n摸摸 https://t.co/MlwQPKnZmS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo / 09 / 重抑郁 / 中焦虑 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xiaoshanruixig1",
+                "end": 23,
+                "expanded_url": "https://x.com/xiaoshanruixig1",
+                "start": 0,
+                "url": "https://t.co/pYRJe7v0oT"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2080621541168124362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 448,
+          "like_count": 9826,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/pYRJe7v0oT",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T07:35:49.000Z",
+        "description": "｜女｜生产日期：𝟚𝟘𝟙𝟙/𝟘𝟜/𝟚𝟘｜猫🐈｜🚫🏫休学🎒🚫｜❤️💻𝙄𝙉𝙏𝙀𝙍𝙉𝙀𝙏重度依赖💻❤️｜社恐｜自闭｜抑郁｜焦虑｜双相｜画渣｜学渣｜人生目标达成度：-𝟒𝟎𝟒%/𝟏𝟎𝟎%｜查成分回𝚏𝚘｜\n\n小星紡是百亿光年外早已逝去的双星，虽散发着光芒，但已然成为了尸体",
+        "id": "2004456046295973888",
+        "location": "只想永居于梦",
+        "name": "小星紡ーこほしつむ",
+        "pinned_tweet_id": "2080569587415040209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078476911836086272/XWUEOnTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 222,
+          "like_count": 2343,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 152
+        },
+        "url": "",
+        "username": "kohoshitsumu",
+        "verified": false
+      }
+    ]
+  }
+}

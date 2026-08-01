@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2075486241584549974",
+    "created_at": "2026-07-11T04:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075793817257787611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2019069006649667584",
+          "start": 0,
+          "username": "shunyuTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075793817257787611",
+    "in_reply_to_user_id": "2019069006649667584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075486241584549974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shunyuTvT 羡慕了，为什么涨粉这么快😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075486235720884224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2bvChbIAAqROD.jpg",
+        "width": 922
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2075486238891728896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2bvOVaYAA4N15.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2075486241584549974",
+        "created_at": "2026-07-11T04:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075793817257787611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2019069006649667584",
+              "start": 0,
+              "username": "shunyuTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075793817257787611",
+        "in_reply_to_user_id": "2019069006649667584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075486241584549974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shunyuTvT 羡慕了，为什么涨粉这么快😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075486235720884224",
+            "3_2075486238891728896"
+          ]
+        },
+        "author_id": "2019069006649667584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075486241584549974",
+        "created_at": "2026-07-10T07:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075486241584549974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7h5F96pkm4",
+              "end": 62,
+              "expanded_url": "https://x.com/shunyuTvT/status/2075486241584549974/photo/1",
+              "media_key": "3_2075486235720884224",
+              "start": 39,
+              "url": "https://t.co/7h5F96pkm4"
+            },
+            {
+              "display_url": "pic.x.com/7h5F96pkm4",
+              "end": 62,
+              "expanded_url": "https://x.com/shunyuTvT/status/2075486241584549974/photo/1",
+              "media_key": "3_2075486238891728896",
+              "start": 39,
+              "url": "https://t.co/7h5F96pkm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075486241584549974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1258,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "破1kfo了！！开心，不过截1010fo是因为我10.10生日hh爱你们！！ https://t.co/7h5F96pkm4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder/我会回关每一个关注我的人",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 97,
+          "like_count": 589,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T15:22:28.000Z",
+        "description": "11年｜♀｜中抑中焦｜戒割中 偶尔od｜内向i人｜互关请私信！不过我会查成分｜更多属性指路置顶～｜🚪20（不聊黄不聊骚朋友圈无擦边没福利纯陪聊）｜我是@UXiaotu的狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "UXiaotu"
+              }
+            ]
+          }
+        },
+        "id": "2019069006649667584",
+        "name": "瞬雨",
+        "pinned_tweet_id": "2075584264616485015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074263947969216512/ltPefXnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 178,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "shunyuTvT",
+        "verified": false
+      }
+    ]
+  }
+}

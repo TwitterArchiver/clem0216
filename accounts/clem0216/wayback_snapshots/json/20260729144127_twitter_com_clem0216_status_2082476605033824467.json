@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2082476605033824467",
+    "created_at": "2026-07-29T14:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082476605033824467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906595429162299392",
+          "start": 3,
+          "username": "Dream_Shards"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082476605033824467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082441883792617659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dream_Shards: 300fo纪念！感谢大家支持，希望大家可以多找咱闲聊和倾诉，然后进行一个抽奖，咱没什么钱只能抽些小东西，还请不要嫌弃喵\n一等奖：一板国补一板50色一板橙普x1\n二等奖：一些mtf/鱼板相关制品（约20r）x2\n三等奖：找我买色40r优惠券x2…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2082441865119555584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZR19PaYAAmYZn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2082476605033824467",
+        "created_at": "2026-07-29T14:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082476605033824467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906595429162299392",
+              "start": 3,
+              "username": "Dream_Shards"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082476605033824467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082441883792617659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dream_Shards: 300fo纪念！感谢大家支持，希望大家可以多找咱闲聊和倾诉，然后进行一个抽奖，咱没什么钱只能抽些小东西，还请不要嫌弃喵\n一等奖：一板国补一板50色一板橙普x1\n二等奖：一些mtf/鱼板相关制品（约20r）x2\n三等奖：找我买色40r优惠券x2…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082441865119555584"
+          ]
+        },
+        "author_id": "1906595429162299392",
+        "conversation_id": "2082441883792617659",
+        "created_at": "2026-07-29T12:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:19:43.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082440935229841683",
+          "2082441462088618006",
+          "2082441883792617659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPIq1brqdP",
+              "end": 171,
+              "expanded_url": "https://x.com/Dream_Shards/status/2082441883792617659/photo/1",
+              "media_key": "3_2082441865119555584",
+              "start": 148,
+              "url": "https://t.co/zPIq1brqdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082441883792617659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "300fo纪念！感谢大家支持，希望大家可以多找咱闲聊和倾诉，然后进行一个抽奖，咱没什么钱只能抽些小东西，还请不要嫌弃喵\n一等奖：一板国补一板50色一板橙普x1\n二等奖：一些mtf/鱼板相关制品（约20r）x2\n三等奖：找我买色40r优惠券x2\n抽奖方式：关注我，点赞转帖此帖子\n开奖时间：8.6 12:00（没人转我就内定亲友了）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 839,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "300fo纪念！感谢大家支持，希望大家可以多找咱闲聊和倾诉，然后进行一个抽奖，咱没什么钱只能抽些小东西，还请不要嫌弃喵\n一等奖：一板国补一板50色一板橙普x1\n二等奖：一些mtf/鱼板相关制品（约20r）x2\n三等奖：找我买色40r优惠券x2\n抽奖方式：关注我，点赞转帖此帖子\n开奖时间：8.6 https://t.co/zPIq1brqdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 626,
+          "like_count": 12738,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1023
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-31T06:32:41.000Z",
+        "description": "一只漂浮的蓝色水母/同类友跨互fo/hrt：26.2.18/家暴党/非资深oder/地雷系重力系警告⚠️\n爱人：@zhangxiaofu673",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "zhangxiaofu673"
+              }
+            ]
+          }
+        },
+        "id": "1906595429162299392",
+        "location": "距离你3.2km",
+        "name": "碎梦🍥（色商版）",
+        "pinned_tweet_id": "2081650358103757073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076395214382751744/kfcEO0Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 350,
+          "like_count": 1036,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "Dream_Shards",
+        "verified": true
+      }
+    ]
+  }
+}

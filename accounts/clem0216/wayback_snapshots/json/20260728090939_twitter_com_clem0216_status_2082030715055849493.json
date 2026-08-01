@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082030708202389504"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2081947666519597500",
+    "created_at": "2026-07-28T09:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082030715055849493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2078435877119021056",
+          "start": 0,
+          "username": "suzanne1218yan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jgHbLulMky",
+          "end": 41,
+          "expanded_url": "https://x.com/clem0216/status/2082030715055849493/photo/1",
+          "media_key": "3_2082030708202389504",
+          "start": 18,
+          "url": "https://t.co/jgHbLulMky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082030715055849493",
+    "in_reply_to_user_id": "2078435877119021056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082028477826646073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suzanne1218yan 喏 https://t.co/jgHbLulMky"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 213,
+        "media_key": "3_2082030708202389504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTb5eXbwAAj6R6.jpg",
+        "width": 246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082030708202389504"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2081947666519597500",
+        "created_at": "2026-07-28T09:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082030715055849493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2078435877119021056",
+              "start": 0,
+              "username": "suzanne1218yan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jgHbLulMky",
+              "end": 41,
+              "expanded_url": "https://x.com/clem0216/status/2082030715055849493/photo/1",
+              "media_key": "3_2082030708202389504",
+              "start": 18,
+              "url": "https://t.co/jgHbLulMky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082030715055849493",
+        "in_reply_to_user_id": "2078435877119021056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082028477826646073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suzanne1218yan 喏 https://t.co/jgHbLulMky"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078435877119021056",
+        "conversation_id": "2081947666519597500",
+        "created_at": "2026-07-28T09:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082028477826646073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082028477826646073",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081947666519597500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 啊啊啊真的假的😍😍😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 586,
+          "like_count": 12258,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 947
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-18T11:06:47.000Z",
+        "description": "🇨🇳Suzanne 丨ENFJ 丨her/she丨Pink lover💗 丨wlw\n🎀 CaitVi stan❤️If you're a CaitVi fan too, I'd love to hear from you",
+        "id": "2078435877119021056",
+        "location": "中国",
+        "name": "Suzanne🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081774274256441344/ki8xrL0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "suzanne1218yan",
+        "verified": false
+      }
+    ]
+  }
+}

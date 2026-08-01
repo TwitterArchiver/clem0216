@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2077740621415281037",
+    "created_at": "2026-07-16T14:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077756482733650294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076311891203469312",
+          "start": 0,
+          "username": "duguoxianniyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077756482733650294",
+    "in_reply_to_user_id": "2076311891203469312",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077740621415281037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duguoxianniyan 111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2077740621415281037",
+        "created_at": "2026-07-16T14:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077756482733650294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076311891203469312",
+              "start": 0,
+              "username": "duguoxianniyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077756482733650294",
+        "in_reply_to_user_id": "2076311891203469312",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077740621415281037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duguoxianniyan 111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076311891203469312",
+        "conversation_id": "2077740621415281037",
+        "created_at": "2026-07-16T13:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077740621415281037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077740621415281037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人能理一下我吗，哪怕一下也好？我要崩溃了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分互fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 248,
+          "like_count": 5126,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 390
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T14:27:08.000Z",
+        "description": "原神萌新,UID:1824342005\n爱听且会点吉他指弹\n防失联:@duguoyiqie\n喜欢二次元，喜欢御坂美琴,绫波丽,或许是复制人控？(｡•̀ᴗ-)✧\n爱听Call of silence,One last kiss,鳥の詩,Flower dance,还有Merry Christmas, Mr. Lawrence",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "duguoyiqie"
+              }
+            ]
+          }
+        },
+        "id": "2076311891203469312",
+        "location": "常盘台—美琴和黑子的宿舍",
+        "name": "渡过衔泥燕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076312603958312960/oVpJXXCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 178,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "duguoxianniyan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 28 08:34:46 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/LKLSej14JZ",
+        "expanded_url": "https://twitter.com/Bilenial94/status/1294667524806672384/video/1",
+        "id": 1294667194459095045,
+        "id_str": "1294667194459095045",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294667194459095045/pu/img/_0SCjV49SDsnR_rM.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294667194459095045/pu/img/_0SCjV49SDsnR_rM.jpg",
+        "sizes": {
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1294667524806672384,
+        "source_status_id_str": "1294667524806672384",
+        "source_user_id": 3305383958,
+        "source_user_id_str": "3305383958",
+        "type": "photo",
+        "url": "https://t.co/LKLSej14JZ"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3305383958,
+        "id_str": "3305383958",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Paraíso bisexual",
+        "screen_name": "Bilenial94"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/LKLSej14JZ",
+        "expanded_url": "https://twitter.com/Bilenial94/status/1294667524806672384/video/1",
+        "id": 1294667194459095045,
+        "id_str": "1294667194459095045",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294667194459095045/pu/img/_0SCjV49SDsnR_rM.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294667194459095045/pu/img/_0SCjV49SDsnR_rM.jpg",
+        "sizes": {
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1294667524806672384,
+        "source_status_id_str": "1294667524806672384",
+        "source_user_id": 3305383958,
+        "source_user_id_str": "3305383958",
+        "type": "video",
+        "url": "https://t.co/LKLSej14JZ",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 90400,
+          "variants": [
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1294667194459095045/pu/vid/320x320/UHKBsRhtp8XUexgk.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1294667194459095045/pu/pl/A0I0RAvAsizKzdC_.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1294667194459095045/pu/vid/480x480/eCR7kaslGVF7xHHD.mp4?tag=10"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1294667194459095045/pu/vid/640x640/XNIDG1Tvsu2nw8oi.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1310498171668377600,
+  "id_str": "1310498171668377600",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "es",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Aug 15 16:09:26 +0000 2020",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/LKLSej14JZ",
+          "expanded_url": "https://twitter.com/Bilenial94/status/1294667524806672384/video/1",
+          "id": 1294667194459095045,
+          "id_str": "1294667194459095045",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294667194459095045/pu/img/_0SCjV49SDsnR_rM.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294667194459095045/pu/img/_0SCjV49SDsnR_rM.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/LKLSej14JZ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/LKLSej14JZ",
+          "expanded_url": "https://twitter.com/Bilenial94/status/1294667524806672384/video/1",
+          "id": 1294667194459095045,
+          "id_str": "1294667194459095045",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294667194459095045/pu/img/_0SCjV49SDsnR_rM.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294667194459095045/pu/img/_0SCjV49SDsnR_rM.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/LKLSej14JZ",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 90400,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1294667194459095045/pu/vid/320x320/UHKBsRhtp8XUexgk.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1294667194459095045/pu/pl/A0I0RAvAsizKzdC_.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1294667194459095045/pu/vid/480x480/eCR7kaslGVF7xHHD.mp4?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1294667194459095045/pu/vid/640x640/XNIDG1Tvsu2nw8oi.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 184,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1294667524806672384,
+    "id_str": "1294667524806672384",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "es",
+    "place": null,
+    "possibly_sensitive": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 55,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Un buen día con tu chica https://t.co/LKLSej14JZ",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Aug 03 18:12:51 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Si me vas a enviar un primer plano de tu rabo o tu culo, ahorratelo. Debilidad por las tías buenas y los twinks. Evidentemente no soy el de mi foto. SÓLO +18",
+      "favourites_count": 3410,
+      "follow_request_sent": null,
+      "followers_count": 151074,
+      "following": null,
+      "friends_count": 1758,
+      "geo_enabled": true,
+      "id": 3305383958,
+      "id_str": "3305383958",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 521,
+      "location": "Pornland",
+      "name": "Paraíso bisexual",
+      "notifications": null,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3305383958/1589495695",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1261062461081427969/aCj_brgt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261062461081427969/aCj_brgt_normal.jpg",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Bilenial94",
+      "statuses_count": 6050,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://curiouscat.me/bilenial94",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @Bilenial94: Un buen día con tu chica https://t.co/LKLSej14JZ",
+  "timestamp_ms": "1601282086661",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Dec 18 09:52:10 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "19 ans, blond, bi, Paris",
+    "favourites_count": 911,
+    "follow_request_sent": null,
+    "followers_count": 1389,
+    "following": null,
+    "friends_count": 270,
+    "geo_enabled": false,
+    "id": 1207237024903774208,
+    "id_str": "1207237024903774208",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "clem",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207237024903774208/1584723735",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1209438964173721600/JfzwMomG_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1209438964173721600/JfzwMomG_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "clem0216",
+    "statuses_count": 125,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

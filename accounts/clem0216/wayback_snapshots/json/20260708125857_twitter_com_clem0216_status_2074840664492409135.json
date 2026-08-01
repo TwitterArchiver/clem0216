@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074840653490708480"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2074840664492409135",
+    "created_at": "2026-07-08T12:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074840664492409135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p61ttoYB1U",
+          "end": 35,
+          "expanded_url": "https://x.com/clem0216/status/2074840664492409135/photo/1",
+          "media_key": "3_2074840653490708480",
+          "start": 12,
+          "url": "https://t.co/p61ttoYB1U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074840664492409135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有谁和我玩这个吗\n哒哒 https://t.co/p61ttoYB1U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2074840653490708480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtQlNTaYAAwPbB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074840653490708480"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2074840664492409135",
+        "created_at": "2026-07-08T12:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074840664492409135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p61ttoYB1U",
+              "end": 35,
+              "expanded_url": "https://x.com/clem0216/status/2074840664492409135/photo/1",
+              "media_key": "3_2074840653490708480",
+              "start": 12,
+              "url": "https://t.co/p61ttoYB1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074840664492409135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有谁和我玩这个吗\n哒哒 https://t.co/p61ttoYB1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 64,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

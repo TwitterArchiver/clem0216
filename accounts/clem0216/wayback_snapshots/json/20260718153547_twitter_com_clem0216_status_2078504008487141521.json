@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2078504008487141521",
+    "created_at": "2026-07-18T15:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078504008487141521"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078504008487141521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎，狗男。就是那种喜欢亲嘴的时候被揉揉捏捏后脖颈，以至于形成条件反射。平常跟他直勾勾的眼睛对视容易爱意泛滥想摸摸，依旧是后脖颈，但是狗男以为又要亲嘴所以自觉地心花怒放凑上来了。哎莫名其妙讨到亲亲的狗男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2078504008487141521",
+        "created_at": "2026-07-18T15:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078504008487141521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078504008487141521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎，狗男。就是那种喜欢亲嘴的时候被揉揉捏捏后脖颈，以至于形成条件反射。平常跟他直勾勾的眼睛对视容易爱意泛滥想摸摸，依旧是后脖颈，但是狗男以为又要亲嘴所以自觉地心花怒放凑上来了。哎莫名其妙讨到亲亲的狗男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 332,
+          "like_count": 6641,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 465
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

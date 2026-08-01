@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081580130565263360",
+        "3_2081580140828741634",
+        "3_2081580150303645696",
+        "3_2081580159766007808"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081580169714897397",
+    "created_at": "2026-07-27T03:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T04:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081580169714897397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/48WOPedCPi",
+          "end": 53,
+          "expanded_url": "https://x.com/clem0216/status/2081580169714897397/photo/1",
+          "media_key": "3_2081580130565263360",
+          "start": 30,
+          "url": "https://t.co/48WOPedCPi"
+        },
+        {
+          "display_url": "pic.x.com/48WOPedCPi",
+          "end": 53,
+          "expanded_url": "https://x.com/clem0216/status/2081580169714897397/photo/1",
+          "media_key": "3_2081580140828741634",
+          "start": 30,
+          "url": "https://t.co/48WOPedCPi"
+        },
+        {
+          "display_url": "pic.x.com/48WOPedCPi",
+          "end": 53,
+          "expanded_url": "https://x.com/clem0216/status/2081580169714897397/photo/1",
+          "media_key": "3_2081580150303645696",
+          "start": 30,
+          "url": "https://t.co/48WOPedCPi"
+        },
+        {
+          "display_url": "pic.x.com/48WOPedCPi",
+          "end": 53,
+          "expanded_url": "https://x.com/clem0216/status/2081580169714897397/photo/1",
+          "media_key": "3_2081580159766007808",
+          "start": 30,
+          "url": "https://t.co/48WOPedCPi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081580169714897397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那是什么意思呢\n我觉得对每个人(除恶人外)保持善良是最好的 https://t.co/48WOPedCPi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_2081580130565263360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONCGZ3akAAk5ls.jpg",
+        "width": 1080
+      },
+      {
+        "height": 879,
+        "media_key": "3_2081580140828741634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONCHAGa0AIr9yJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 823,
+        "media_key": "3_2081580150303645696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONCHjZaYAABqti.jpg",
+        "width": 1080
+      },
+      {
+        "height": 777,
+        "media_key": "3_2081580159766007808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONCIGpakAAchl0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081580130565263360",
+            "3_2081580140828741634",
+            "3_2081580150303645696",
+            "3_2081580159766007808"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081580169714897397",
+        "created_at": "2026-07-27T03:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081580169714897397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/48WOPedCPi",
+              "end": 53,
+              "expanded_url": "https://x.com/clem0216/status/2081580169714897397/photo/1",
+              "media_key": "3_2081580130565263360",
+              "start": 30,
+              "url": "https://t.co/48WOPedCPi"
+            },
+            {
+              "display_url": "pic.x.com/48WOPedCPi",
+              "end": 53,
+              "expanded_url": "https://x.com/clem0216/status/2081580169714897397/photo/1",
+              "media_key": "3_2081580140828741634",
+              "start": 30,
+              "url": "https://t.co/48WOPedCPi"
+            },
+            {
+              "display_url": "pic.x.com/48WOPedCPi",
+              "end": 53,
+              "expanded_url": "https://x.com/clem0216/status/2081580169714897397/photo/1",
+              "media_key": "3_2081580150303645696",
+              "start": 30,
+              "url": "https://t.co/48WOPedCPi"
+            },
+            {
+              "display_url": "pic.x.com/48WOPedCPi",
+              "end": 53,
+              "expanded_url": "https://x.com/clem0216/status/2081580169714897397/photo/1",
+              "media_key": "3_2081580159766007808",
+              "start": 30,
+              "url": "https://t.co/48WOPedCPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081580169714897397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那是什么意思呢\n我觉得对每个人(除恶人外)保持善良是最好的 https://t.co/48WOPedCPi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo / 09 / 重抑郁 / 中焦虑 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2080621541168124362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 548,
+          "like_count": 11452,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      }
+    ]
+  }
+}

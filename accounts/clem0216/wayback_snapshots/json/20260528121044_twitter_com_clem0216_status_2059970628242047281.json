@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2059610250064629826",
+    "created_at": "2026-05-28T12:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059970628242047281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1924102060599091200",
+          "start": 0,
+          "username": "EFWScorpio"
+        },
+        {
+          "end": 22,
+          "id": "2029852718597296132",
+          "start": 12,
+          "username": "qiaoyi158"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059970628242047281",
+    "in_reply_to_user_id": "1924102060599091200",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059610250064629826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EFWScorpio @qiaoyi158 rip"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1645,
+        "media_key": "3_2059610233895575552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU0mG8a4AAVgL9.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2059610250064629826",
+        "created_at": "2026-05-28T12:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059970628242047281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1924102060599091200",
+              "start": 0,
+              "username": "EFWScorpio"
+            },
+            {
+              "end": 22,
+              "id": "2029852718597296132",
+              "start": 12,
+              "username": "qiaoyi158"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059970628242047281",
+        "in_reply_to_user_id": "1924102060599091200",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059610250064629826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EFWScorpio @qiaoyi158 rip"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059610233895575552"
+          ]
+        },
+        "author_id": "1924102060599091200",
+        "conversation_id": "2059610250064629826",
+        "created_at": "2026-05-27T12:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059610250064629826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2029852718597296132",
+              "start": 0,
+              "username": "qiaoyi158"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ohl7T6QufM",
+              "end": 81,
+              "expanded_url": "https://x.com/EFWScorpio/status/2059610250064629826/photo/1",
+              "media_key": "3_2059610233895575552",
+              "start": 58,
+              "url": "https://t.co/Ohl7T6QufM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059610250064629826",
+        "in_reply_to_user_id": "2029852718597296132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@qiaoyi158 原名乔展鹏 5月26日23:02 OD盐酸舍曲林片过量去世 我跨圈唯一的朋友 她说她会回来的 https://t.co/Ohl7T6QufM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 21,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T13:57:47.000Z",
+        "description": "",
+        "id": "1924102060599091200",
+        "name": "凌鱼🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853413678850048/Zv-YINxi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 147,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "EFWScorpio",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T09:33:08.000Z",
+        "description": "破蛋：农历二零零九年腊月廿四（2009年12月24) HRT日期2026年2月17号/MTF/无证含糖/双向情感障碍/中度焦虑/中度贫血/精分/ISFJ ˗ˋˏ ♡ ˎˊ˗",
+        "id": "2029852718597296132",
+        "location": "济宁",
+        "name": "Joey🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029856529080606720/RkN1qDwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 28,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "qiaoyi158",
+        "verified": false
+      }
+    ]
+  }
+}

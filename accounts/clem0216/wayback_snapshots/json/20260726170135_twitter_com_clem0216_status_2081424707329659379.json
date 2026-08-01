@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2081424707329659379",
+    "created_at": "2026-07-26T17:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081424707329659379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ancde_1118/sta…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/Ancde_1118/status/2081164808376947074",
+          "start": 96,
+          "url": "https://t.co/EeCLXJ8bRK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081424707329659379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081164808376947074",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要靠近我，不要认识我，不要好奇我，不要喊我的名字，不要看我的眼睛，不要记住我的喜好，不要试探我的过去，不要和我联系，不要道歉，不要解释，不要说缘分，不要讲命运，不要说永远，我们不要有交集。 https://t.co/EeCLXJ8bRK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2081424707329659379",
+        "created_at": "2026-07-26T17:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081424707329659379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ancde_1118/sta…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/Ancde_1118/status/2081164808376947074",
+              "start": 96,
+              "url": "https://t.co/EeCLXJ8bRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081424707329659379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081164808376947074",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要靠近我，不要认识我，不要好奇我，不要喊我的名字，不要看我的眼睛，不要记住我的喜好，不要试探我的过去，不要和我联系，不要道歉，不要解释，不要说缘分，不要讲命运，不要说永远，我们不要有交集。 https://t.co/EeCLXJ8bRK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2081164808376947074",
+        "created_at": "2026-07-25T23:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081164808376947074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081164808376947074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 10459,
+          "like_count": 438,
+          "quote_count": 4,
+          "reply_count": 24,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "不要靠近我，不要认识我，不要好奇我，不要喊我的名字，不要看我的眼睛，不要记住我的喜好，不要试探我的过去，不要和我联系，不要道歉，不要解释，不要说缘分，不要讲命运，不要说永远，我们不要有交集。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo / 09 / 重抑郁 / 中焦虑 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xiaoshanruixig1",
+                "end": 23,
+                "expanded_url": "https://x.com/xiaoshanruixig1",
+                "start": 0,
+                "url": "https://t.co/pYRJe7v0oT"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2080621541168124362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 526,
+          "like_count": 11376,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 834
+        },
+        "url": "https://t.co/pYRJe7v0oT",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 699,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 1756
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

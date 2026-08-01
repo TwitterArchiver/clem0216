@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056551904516411392"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2056551914494713953",
+    "created_at": "2026-05-19T01:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T02:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056551914494713953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qbFCPjwRfw",
+          "end": 34,
+          "expanded_url": "https://x.com/clem0216/status/2056551914494713953/photo/1",
+          "media_key": "3_2056551904516411392",
+          "start": 11,
+          "url": "https://t.co/qbFCPjwRfw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056551914494713953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "成功收获pr80两盒 https://t.co/qbFCPjwRfw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2056551904516411392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpXD6LakAABku_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056551904516411392"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056551914494713953",
+        "created_at": "2026-05-19T01:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056551914494713953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbFCPjwRfw",
+              "end": 34,
+              "expanded_url": "https://x.com/clem0216/status/2056551914494713953/photo/1",
+              "media_key": "3_2056551904516411392",
+              "start": 11,
+              "url": "https://t.co/qbFCPjwRfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056551914494713953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成功收获pr80两盒 https://t.co/qbFCPjwRfw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052260311156285440/ot0DNT7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 21,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Sep 16 15:54:06 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/TEeXIwf1Lk",
+        "expanded_url": "https://twitter.com/AlexAndBryceXXX/status/1237618018794029057/video/1",
+        "id": 1237617977694081024,
+        "id_str": "1237617977694081024",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1237617977694081024/pu/img/3Bh_pSZIXn_mvgAm.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1237617977694081024/pu/img/3Bh_pSZIXn_mvgAm.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1237618018794029057,
+        "source_status_id_str": "1237618018794029057",
+        "source_user_id": 1219775814587174913,
+        "source_user_id_str": "1219775814587174913",
+        "type": "photo",
+        "url": "https://t.co/TEeXIwf1Lk"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "onlyfans.com/bryceandalex",
+        "expanded_url": "http://onlyfans.com/bryceandalex",
+        "indices": [
+          53,
+          76
+        ],
+        "url": "https://t.co/jBg8pt4Tj4"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1219775814587174913,
+        "id_str": "1219775814587174913",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Bryce & Alex",
+        "screen_name": "AlexAndBryceXXX"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/TEeXIwf1Lk",
+        "expanded_url": "https://twitter.com/AlexAndBryceXXX/status/1237618018794029057/video/1",
+        "id": 1237617977694081024,
+        "id_str": "1237617977694081024",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1237617977694081024/pu/img/3Bh_pSZIXn_mvgAm.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1237617977694081024/pu/img/3Bh_pSZIXn_mvgAm.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1237618018794029057,
+        "source_status_id_str": "1237618018794029057",
+        "source_user_id": 1219775814587174913,
+        "source_user_id_str": "1219775814587174913",
+        "type": "video",
+        "url": "https://t.co/TEeXIwf1Lk",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 14457,
+          "variants": [
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1237617977694081024/pu/vid/320x568/rmHyi61I1meTaDHf.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1237617977694081024/pu/vid/720x1280/3DZKd8IUXP3mNzwk.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1237617977694081024/pu/pl/fxaTFiKTdNCcsi8f.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1237617977694081024/pu/vid/360x640/00DpV6uJZEBcF5nC.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1306260079134552069,
+  "id_str": "1306260079134552069",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 11 05:55:04 +0000 2020",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/TEeXIwf1Lk",
+          "expanded_url": "https://twitter.com/AlexAndBryceXXX/status/1237618018794029057/video/1",
+          "id": 1237617977694081024,
+          "id_str": "1237617977694081024",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1237617977694081024/pu/img/3Bh_pSZIXn_mvgAm.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1237617977694081024/pu/img/3Bh_pSZIXn_mvgAm.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/TEeXIwf1Lk"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "onlyfans.com/bryceandalex",
+          "expanded_url": "http://onlyfans.com/bryceandalex",
+          "indices": [
+            32,
+            55
+          ],
+          "url": "https://t.co/jBg8pt4Tj4"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/TEeXIwf1Lk",
+          "expanded_url": "https://twitter.com/AlexAndBryceXXX/status/1237618018794029057/video/1",
+          "id": 1237617977694081024,
+          "id_str": "1237617977694081024",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1237617977694081024/pu/img/3Bh_pSZIXn_mvgAm.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1237617977694081024/pu/img/3Bh_pSZIXn_mvgAm.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/TEeXIwf1Lk",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 14457,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1237617977694081024/pu/vid/320x568/rmHyi61I1meTaDHf.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1237617977694081024/pu/vid/720x1280/3DZKd8IUXP3mNzwk.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1237617977694081024/pu/pl/fxaTFiKTdNCcsi8f.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1237617977694081024/pu/vid/360x640/00DpV6uJZEBcF5nC.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 1625,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1237618018794029057,
+    "id_str": "1237618018794029057",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 4,
+    "reply_count": 3,
+    "retweet_count": 461,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "sneak peek of today’s pounding😏\nhttps://t.co/jBg8pt4Tj4 https://t.co/TEeXIwf1Lk",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 22 00:16:39 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "NSFW 18+ only // just two college guys who like to fuck // http://onlyfans.com/bryceandalex //",
+      "favourites_count": 417,
+      "follow_request_sent": null,
+      "followers_count": 20412,
+      "following": null,
+      "friends_count": 171,
+      "geo_enabled": false,
+      "id": 1219775814587174913,
+      "id_str": "1219775814587174913",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 33,
+      "location": null,
+      "name": "Bryce & Alex",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219775814587174913/1579758746",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1219775993440681985/Erz7McTj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219775993440681985/Erz7McTj_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "AlexAndBryceXXX",
+      "statuses_count": 74,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://onlyfans.com/bryceandalex",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @AlexAndBryceXXX: sneak peek of today’s pounding😏\nhttps://t.co/jBg8pt4Tj4 https://t.co/TEeXIwf1Lk",
+  "timestamp_ms": "1600271646661",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Dec 18 09:52:10 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "19 ans, blond, bi, Paris",
+    "favourites_count": 1031,
+    "follow_request_sent": null,
+    "followers_count": 1388,
+    "following": null,
+    "friends_count": 309,
+    "geo_enabled": false,
+    "id": 1207237024903774208,
+    "id_str": "1207237024903774208",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "clem",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207237024903774208/1584723735",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1209438964173721600/JfzwMomG_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1209438964173721600/JfzwMomG_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "clem0216",
+    "statuses_count": 112,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061349041133457408",
+        "3_2061349042299502592",
+        "3_2061349045189410816",
+        "3_2061349047794073600"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061349067343704089",
+    "created_at": "2026-06-01T07:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T08:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061349067343704089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mIBamrmStW",
+          "end": 53,
+          "expanded_url": "https://x.com/clem0216/status/2061349067343704089/photo/1",
+          "media_key": "3_2061349041133457408",
+          "start": 30,
+          "url": "https://t.co/mIBamrmStW"
+        },
+        {
+          "display_url": "pic.x.com/mIBamrmStW",
+          "end": 53,
+          "expanded_url": "https://x.com/clem0216/status/2061349067343704089/photo/1",
+          "media_key": "3_2061349042299502592",
+          "start": 30,
+          "url": "https://t.co/mIBamrmStW"
+        },
+        {
+          "display_url": "pic.x.com/mIBamrmStW",
+          "end": 53,
+          "expanded_url": "https://x.com/clem0216/status/2061349067343704089/photo/1",
+          "media_key": "3_2061349045189410816",
+          "start": 30,
+          "url": "https://t.co/mIBamrmStW"
+        },
+        {
+          "display_url": "pic.x.com/mIBamrmStW",
+          "end": 53,
+          "expanded_url": "https://x.com/clem0216/status/2061349067343704089/photo/1",
+          "media_key": "3_2061349047794073600",
+          "start": 30,
+          "url": "https://t.co/mIBamrmStW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061349067343704089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "炸裂，我不说，谁知道这是小学生\n甚至还谈了一个20岁的黄毛 https://t.co/mIBamrmStW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2061349041133457408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtiCAraEAAf9Z9.jpg",
+        "width": 1078
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2061349042299502592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtiCFBagAAYsJr.jpg",
+        "width": 872
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2061349045189410816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtiCPybAAATUMm.jpg",
+        "width": 872
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2061349047794073600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtiCZfbAAA9PZM.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061349041133457408",
+            "3_2061349042299502592",
+            "3_2061349045189410816",
+            "3_2061349047794073600"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061349067343704089",
+        "created_at": "2026-06-01T07:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061349067343704089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mIBamrmStW",
+              "end": 53,
+              "expanded_url": "https://x.com/clem0216/status/2061349067343704089/photo/1",
+              "media_key": "3_2061349041133457408",
+              "start": 30,
+              "url": "https://t.co/mIBamrmStW"
+            },
+            {
+              "display_url": "pic.x.com/mIBamrmStW",
+              "end": 53,
+              "expanded_url": "https://x.com/clem0216/status/2061349067343704089/photo/1",
+              "media_key": "3_2061349042299502592",
+              "start": 30,
+              "url": "https://t.co/mIBamrmStW"
+            },
+            {
+              "display_url": "pic.x.com/mIBamrmStW",
+              "end": 53,
+              "expanded_url": "https://x.com/clem0216/status/2061349067343704089/photo/1",
+              "media_key": "3_2061349045189410816",
+              "start": 30,
+              "url": "https://t.co/mIBamrmStW"
+            },
+            {
+              "display_url": "pic.x.com/mIBamrmStW",
+              "end": 53,
+              "expanded_url": "https://x.com/clem0216/status/2061349067343704089/photo/1",
+              "media_key": "3_2061349047794073600",
+              "start": 30,
+              "url": "https://t.co/mIBamrmStW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061349067343704089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炸裂，我不说，谁知道这是小学生\n甚至还谈了一个20岁的黄毛 https://t.co/mIBamrmStW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 24,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 23
+        },
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

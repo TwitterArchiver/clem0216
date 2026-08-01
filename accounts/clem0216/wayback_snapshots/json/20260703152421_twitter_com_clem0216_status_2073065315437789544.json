@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073065285662461952",
+        "3_2073065283313684480"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2073065315437789544",
+    "created_at": "2026-07-03T15:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073065315437789544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IfCwxfzuCL",
+          "end": 51,
+          "expanded_url": "https://x.com/clem0216/status/2073065315437789544/photo/1",
+          "media_key": "3_2073065285662461952",
+          "start": 28,
+          "url": "https://t.co/IfCwxfzuCL"
+        },
+        {
+          "display_url": "pic.x.com/IfCwxfzuCL",
+          "end": 51,
+          "expanded_url": "https://x.com/clem0216/status/2073065315437789544/photo/1",
+          "media_key": "3_2073065283313684480",
+          "start": 28,
+          "url": "https://t.co/IfCwxfzuCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073065315437789544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药效呢，我药效去哪了，为什么只有头晕，没有欣快感，难受 https://t.co/IfCwxfzuCL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2073065285662461952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUB5Mwa0AA1VXx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073065283313684480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUB5EAbUAASwKO.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073065285662461952",
+            "3_2073065283313684480"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2073065315437789544",
+        "created_at": "2026-07-03T15:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073065315437789544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IfCwxfzuCL",
+              "end": 51,
+              "expanded_url": "https://x.com/clem0216/status/2073065315437789544/photo/1",
+              "media_key": "3_2073065285662461952",
+              "start": 28,
+              "url": "https://t.co/IfCwxfzuCL"
+            },
+            {
+              "display_url": "pic.x.com/IfCwxfzuCL",
+              "end": 51,
+              "expanded_url": "https://x.com/clem0216/status/2073065315437789544/photo/1",
+              "media_key": "3_2073065283313684480",
+              "start": 28,
+              "url": "https://t.co/IfCwxfzuCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073065315437789544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药效呢，我药效去哪了，为什么只有头晕，没有欣快感，难受 https://t.co/IfCwxfzuCL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 45,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

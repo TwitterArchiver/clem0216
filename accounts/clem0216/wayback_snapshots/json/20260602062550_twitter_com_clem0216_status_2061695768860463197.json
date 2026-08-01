@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2061655991142498406",
+    "created_at": "2026-06-02T06:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061695768860463197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1744267618947899393",
+          "start": 0,
+          "username": "MentorWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061695768860463197",
+    "in_reply_to_user_id": "1744267618947899393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061664090825842760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MentorWong 看样子测试成功了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2061655991142498406",
+        "created_at": "2026-06-02T06:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061695768860463197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1744267618947899393",
+              "start": 0,
+              "username": "MentorWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061695768860463197",
+        "in_reply_to_user_id": "1744267618947899393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061664090825842760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MentorWong 看样子测试成功了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744267618947899393",
+        "conversation_id": "2061655991142498406",
+        "created_at": "2026-06-02T04:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061664090825842760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061664090825842760",
+        "in_reply_to_user_id": "1744267618947899393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061655991142498406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此贴是为了测试一下，如果我假装日本人能带来流量不能，纯测试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 26,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 28
+        },
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T07:59:47.000Z",
+        "description": "Degen & Premium+ \nSubscribe me for $1 only! \nI post funny stuffs and mock the people who deserve it.",
+        "id": "1744267618947899393",
+        "location": "Seoul, South Korea ",
+        "name": "SifuWong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851498412581273602/LMOuJG7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9683,
+          "following_count": 10054,
+          "like_count": 16434,
+          "listed_count": 15,
+          "media_count": 310,
+          "tweet_count": 51051
+        },
+        "username": "MentorWong",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2079201302387810304",
+    "created_at": "2026-07-20T14:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079213757465755791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903104521624227841",
+          "start": 0,
+          "username": "PhonSng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079213757465755791",
+    "in_reply_to_user_id": "1903104521624227841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079213326392058156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhonSng 我之前试过10tpr，但也一样，除了有点晕的感觉就没了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2079201302387810304",
+        "created_at": "2026-07-20T14:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079213757465755791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903104521624227841",
+              "start": 0,
+              "username": "PhonSng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079213757465755791",
+        "in_reply_to_user_id": "1903104521624227841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079213326392058156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhonSng 我之前试过10tpr，但也一样，除了有点晕的感觉就没了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903104521624227841",
+        "conversation_id": "2079201302387810304",
+        "created_at": "2026-07-20T14:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079213326392058156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079213326392058156",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079213092270158184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 耐药了吧，可以再加一粒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 357,
+          "like_count": 7832,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 531
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:21:08.000Z",
+        "description": "LGBTQIA+友好/泛性恋-友跨🏳️‍⚧️/INTP-T/小楠孩/生产日期：2010.12.10/pr80重度依赖/欢迎来找我交朋友互fo/可以叫我橘猫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orangecatt2",
+                "end": 23,
+                "expanded_url": "http://t.me/orangecatt2",
+                "start": 0,
+                "url": "https://t.co/dLdtYJCxDO"
+              }
+            ]
+          }
+        },
+        "id": "1903104521624227841",
+        "location": "北京中南海",
+        "name": "caTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079175354380644352/-xJTXYXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 214,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 407
+        },
+        "url": "https://t.co/dLdtYJCxDO",
+        "username": "PhonSng",
+        "verified": false
+      }
+    ]
+  }
+}

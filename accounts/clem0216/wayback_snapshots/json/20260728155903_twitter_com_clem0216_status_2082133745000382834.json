@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2082123456431444253",
+    "created_at": "2026-07-28T15:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082133745000382834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2077517932532527104",
+          "start": 0,
+          "username": "_zz_h_dd_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082133745000382834",
+    "in_reply_to_user_id": "2077517932532527104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082123456431444253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_zz_h_dd_ 呜，帮你洗洗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2082123456431444253",
+        "created_at": "2026-07-28T15:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082133745000382834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2077517932532527104",
+              "start": 0,
+              "username": "_zz_h_dd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082133745000382834",
+        "in_reply_to_user_id": "2077517932532527104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082123456431444253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_zz_h_dd_ 呜，帮你洗洗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2082123456431444253",
+        "created_at": "2026-07-28T15:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082123456431444253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082123456431444253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉洗澡累死了 希望我坐在那边就有人给我洗头洗澡全部搞好。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 606,
+          "like_count": 12556,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 995
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 77,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      }
+    ]
+  }
+}

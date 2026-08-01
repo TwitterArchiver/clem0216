@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2076085786064433414",
+    "created_at": "2026-07-12T02:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076134458005279216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781893716183060480",
+          "start": 0,
+          "username": "akihiro_0313"
+        },
+        {
+          "end": 23,
+          "id": "1081839632831045632",
+          "start": 14,
+          "username": "H0neyBBB"
+        },
+        {
+          "end": 37,
+          "id": "1923785398528114688",
+          "start": 24,
+          "username": "rikka_ciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076134458005279216",
+    "in_reply_to_user_id": "1781893716183060480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076085786064433414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akihiro_0313 @H0neyBBB @rikka_ciallo 好耶，中奖了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 710,
+        "media_key": "3_2076084990463647744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-8TJwbIAAf6C1.jpg",
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2076085786064433414",
+        "created_at": "2026-07-12T02:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076134458005279216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            },
+            {
+              "end": 23,
+              "id": "1081839632831045632",
+              "start": 14,
+              "username": "H0neyBBB"
+            },
+            {
+              "end": 37,
+              "id": "1923785398528114688",
+              "start": 24,
+              "username": "rikka_ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076134458005279216",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076085786064433414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akihiro_0313 @H0neyBBB @rikka_ciallo 好耶，中奖了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076084990463647744"
+          ]
+        },
+        "author_id": "1781893716183060480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2076085786064433414",
+        "created_at": "2026-07-11T23:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T00:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076085786064433414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 107,
+              "id": "1883207896768651264",
+              "start": 98,
+              "username": "clem0216"
+            },
+            {
+              "end": 120,
+              "id": "1081839632831045632",
+              "start": 111,
+              "username": "H0neyBBB"
+            },
+            {
+              "end": 137,
+              "id": "1923785398528114688",
+              "start": 124,
+              "username": "rikka_ciallo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0dFAr3se1J",
+              "end": 161,
+              "expanded_url": "https://x.com/akihiro_0313/status/2076085786064433414/photo/1",
+              "media_key": "3_2076084990463647744",
+              "start": 138,
+              "url": "https://t.co/0dFAr3se1J"
+            },
+            {
+              "display_url": "x.com/akihiro_0313/s…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/akihiro_0313/status/2076084467366760591",
+              "start": 162,
+              "url": "https://t.co/MNfZlFUNTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076085786064433414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 107,
+                "id": "1883207896768651264",
+                "start": 98,
+                "username": "clem0216"
+              },
+              {
+                "end": 120,
+                "id": "1081839632831045632",
+                "start": 111,
+                "username": "H0neyBBB"
+              },
+              {
+                "end": 137,
+                "id": "1923785398528114688",
+                "start": 124,
+                "username": "rikka_ciallo"
+              }
+            ]
+          },
+          "text": "此次抽奖由 Gemini+GPT+Grok 保证公平性。\n\n恭喜以下用户中奖，请在24小时内回复私信。否则视为放弃此次抽奖权益，此次奖励发放方式为“赞赏码收款”，请提前准备好该收款方式。\n\n1组：@clem0216\n2组：@H0neyBBB\n3组：@rikka_ciallo"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076084467366760591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此次抽奖由 Gemini+GPT+Grok 保证公平性。\n\n恭喜以下用户中奖，请在24小时内回复私信。否则视为放弃此次抽奖权益，此次奖励发放方式为“赞赏码收款”，请提前准备好该收款方式。\n\n1组：@clem0216\n2组：@H0neyBBB\n3组：@rikka_ciallo https://t.co/0dFAr3se1J https://t.co/MNfZlFUNTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/我会回关每一个关注我的人",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 115,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "あきひろ ☄️\n🇨🇳｜15\n\n🌌 アニメと宇宙が好き\n💻 プログラミング\n✏️ 日本語勉強中\n\n気軽に絡んでください😼✨\n\n🐾 大切な親友がいます➰\n\nDM◎ & Telegram↓\nhttps://t.co/RV6X4WIAjP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/akihiro_0313",
+                "end": 115,
+                "expanded_url": "http://t.me/akihiro_0313",
+                "start": 92,
+                "url": "https://t.co/RV6X4WIAjP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akihiro0313",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akihiro0313",
+                "start": 0,
+                "url": "https://t.co/5zPAH9OdaS"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "location": "A happy world...",
+        "name": "💁あきひろくんです✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061123813845409792/vmhK_GSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 1314,
+          "like_count": 8555,
+          "listed_count": 0,
+          "media_count": 833,
+          "tweet_count": 6053
+        },
+        "url": "https://t.co/5zPAH9OdaS",
+        "username": "akihiro_0313",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-06T09:07:22.000Z",
+        "description": "枕边有狐，书中无梦。",
+        "id": "1081839632831045632",
+        "name": "狐枕书",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075259005744889856/Z7hoySmT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 331,
+          "like_count": 6314,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "H0neyBBB",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-17T16:59:26.000Z",
+        "description": "中国人です\ncs2、Yu-Gi-Oh! Master Duel、ブルアカ\n主号@_rikkadesu被盗号苟盗号发了一堆垃圾消息，现在被冻结",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "_rikkadesu"
+              }
+            ]
+          }
+        },
+        "id": "1923785398528114688",
+        "name": "普通的六花",
+        "pinned_tweet_id": "2073712797079531749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065382944395653121/0ETq4jY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 41,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "rikka_ciallo",
+        "verified": true
+      }
+    ]
+  }
+}

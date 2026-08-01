@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053372448540893184"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2053372693341487356",
+    "created_at": "2026-05-10T07:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053372693341487356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vVIgDTm8Zx",
+          "end": 38,
+          "expanded_url": "https://x.com/clem0216/status/2053372693341487356/photo/1",
+          "media_key": "3_2053372448540893184",
+          "start": 15,
+          "url": "https://t.co/vVIgDTm8Zx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053372693341487356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "加巴喷丁500t可总算是到了 https://t.co/vVIgDTm8Zx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053372448540893184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8LXNraoAAk0Ac.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053372448540893184"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2053372693341487356",
+        "created_at": "2026-05-10T07:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053372693341487356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vVIgDTm8Zx",
+              "end": 38,
+              "expanded_url": "https://x.com/clem0216/status/2053372693341487356/photo/1",
+              "media_key": "3_2053372448540893184",
+              "start": 15,
+              "url": "https://t.co/vVIgDTm8Zx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053372693341487356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加巴喷丁500t可总算是到了 https://t.co/vVIgDTm8Zx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052260311156285440/ot0DNT7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 21,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

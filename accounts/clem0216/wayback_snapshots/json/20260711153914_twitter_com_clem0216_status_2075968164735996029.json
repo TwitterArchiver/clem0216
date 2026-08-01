@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075496420506017792"
+      ],
+      "media_source_tweet_id": [
+        "2075496424348020871"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2075968164735996029",
+    "created_at": "2026-07-11T15:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075968164735996029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041105674005094400",
+          "start": 3,
+          "username": "ririlq9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FYKu7UucPC",
+          "end": 40,
+          "expanded_url": "https://x.com/ririlq9/status/2075496424348020871/photo/1",
+          "media_key": "3_2075496420506017792",
+          "start": 17,
+          "url": "https://t.co/FYKu7UucPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075968164735996029",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075496424348020871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ririlq9: 好き？ https://t.co/FYKu7UucPC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2075496420506017792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2k_3zbIAAtQWC.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075496420506017792"
+          ],
+          "media_source_tweet_id": [
+            "2075496424348020871"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2075968164735996029",
+        "created_at": "2026-07-11T15:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075968164735996029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041105674005094400",
+              "start": 3,
+              "username": "ririlq9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYKu7UucPC",
+              "end": 40,
+              "expanded_url": "https://x.com/ririlq9/status/2075496424348020871/photo/1",
+              "media_key": "3_2075496420506017792",
+              "start": 17,
+              "url": "https://t.co/FYKu7UucPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075968164735996029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075496424348020871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ririlq9: 好き？ https://t.co/FYKu7UucPC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075496420506017792"
+          ]
+        },
+        "author_id": "2041105674005094400",
+        "conversation_id": "2075496424348020871",
+        "created_at": "2026-07-10T08:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075496424348020871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYKu7UucPC",
+              "end": 27,
+              "expanded_url": "https://x.com/ririlq9/status/2075496424348020871/photo/1",
+              "media_key": "3_2075496420506017792",
+              "start": 4,
+              "url": "https://t.co/FYKu7UucPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075496424348020871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 5892,
+          "like_count": 737,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "好き？ https://t.co/FYKu7UucPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/我会回关每一个关注我的人",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 112,
+          "like_count": 682,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T10:48:48.000Z",
+        "description": "￤07￤♀︎￤義務教育済￤躁鬱￤日常￤病み￤ニディガ￤ペアヘッダーしてる親友🩷🖤❥⋯▶︎ @clari_o0 ￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "clari_o0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/aak8j9mbsq59n9…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/aak8j9mbsq59n9x?t=P0LejS&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/8tYQm1240N"
+              }
+            ]
+          }
+        },
+        "id": "2041105674005094400",
+        "location": "インターネットという海の中で私を見つけてくれてありがとな",
+        "name": "𝒶𝓂𝑒 🎀໒꒱♡",
+        "pinned_tweet_id": "2073299583627919500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073326155411881984/Ax55qXhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 167,
+          "like_count": 1659,
+          "listed_count": 3,
+          "media_count": 274,
+          "tweet_count": 2347
+        },
+        "url": "https://t.co/8tYQm1240N",
+        "username": "ririlq9",
+        "verified": false
+      }
+    ]
+  }
+}

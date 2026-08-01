@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079176158588063744"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2079176195292451270",
+    "created_at": "2026-07-20T12:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079176195292451270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RYY0vztgUE",
+          "end": 34,
+          "expanded_url": "https://x.com/clem0216/status/2079176195292451270/photo/1",
+          "media_key": "3_2079176158588063744",
+          "start": 11,
+          "url": "https://t.co/RYY0vztgUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079176195292451270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "4tpr+10t加巴 https://t.co/RYY0vztgUE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2079176158588063744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq3s0YaUAAZzzs.jpg",
+        "width": 1840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079176158588063744"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2079176195292451270",
+        "created_at": "2026-07-20T12:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079176195292451270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RYY0vztgUE",
+              "end": 34,
+              "expanded_url": "https://x.com/clem0216/status/2079176195292451270/photo/1",
+              "media_key": "3_2079176158588063744",
+              "start": 11,
+              "url": "https://t.co/RYY0vztgUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079176195292451270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4tpr+10t加巴 https://t.co/RYY0vztgUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 355,
+          "like_count": 7784,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 516
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

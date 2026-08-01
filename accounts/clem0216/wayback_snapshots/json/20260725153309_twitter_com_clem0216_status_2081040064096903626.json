@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2081006631782130156",
+    "created_at": "2026-07-25T15:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081040064096903626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2068562397288411136",
+          "start": 0,
+          "username": "bushigemenq"
+        },
+        {
+          "end": 23,
+          "id": "1967736228725575681",
+          "start": 13,
+          "username": "shier6639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081040064096903626",
+    "in_reply_to_user_id": "2068562397288411136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081038701040484839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bushigemenq @shier6639 加巴喷丁的话需要分段吃，并且一次性还不能吃太多。剂量越大药效越小，反之剂量越小药效越大。但是我不管怎么样o，都没什么药效"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2081006631782130156",
+        "created_at": "2026-07-25T15:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081040064096903626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2068562397288411136",
+              "start": 0,
+              "username": "bushigemenq"
+            },
+            {
+              "end": 23,
+              "id": "1967736228725575681",
+              "start": 13,
+              "username": "shier6639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081040064096903626",
+        "in_reply_to_user_id": "2068562397288411136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081038701040484839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushigemenq @shier6639 加巴喷丁的话需要分段吃，并且一次性还不能吃太多。剂量越大药效越小，反之剂量越小药效越大。但是我不管怎么样o，都没什么药效"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068562397288411136",
+        "conversation_id": "2081006631782130156",
+        "created_at": "2026-07-25T15:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081038701040484839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            },
+            {
+              "end": 20,
+              "id": "1967736228725575681",
+              "start": 10,
+              "username": "shier6639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081038701040484839",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081016226789142745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 @shier6639 加巴喷丁吃起来啥效果🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo / 09 / 重抑郁 / 中焦虑 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xiaoshanruixig1",
+                "end": 23,
+                "expanded_url": "https://x.com/xiaoshanruixig1",
+                "start": 0,
+                "url": "https://t.co/pYRJe7v0oT"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2080621541168124362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 460,
+          "like_count": 10144,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/pYRJe7v0oT",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-21T05:13:15.000Z",
+        "description": "友跨，然后不知道写什么了",
+        "id": "2068562397288411136",
+        "location": "山东中华人民共和国",
+        "name": "红透烟尘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068991153085759488/gRldL3yB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 102,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "bushigemenq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T23:44:17.000Z",
+        "description": "",
+        "id": "1967736228725575681",
+        "name": "十二点",
+        "pinned_tweet_id": "2077404107611205678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076650614541737984/StRKTJau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 162,
+          "like_count": 2866,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 702
+        },
+        "url": "",
+        "username": "shier6639",
+        "verified": false
+      }
+    ]
+  }
+}

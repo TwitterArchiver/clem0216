@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2077337041642385548",
+    "created_at": "2026-07-15T10:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077337041642385548"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077337041642385548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你已经被吸血鬼咬了，通过上千年的演化，已经做到了完全融入了人类社会。通过吸血鬼和人类的结合诞下的新一代吸血鬼后代，已经克服了惧怕阳光的弱点\n仔细想想你是不是害怕紫外线，每次出门都要打伞或涂防晒霜。不喜欢大蒜味嘴里虎牙很明显\n如果以上特征都满足那么你可能是吸血鬼或者已经被吸血鬼感染。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2077337041642385548",
+        "created_at": "2026-07-15T10:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077337041642385548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077337041642385548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你已经被吸血鬼咬了，通过上千年的演化，已经做到了完全融入了人类社会。通过吸血鬼和人类的结合诞下的新一代吸血鬼后代，已经克服了惧怕阳光的弱点\n仔细想想你是不是害怕紫外线，每次出门都要打伞或涂防晒霜。不喜欢大蒜味嘴里虎牙很明显\n如果以上特征都满足那么你可能是吸血鬼或者已经被吸血鬼感染。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo/没回fo请私信",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 200,
+          "like_count": 3061,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 304
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

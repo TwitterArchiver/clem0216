@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2079195692023816307",
+    "created_at": "2026-07-20T13:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079195692023816307"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079195692023816307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这里有个填空，I want to ki_ _ you。但按有些产品的关系亲密没到kiss的程度，反感没到kill的程度，只能是填成kick，我想踢你你想踢我，谁也见不得谁好。但这种互相打闹又好像成为了两个人撑下去和前进的动力，这听起来有点荒谬：我跋涉千万里跨越生死间，当然是为了再多踢几次你的屁股。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2079195692023816307",
+        "created_at": "2026-07-20T13:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079195692023816307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079195692023816307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里有个填空，I want to ki_ _ you。但按有些产品的关系亲密没到kiss的程度，反感没到kill的程度，只能是填成kick，我想踢你你想踢我，谁也见不得谁好。但这种互相打闹又好像成为了两个人撑下去和前进的动力，这听起来有点荒谬：我跋涉千万里跨越生死间，当然是为了再多踢几次你的屁股。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 356,
+          "like_count": 7781,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

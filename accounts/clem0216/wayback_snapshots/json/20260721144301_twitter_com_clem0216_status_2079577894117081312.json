@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2079575780200509793",
+    "created_at": "2026-07-21T14:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079577894117081312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037086952034566144",
+          "start": 0,
+          "username": "tsingin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079577894117081312",
+    "in_reply_to_user_id": "2037086952034566144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079576798627856849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsingin1 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2079575780200509793",
+        "created_at": "2026-07-21T14:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079577894117081312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037086952034566144",
+              "start": 0,
+              "username": "tsingin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079577894117081312",
+        "in_reply_to_user_id": "2037086952034566144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079576798627856849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsingin1 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037086952034566144",
+        "conversation_id": "2079575780200509793",
+        "created_at": "2026-07-21T14:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079576798627856849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079576798627856849",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079575780200509793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 抱抱喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 403,
+          "like_count": 8572,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T08:39:20.000Z",
+        "description": "国家：🇨🇳\n互fo\n另一个号：@tsingin2\n抱有好感的国家：🇫🇷🇨🇺🇩🇪🇯🇵🇰🇷🇬🇧🇺🇸🇷🇺\n最喜欢的政治角色：孙中山\n思想倾向：偏保守\n喜欢的虚拟角色：洛天依 初音未来\n最喜欢的游戏：永劫无间 维多利亚3 pjsk phigros Milthm cytus2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "tsingin2"
+              }
+            ]
+          }
+        },
+        "id": "2037086952034566144",
+        "name": "初白洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037087090442399744/iJjauX6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 49,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "tsingin1",
+        "verified": false
+      }
+    ]
+  }
+}

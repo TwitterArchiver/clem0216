@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2073827381887037745",
+    "created_at": "2026-07-05T17:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073827381887037745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LingJiaXin233/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/LingJiaXin233/status/2073419664428802179",
+          "start": 9,
+          "url": "https://t.co/CZyvexcgQA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073827381887037745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073419664428802179",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁把我的爱做了？ https://t.co/CZyvexcgQA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 670,
+        "media_key": "3_2073419655998259200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZEMRIWwAAXvQb.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2073827381887037745",
+        "created_at": "2026-07-05T17:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073827381887037745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LingJiaXin233/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/LingJiaXin233/status/2073419664428802179",
+              "start": 9,
+              "url": "https://t.co/CZyvexcgQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073827381887037745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073419664428802179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁把我的爱做了？ https://t.co/CZyvexcgQA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073419655998259200"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2073419664428802179",
+        "created_at": "2026-07-04T14:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073419664428802179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzO2OfTznV",
+              "end": 32,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2073419664428802179/photo/1",
+              "media_key": "3_2073419655998259200",
+              "start": 9,
+              "url": "https://t.co/GzO2OfTznV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073419664428802179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 200243,
+          "like_count": 2084,
+          "quote_count": 10,
+          "reply_count": 349,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "谁把我的爱做了？ https://t.co/GzO2OfTznV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 59,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//接受投稿，投稿请私信//各位在X玩的开心！",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2069052806779043991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7808,
+          "following_count": 555,
+          "like_count": 19895,
+          "listed_count": 17,
+          "media_count": 2645,
+          "tweet_count": 6160
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2079575780200509793",
+    "created_at": "2026-07-21T14:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079578521744314728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2062758646141054976",
+          "start": 0,
+          "username": "Chuiertu_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079578521744314728",
+    "in_reply_to_user_id": "2062758646141054976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079578383000936737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chuiertu_chan 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2079575780200509793",
+        "created_at": "2026-07-21T14:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079578521744314728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2062758646141054976",
+              "start": 0,
+              "username": "Chuiertu_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079578521744314728",
+        "in_reply_to_user_id": "2062758646141054976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079578383000936737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chuiertu_chan 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062758646141054976",
+        "conversation_id": "2079575780200509793",
+        "created_at": "2026-07-21T14:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079578383000936737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079578383000936737",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079575780200509793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 抱抱你呀宝宝…不用再自卑了你特别好呀🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 403,
+          "like_count": 8575,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 628
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T04:50:25.000Z",
+        "description": "坏蛋世界。双子星@AkiraTT_chan \n互fo请私信呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "AkiraTT_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Chuiertu_chan",
+                "end": 23,
+                "expanded_url": "http://t.me/Chuiertu_chan",
+                "start": 0,
+                "url": "https://t.co/og70qcUDvV"
+              }
+            ]
+          }
+        },
+        "id": "2062758646141054976",
+        "name": "Akira_晓",
+        "pinned_tweet_id": "2076665457273180666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076663312704512000/9fIpz77U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 97,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/og70qcUDvV",
+        "username": "Chuiertu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

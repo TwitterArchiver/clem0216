@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072352246302691328",
+        "3_2072352283489427456"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2072352307485011999",
+    "created_at": "2026-07-01T16:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072352307485011999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lTC0RpoC4Y",
+          "end": 31,
+          "expanded_url": "https://x.com/clem0216/status/2072352307485011999/photo/1",
+          "media_key": "3_2072352246302691328",
+          "start": 8,
+          "url": "https://t.co/lTC0RpoC4Y"
+        },
+        {
+          "display_url": "pic.x.com/lTC0RpoC4Y",
+          "end": 31,
+          "expanded_url": "https://x.com/clem0216/status/2072352307485011999/photo/1",
+          "media_key": "3_2072352283489427456",
+          "start": 8,
+          "url": "https://t.co/lTC0RpoC4Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072352307485011999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挂个性压抑男🌚 https://t.co/lTC0RpoC4Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072352246302691328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJ5Y2Ja0AAz1j8.jpg",
+        "width": 290
+      },
+      {
+        "height": 2106,
+        "media_key": "3_2072352283489427456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJ5bArbYAAqcL_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072352246302691328",
+            "3_2072352283489427456"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2072352307485011999",
+        "created_at": "2026-07-01T16:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072352307485011999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTC0RpoC4Y",
+              "end": 31,
+              "expanded_url": "https://x.com/clem0216/status/2072352307485011999/photo/1",
+              "media_key": "3_2072352246302691328",
+              "start": 8,
+              "url": "https://t.co/lTC0RpoC4Y"
+            },
+            {
+              "display_url": "pic.x.com/lTC0RpoC4Y",
+              "end": 31,
+              "expanded_url": "https://x.com/clem0216/status/2072352307485011999/photo/1",
+              "media_key": "3_2072352283489427456",
+              "start": 8,
+              "url": "https://t.co/lTC0RpoC4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072352307485011999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂个性压抑男🌚 https://t.co/lTC0RpoC4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 32,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

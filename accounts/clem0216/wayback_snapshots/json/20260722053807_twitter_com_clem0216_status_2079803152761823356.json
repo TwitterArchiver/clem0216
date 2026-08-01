@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2079798700994703486",
+    "created_at": "2026-07-22T05:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079803152761823356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1497213290706968576",
+          "start": 0,
+          "username": "Sylvielove2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079803152761823356",
+    "in_reply_to_user_id": "1497213290706968576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079798700994703486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sylvielove2022 羡慕了，呜呜😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2079798552868630528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNztw7wbMAAlyKC.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2079798700994703486",
+        "created_at": "2026-07-22T05:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079803152761823356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1497213290706968576",
+              "start": 0,
+              "username": "Sylvielove2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079803152761823356",
+        "in_reply_to_user_id": "1497213290706968576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079798700994703486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvielove2022 羡慕了，呜呜😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079798552868630528"
+          ]
+        },
+        "author_id": "1497213290706968576",
+        "conversation_id": "2079798700994703486",
+        "created_at": "2026-07-22T05:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079798700994703486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJlUBeFz5K",
+              "end": 51,
+              "expanded_url": "https://x.com/Sylvielove2022/status/2079798700994703486/photo/1",
+              "media_key": "3_2079798552868630528",
+              "start": 28,
+              "url": "https://t.co/bJlUBeFz5K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079798700994703486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么随便发个早安能有这么多点赞和浏览，这真的正常嘛？ https://t.co/bJlUBeFz5K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo / 09 / 重抑郁 / 中焦虑 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xiaoshanruixig1",
+                "end": 23,
+                "expanded_url": "https://x.com/xiaoshanruixig1",
+                "start": 0,
+                "url": "https://t.co/pYRJe7v0oT"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 418,
+          "like_count": 9073,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/pYRJe7v0oT",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T14:14:29.000Z",
+        "description": "别担心，我在这里",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sylvie87078",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sylvie87078",
+                "start": 0,
+                "url": "https://t.co/hRi0Xepa1R"
+              }
+            ]
+          }
+        },
+        "id": "1497213290706968576",
+        "location": "众神眷恋的幻想乡",
+        "name": "白砂糖Sylvie🏳‍⚧",
+        "pinned_tweet_id": "2077507103045149022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077506762668949504/pWKm6xZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 2003,
+          "like_count": 21303,
+          "listed_count": 4,
+          "media_count": 2464,
+          "tweet_count": 9255
+        },
+        "url": "https://t.co/hRi0Xepa1R",
+        "username": "Sylvielove2022",
+        "verified": true
+      }
+    ]
+  }
+}

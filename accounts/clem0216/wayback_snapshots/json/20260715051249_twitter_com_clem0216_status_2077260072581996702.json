@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2077233972481065325",
+    "created_at": "2026-07-15T05:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077260072581996702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510099512034922497",
+          "start": 0,
+          "username": "CCskadoodle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077260072581996702",
+    "in_reply_to_user_id": "1510099512034922497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077257053396140318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCskadoodle 也有烧烧的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2077233972481065325",
+        "created_at": "2026-07-15T05:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077260072581996702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510099512034922497",
+              "start": 0,
+              "username": "CCskadoodle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077260072581996702",
+        "in_reply_to_user_id": "1510099512034922497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077257053396140318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCskadoodle 也有烧烧的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510099512034922497",
+        "conversation_id": "2077233972481065325",
+        "created_at": "2026-07-15T05:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077257053396140318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077257053396140318",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077233972481065325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 😰为什么不是烧烧的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo/没回fo请私信",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 186,
+          "like_count": 2652,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 294
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T03:39:26.000Z",
+        "description": "Type Moon大好き！\n最喜欢👁️👁️别人，还有型月一切相关❤️\nGameplay best love 基本上什么类型都玩，galgame也很喜欢，还有科幻小说…\nFGO or anything😊\n❤️❤️Love from Kohaku❤️❤️💊\nBTW May the force be with u！",
+        "id": "1510099512034922497",
+        "location": "迦蓝之堂",
+        "name": "C.C👑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075596255309496320/nC-CoIsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 227,
+          "like_count": 2465,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "CCskadoodle",
+        "verified": true
+      }
+    ]
+  }
+}

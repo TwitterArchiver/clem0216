@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073049830432387072",
+        "3_2073049830554034176"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2073049844042887169",
+    "created_at": "2026-07-03T14:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073049844042887169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q96cEbvhv1",
+          "end": 28,
+          "expanded_url": "https://x.com/clem0216/status/2073049844042887169/photo/1",
+          "media_key": "3_2073049830432387072",
+          "start": 5,
+          "url": "https://t.co/q96cEbvhv1"
+        },
+        {
+          "display_url": "pic.x.com/q96cEbvhv1",
+          "end": 28,
+          "expanded_url": "https://x.com/clem0216/status/2073049844042887169/photo/1",
+          "media_key": "3_2073049830554034176",
+          "start": 5,
+          "url": "https://t.co/q96cEbvhv1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073049844042887169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太猎奇了 https://t.co/q96cEbvhv1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2073049830432387072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTz1libMAAl6H9.jpg",
+        "width": 492
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2073049830554034176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTz1l_bYAAcezU.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073049830432387072",
+            "3_2073049830554034176"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2073049844042887169",
+        "created_at": "2026-07-03T14:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073049844042887169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q96cEbvhv1",
+              "end": 28,
+              "expanded_url": "https://x.com/clem0216/status/2073049844042887169/photo/1",
+              "media_key": "3_2073049830432387072",
+              "start": 5,
+              "url": "https://t.co/q96cEbvhv1"
+            },
+            {
+              "display_url": "pic.x.com/q96cEbvhv1",
+              "end": 28,
+              "expanded_url": "https://x.com/clem0216/status/2073049844042887169/photo/1",
+              "media_key": "3_2073049830554034176",
+              "start": 5,
+              "url": "https://t.co/q96cEbvhv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073049844042887169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太猎奇了 https://t.co/q96cEbvhv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 45,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

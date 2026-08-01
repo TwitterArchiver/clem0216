@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078138738396508160"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2078138741194174812",
+    "created_at": "2026-07-17T15:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078138741194174812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0RBVp460rb",
+          "end": 42,
+          "expanded_url": "https://x.com/clem0216/status/2078138741194174812/photo/1",
+          "media_key": "3_2078138738396508160",
+          "start": 19,
+          "url": "https://t.co/0RBVp460rb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078138741194174812",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猜猜看今晚的宵夜是什么\n小酒当配菜😋 https://t.co/0RBVp460rb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2078138738396508160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcILBAaMAA2QR8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078138738396508160"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078138741194174812",
+        "created_at": "2026-07-17T15:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078138741194174812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RBVp460rb",
+              "end": 42,
+              "expanded_url": "https://x.com/clem0216/status/2078138741194174812/photo/1",
+              "media_key": "3_2078138738396508160",
+              "start": 19,
+              "url": "https://t.co/0RBVp460rb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078138741194174812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜看今晚的宵夜是什么\n小酒当配菜😋 https://t.co/0RBVp460rb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 280,
+          "like_count": 5768,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

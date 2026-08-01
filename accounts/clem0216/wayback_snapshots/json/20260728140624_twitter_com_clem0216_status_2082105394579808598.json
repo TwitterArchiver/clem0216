@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2082104429919322306",
+    "created_at": "2026-07-28T14:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082105394579808598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1891722301584048128",
+          "start": 0,
+          "username": "8964shrimp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082105394579808598",
+    "in_reply_to_user_id": "1891722301584048128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082104429919322306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@8964shrimp 医用手指套"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082104399628034048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUe64UbYAA7H6E.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2082104429919322306",
+        "created_at": "2026-07-28T14:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082105394579808598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1891722301584048128",
+              "start": 0,
+              "username": "8964shrimp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082105394579808598",
+        "in_reply_to_user_id": "1891722301584048128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082104429919322306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@8964shrimp 医用手指套"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082104399628034048"
+          ]
+        },
+        "author_id": "1891722301584048128",
+        "conversation_id": "2082104429919322306",
+        "created_at": "2026-07-28T14:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082104429919322306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/46clHKYmoM",
+              "end": 29,
+              "expanded_url": "https://x.com/8964shrimp/status/2082104429919322306/photo/1",
+              "media_key": "3_2082104399628034048",
+              "start": 6,
+              "url": "https://t.co/46clHKYmoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082104429919322306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "猜這幹啥的 https://t.co/46clHKYmoM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 602,
+          "like_count": 12451,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 976
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-18T05:32:05.000Z",
+        "description": "最愛的雨夏老婆：@xiyu86｜友順mtx/f？|自殺干預｜蝦的精神狀態基本穩定 難受了可以找我聊天｜持證含糖：2025.3.12｜單車佬｜雙向｜酸民退散｜政治立場❌政治迷因🉑選擇性互fo\n發癲帳號：@RainKawaii8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "xiyu86"
+              },
+              {
+                "end": 115,
+                "start": 100,
+                "username": "RainKawaii8964"
+              }
+            ]
+          }
+        },
+        "id": "1891722301584048128",
+        "location": "月球",
+        "name": "蝦蝦醬🏳️‍⚧️",
+        "pinned_tweet_id": "2076900555994349722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062537785681362944/QpoDPa-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 663,
+          "like_count": 14137,
+          "listed_count": 3,
+          "media_count": 412,
+          "tweet_count": 2652
+        },
+        "url": "",
+        "username": "8964shrimp",
+        "verified": true
+      }
+    ]
+  }
+}

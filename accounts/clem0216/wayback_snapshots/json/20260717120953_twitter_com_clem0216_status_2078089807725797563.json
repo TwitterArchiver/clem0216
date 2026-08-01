@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078089804957560832"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2078046316081426709",
+    "created_at": "2026-07-17T12:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078089807725797563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1579442033483075584",
+          "start": 0,
+          "username": "26suversider"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZlzZ324QMx",
+          "end": 78,
+          "expanded_url": "https://x.com/clem0216/status/2078089807725797563/photo/1",
+          "media_key": "3_2078089804957560832",
+          "start": 55,
+          "url": "https://t.co/ZlzZ324QMx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078089807725797563",
+    "in_reply_to_user_id": "1579442033483075584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078046316081426709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@26suversider 你知道鸡哥吗？大名鼎鼎的那个，他就是因为吃晚安吃的出现幻觉成鸡了( )应该是这样 https://t.co/ZlzZ324QMx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_2078089804957560832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbbqtvbMAAOKCn.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078089804957560832"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2078046316081426709",
+        "created_at": "2026-07-17T12:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078089807725797563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579442033483075584",
+              "start": 0,
+              "username": "26suversider"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZlzZ324QMx",
+              "end": 78,
+              "expanded_url": "https://x.com/clem0216/status/2078089807725797563/photo/1",
+              "media_key": "3_2078089804957560832",
+              "start": 55,
+              "url": "https://t.co/ZlzZ324QMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078089807725797563",
+        "in_reply_to_user_id": "1579442033483075584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078046316081426709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@26suversider 你知道鸡哥吗？大名鼎鼎的那个，他就是因为吃晚安吃的出现幻觉成鸡了( )应该是这样 https://t.co/ZlzZ324QMx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579442033483075584",
+        "conversation_id": "2078046316081426709",
+        "created_at": "2026-07-17T09:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078046316081426709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078046316081426709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1773,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃晚安会变鸡到底是啥意思有没有人给我解码一下？？。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 275,
+          "like_count": 5642,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 420
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活\n🚪38纯绿聊天朋友圈\n\nhttps://t.co/bRRAIqGEOS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sukieu1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/sukieu1",
+                "start": 21,
+                "url": "https://t.co/bRRAIqGEOS"
+              }
+            ]
+          }
+        },
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧",
+        "pinned_tweet_id": "2065793737977127349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069652627575414784/Z7qSci36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 133,
+          "like_count": 962,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1059
+        },
+        "url": "",
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}

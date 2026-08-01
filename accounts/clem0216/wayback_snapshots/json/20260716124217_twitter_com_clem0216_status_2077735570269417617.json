@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077735567908110337"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2077735570269417617",
+    "created_at": "2026-07-16T12:42:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:42:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077735570269417617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/34QaRD3mGz",
+          "end": 60,
+          "expanded_url": "https://x.com/clem0216/status/2077735570269417617/photo/1",
+          "media_key": "3_2077735567908110337",
+          "start": 37,
+          "url": "https://t.co/34QaRD3mGz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077735570269417617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是谁？到底是谁！？\n是你吗\n还是要感谢大佬的投喂，嘻嘻\n每天都要开心呀！ https://t.co/34QaRD3mGz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077735567908110337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWZfZ5bgAEdQFH.jpg",
+        "width": 787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077735567908110337"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2077735570269417617",
+        "created_at": "2026-07-16T12:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077735570269417617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/34QaRD3mGz",
+              "end": 60,
+              "expanded_url": "https://x.com/clem0216/status/2077735570269417617/photo/1",
+              "media_key": "3_2077735567908110337",
+              "start": 37,
+              "url": "https://t.co/34QaRD3mGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077735570269417617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是谁？到底是谁！？\n是你吗\n还是要感谢大佬的投喂，嘻嘻\n每天都要开心呀！ https://t.co/34QaRD3mGz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分互fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 246,
+          "like_count": 4835,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 382
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

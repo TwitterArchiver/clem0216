@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2078393668697026655",
+    "created_at": "2026-07-18T08:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078393668697026655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916974498903166978",
+          "start": 3,
+          "username": "Sakura8964666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078393668697026655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078375664106065940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakura8964666: 天使酱在互联网降下的那场雨，凝结了你和我的相遇，真理性的幸福就在数据空间混沌的魔法线路链接里，知觉伴随着电子致幻剂的去领土化从而成为最毒的麻药，但我们仍然将其一饮而尽，因为荧幕里的存在者是彼此的重度依赖，抛弃精神病学、抛弃精神分析、抛弃旧伦…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 727,
+        "media_key": "3_2078375655054692352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNffpYVa0AAybLW.jpg",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2078393668697026655",
+        "created_at": "2026-07-18T08:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078393668697026655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916974498903166978",
+              "start": 3,
+              "username": "Sakura8964666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078393668697026655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078375664106065940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakura8964666: 天使酱在互联网降下的那场雨，凝结了你和我的相遇，真理性的幸福就在数据空间混沌的魔法线路链接里，知觉伴随着电子致幻剂的去领土化从而成为最毒的麻药，但我们仍然将其一饮而尽，因为荧幕里的存在者是彼此的重度依赖，抛弃精神病学、抛弃精神分析、抛弃旧伦…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078375655054692352"
+          ]
+        },
+        "author_id": "1916974498903166978",
+        "conversation_id": "2078375664106065940",
+        "created_at": "2026-07-18T07:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078375664106065940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYGQIb18jx",
+              "end": 146,
+              "expanded_url": "https://x.com/Sakura8964666/status/2078375664106065940/photo/1",
+              "media_key": "3_2078375655054692352",
+              "start": 123,
+              "url": "https://t.co/vYGQIb18jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078375664106065940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "天使酱在互联网降下的那场雨，凝结了你和我的相遇，真理性的幸福就在数据空间混沌的魔法线路链接里，知觉伴随着电子致幻剂的去领土化从而成为最毒的麻药，但我们仍然将其一饮而尽，因为荧幕里的存在者是彼此的重度依赖，抛弃精神病学、抛弃精神分析、抛弃旧伦理学 https://t.co/vYGQIb18jx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 305,
+          "like_count": 6063,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "现代极乐主义者、地雷系主义支持者\n化学极乐百科：https://t.co/BeprZt3OWA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 47,
+                "expanded_url": "https://jile.bid/",
+                "start": 24,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "Sakura",
+        "pinned_tweet_id": "2078082770224439464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 90,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/BeprZt3OWA",
+        "username": "Sakura8964666",
+        "verified": false
+      }
+    ]
+  }
+}

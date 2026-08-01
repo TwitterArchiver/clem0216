@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075556431915536384"
+      ],
+      "media_source_tweet_id": [
+        "2075556438102188193"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2075968438179442849",
+    "created_at": "2026-07-11T15:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075968438179442849"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "ニディガ"
+        },
+        {
+          "end": 49,
+          "start": 39,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048306284550828032",
+          "start": 3,
+          "username": "xx_r41n_xx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qAia7bnQgv",
+          "end": 73,
+          "expanded_url": "https://x.com/xx_r41n_xx/status/2075556438102188193/photo/1",
+          "media_key": "3_2075556431915536384",
+          "start": 50,
+          "url": "https://t.co/qAia7bnQgv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075968438179442849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 207
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075556438102188193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xx_r41n_xx: 自撮りしてるから話しかけないで\n\n#ニディガ\n#NEEDY_pic https://t.co/qAia7bnQgv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2075556431915536384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3bk_uaUAAMknO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075556431915536384"
+          ],
+          "media_source_tweet_id": [
+            "2075556438102188193"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2075968438179442849",
+        "created_at": "2026-07-11T15:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075968438179442849"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 49,
+              "start": 39,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048306284550828032",
+              "start": 3,
+              "username": "xx_r41n_xx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAia7bnQgv",
+              "end": 73,
+              "expanded_url": "https://x.com/xx_r41n_xx/status/2075556438102188193/photo/1",
+              "media_key": "3_2075556431915536384",
+              "start": 50,
+              "url": "https://t.co/qAia7bnQgv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075968438179442849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075556438102188193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xx_r41n_xx: 自撮りしてるから話しかけないで\n\n#ニディガ\n#NEEDY_pic https://t.co/qAia7bnQgv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075556431915536384"
+          ]
+        },
+        "author_id": "2048306284550828032",
+        "conversation_id": "2075556438102188193",
+        "created_at": "2026-07-10T12:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075556438102188193"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAia7bnQgv",
+              "end": 57,
+              "expanded_url": "https://x.com/xx_r41n_xx/status/2075556438102188193/photo/1",
+              "media_key": "3_2075556431915536384",
+              "start": 34,
+              "url": "https://t.co/qAia7bnQgv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075556438102188193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 27875,
+          "like_count": 3336,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 207
+        },
+        "reply_settings": "everyone",
+        "text": "自撮りしてるから話しかけないで\n\n#ニディガ\n#NEEDY_pic https://t.co/qAia7bnQgv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/我会回关每一个关注我的人",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 112,
+          "like_count": 683,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T07:44:21.000Z",
+        "description": "",
+        "id": "2048306284550828032",
+        "name": "一般黒髪女性",
+        "pinned_tweet_id": "2071913929568358876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048307265200160768/6XSvZMxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 14,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "xx_r41n_xx",
+        "verified": false
+      }
+    ]
+  }
+}

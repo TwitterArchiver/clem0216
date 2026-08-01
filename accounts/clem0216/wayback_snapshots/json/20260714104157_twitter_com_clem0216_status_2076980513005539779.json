@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2076609295656120616",
+    "created_at": "2026-07-14T10:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076980513005539779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1878828387369926656",
+          "start": 0,
+          "username": "hmj404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076980513005539779",
+    "in_reply_to_user_id": "1878828387369926656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076979240193634677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hmj404 蟹蟹你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2076609295656120616",
+        "created_at": "2026-07-14T10:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076980513005539779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878828387369926656",
+              "start": 0,
+              "username": "hmj404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076980513005539779",
+        "in_reply_to_user_id": "1878828387369926656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076979240193634677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hmj404 蟹蟹你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878828387369926656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2076609295656120616",
+        "created_at": "2026-07-14T10:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076979240193634677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076979240193634677",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076609295656120616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 我以前华为nova10，需要进开发者模式关掉几个，翻墙tg和推都能用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 150,
+          "like_count": 1717,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T15:36:29.000Z",
+        "description": "我自己的试卷 乱写也是满分/我是负能推请block我/联系方式https://t.co/dj3lGEzAi7 / ⬇️提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hmj404",
+                "end": 54,
+                "expanded_url": "http://t.me/hmj404",
+                "start": 31,
+                "url": "https://t.co/dj3lGEzAi7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hmj404",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hmj404",
+                "start": 0,
+                "url": "https://t.co/mdOBMXZ5La"
+              }
+            ]
+          }
+        },
+        "id": "1878828387369926656",
+        "location": "火星",
+        "name": "烬欢Ashley",
+        "pinned_tweet_id": "2070172337341960441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066008787765624834/6pa3K0At_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 100,
+          "like_count": 2523,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/mdOBMXZ5La",
+        "username": "hmj404",
+        "verified": false
+      }
+    ]
+  }
+}

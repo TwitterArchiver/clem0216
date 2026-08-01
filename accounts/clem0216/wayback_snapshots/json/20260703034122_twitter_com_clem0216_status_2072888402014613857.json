@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2072835792607785056",
+    "created_at": "2026-07-03T03:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072888402014613857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036459029237833728",
+          "start": 0,
+          "username": "HMiku2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072888402014613857",
+    "in_reply_to_user_id": "2036459029237833728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072835792607785056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HMiku2333 福鼎肉片好吃喵😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2072835771422457856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMQxJtlbwAA2Rea.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2072835792607785056",
+        "created_at": "2026-07-03T03:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072888402014613857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036459029237833728",
+              "start": 0,
+              "username": "HMiku2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072888402014613857",
+        "in_reply_to_user_id": "2036459029237833728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072835792607785056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HMiku2333 福鼎肉片好吃喵😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072835771422457856"
+          ]
+        },
+        "author_id": "2036459029237833728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072835792607785056",
+        "created_at": "2026-07-03T00:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072835792607785056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UASP6w7Hts",
+              "end": 45,
+              "expanded_url": "https://x.com/HMiku2333/status/2072835792607785056/photo/1",
+              "media_key": "3_2072835771422457856",
+              "start": 22,
+              "url": "https://t.co/UASP6w7Hts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072835792607785056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想福建特色了有没有福建人邮一份给我喵😭😭😭 https://t.co/UASP6w7Hts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 44,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T15:04:15.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/15|药娘小资历 | 170 厘米 | 60公斤| 不抽烟 |双相情感障碍|成分复杂|飞友|日本语|English|中文｜有小证｜含糖中｜❤️@C_lier_fufu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 94,
+                "username": "C_lier_fufu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hmiku2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hmiku2333",
+                "start": 0,
+                "url": "https://t.co/hD487V0nKB"
+              }
+            ]
+          }
+        },
+        "id": "2036459029237833728",
+        "name": "Yuri🍥🏳️‍⚧",
+        "pinned_tweet_id": "2072413404137132081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070549945539756032/xU5q1B5r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 324,
+          "like_count": 4173,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/hD487V0nKB",
+        "username": "HMiku2333",
+        "verified": true
+      }
+    ]
+  }
+}

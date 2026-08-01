@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077663419063513088"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077663422024724719",
+    "created_at": "2026-07-16T07:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T08:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077663422024724719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sgceD1kjOS",
+          "end": 45,
+          "expanded_url": "https://x.com/clem0216/status/2077663422024724719/photo/1",
+          "media_key": "3_2077663419063513088",
+          "start": 22,
+          "url": "https://t.co/sgceD1kjOS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077663422024724719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把葡萄拿去冻，还挺好吃的\n拿出来直接结霜了 https://t.co/sgceD1kjOS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2077663419063513088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVX3ygasAAR8-2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077663419063513088"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077663422024724719",
+        "created_at": "2026-07-16T07:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077663422024724719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sgceD1kjOS",
+              "end": 45,
+              "expanded_url": "https://x.com/clem0216/status/2077663422024724719/photo/1",
+              "media_key": "3_2077663419063513088",
+              "start": 22,
+              "url": "https://t.co/sgceD1kjOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077663422024724719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把葡萄拿去冻，还挺好吃的\n拿出来直接结霜了 https://t.co/sgceD1kjOS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo/没回fo请私信",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 234,
+          "like_count": 4315,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 350
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

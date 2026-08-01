@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2075796882287440215",
+    "created_at": "2026-07-11T04:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075796882287440215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RainLemon0715/…",
+          "end": 181,
+          "expanded_url": "https://twitter.com/RainLemon0715/status/2075598831711121864",
+          "start": 158,
+          "url": "https://t.co/A8PBJKCqwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075796882287440215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075598831711121864",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不是xyn啊啊啊!什么补佳乐(慌乱)(把药吞下去)(四处张望)我不是药娘(慌乱地把药盒藏到身后)(假装冷静)(试图走近解释)(摔倒)(狼狈爬起)(再次摔倒)(着急)(抓裤脚)(惊慌)我不是药娘啊求求你们别鄙视我,求求你们不要不和我玩(慌乱)我....我真的不是药娘(眼神四处乱瞟)(惊恐)(哭泣) (在地上打滚) https://t.co/A8PBJKCqwt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2075796882287440215",
+        "created_at": "2026-07-11T04:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075796882287440215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainLemon0715/…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/RainLemon0715/status/2075598831711121864",
+              "start": 158,
+              "url": "https://t.co/A8PBJKCqwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075796882287440215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075598831711121864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不是xyn啊啊啊!什么补佳乐(慌乱)(把药吞下去)(四处张望)我不是药娘(慌乱地把药盒藏到身后)(假装冷静)(试图走近解释)(摔倒)(狼狈爬起)(再次摔倒)(着急)(抓裤脚)(惊慌)我不是药娘啊求求你们别鄙视我,求求你们不要不和我玩(慌乱)我....我真的不是药娘(眼神四处乱瞟)(惊恐)(哭泣) (在地上打滚) https://t.co/A8PBJKCqwt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2075598831711121864",
+        "created_at": "2026-07-10T15:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075598831711121864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075598831711121864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1771,
+          "like_count": 30,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我不是xyn啊啊啊!什么补佳乐(慌乱)(把药吞下去)(四处张望)我不是药娘(慌乱地把药盒藏到身后)(假装冷静)(试图走近解释)(摔倒)(狼狈爬起)(再次摔倒)(着急)(抓裤脚)(惊慌)我不是药娘啊求求你们别鄙视我,求求你们不要不和我玩(慌乱)我....我真的不是药娘(眼神四处乱瞟)(惊恐)(哭泣) (在地上打滚)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder/我会回关每一个关注我的人",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 98,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍬🍥🍬",
+        "pinned_tweet_id": "2074429195980050577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4297,
+          "following_count": 302,
+          "like_count": 8000,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": true
+      }
+    ]
+  }
+}

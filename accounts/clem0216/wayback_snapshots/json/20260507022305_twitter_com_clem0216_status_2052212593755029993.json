@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052212578185854976"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052212593755029993",
+    "created_at": "2026-05-07T02:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052212593755029993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hKPuI5xRrn",
+          "end": 28,
+          "expanded_url": "https://x.com/clem0216/status/2052212593755029993/photo/1",
+          "media_key": "3_2052212578185854976",
+          "start": 5,
+          "url": "https://t.co/hKPuI5xRrn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052212593755029993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的假的 https://t.co/hKPuI5xRrn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2165,
+        "media_key": "3_2052212578185854976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrsd35bQAAJ8y6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052212578185854976"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052212593755029993",
+        "created_at": "2026-05-07T02:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052212593755029993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKPuI5xRrn",
+              "end": 28,
+              "expanded_url": "https://x.com/clem0216/status/2052212593755029993/photo/1",
+              "media_key": "3_2052212578185854976",
+              "start": 5,
+              "url": "https://t.co/hKPuI5xRrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052212593755029993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的假的 https://t.co/hKPuI5xRrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "上吊的qq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030780195284918272/zdOI_npv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2079415165141889408",
+    "created_at": "2026-07-21T04:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079422590905688520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752365546916720640",
+          "start": 0,
+          "username": "Yuzumikonami"
+        },
+        {
+          "end": 26,
+          "id": "1320354023451496450",
+          "start": 14,
+          "username": "OuO02213882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079422590905688520",
+    "in_reply_to_user_id": "1752365546916720640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079415165141889408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuzumikonami @OuO02213882 我也想要蓝v😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 753,
+        "media_key": "3_2079414837868703744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuQxx_XMAAlMnF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2079415165141889408",
+        "created_at": "2026-07-21T04:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079422590905688520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752365546916720640",
+              "start": 0,
+              "username": "Yuzumikonami"
+            },
+            {
+              "end": 26,
+              "id": "1320354023451496450",
+              "start": 14,
+              "username": "OuO02213882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079422590905688520",
+        "in_reply_to_user_id": "1752365546916720640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079415165141889408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuzumikonami @OuO02213882 我也想要蓝v😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079414837868703744"
+          ]
+        },
+        "author_id": "1752365546916720640",
+        "conversation_id": "2079415165141889408",
+        "created_at": "2026-07-21T03:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:55:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079414847477780862",
+          "2079415165141889408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 63,
+              "id": "1320354023451496450",
+              "start": 51,
+              "username": "OuO02213882"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zsMaAoFBLa",
+              "end": 87,
+              "expanded_url": "https://x.com/Yuzumikonami/status/2079415165141889408/photo/1",
+              "media_key": "3_2079414837868703744",
+              "start": 64,
+              "url": "https://t.co/zsMaAoFBLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079415165141889408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢蓝猫酱喵❤️\n现在真的非常 非常激动喵55😭\n不知道该说什么感谢的话力\n第一次被送蓝勾\n爱泥喵！🥰@OuO02213882 https://t.co/zsMaAoFBLa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 380,
+          "like_count": 8166,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T16:18:13.000Z",
+        "description": "男（？ | 11年 | 准高一 | ISFP | 猫猫 | 友好温柔 | 中度社恐 | 没钱暂不含糖/不割手 | 友跨🏳️‍⚧️🍥 | 成分复杂 | Kotlin | Python | 批处理 | 网页开发 | 语言 🇨🇳 🇯🇵 🇺🇸 | 日语学习中🇯🇵 | 玛丽厨|发点梗图和日常喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuzumikonami",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuzumikonami",
+                "start": 0,
+                "url": "https://t.co/DwXVwJmCR1"
+              }
+            ]
+          }
+        },
+        "id": "1752365546916720640",
+        "location": "坐标南京 | NGL↓",
+        "name": "柚见小南Yuzumikonami🏳️‍⚧️",
+        "pinned_tweet_id": "2073338775724331463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075886100984299520/fQugRAKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 544,
+          "like_count": 9919,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 570
+        },
+        "url": "https://t.co/DwXVwJmCR1",
+        "username": "Yuzumikonami",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx(我會焦慮,他不會) /友善/矛盾/忘了很多事/兩個人格共存 (他會保護我) (為什麼我們記憶能互通？) /還在慢慢認識自己喵\n希望自己比大家先離開\n別走好嗎？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "不能說喵 反正不在杭州喵",
+        "name": "粉天藍貓QxQ",
+        "pinned_tweet_id": "2079148774891606211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 2218,
+          "like_count": 48645,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 2252
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "OuO02213882",
+        "verified": true
+      }
+    ]
+  }
+}

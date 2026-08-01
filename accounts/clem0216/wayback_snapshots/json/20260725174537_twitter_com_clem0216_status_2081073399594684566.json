@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2080995123874435446",
+    "created_at": "2026-07-25T17:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081073399594684566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948364171160227840",
+          "start": 0,
+          "username": "Mak1287267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081073399594684566",
+    "in_reply_to_user_id": "1948364171160227840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080995123874435446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mak1287267 这个bug应该挺久了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2080995123874435446",
+        "created_at": "2026-07-25T17:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081073399594684566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948364171160227840",
+              "start": 0,
+              "username": "Mak1287267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081073399594684566",
+        "in_reply_to_user_id": "1948364171160227840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080995123874435446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mak1287267 这个bug应该挺久了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948364171160227840",
+        "conversation_id": "2080995123874435446",
+        "created_at": "2026-07-25T12:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080995123874435446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080995123874435446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是有什么bug\n我点赞别人的置顶贴之后再退出来又显示没有了🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo / 09 / 重抑郁 / 中焦虑 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xiaoshanruixig1",
+                "end": 23,
+                "expanded_url": "https://x.com/xiaoshanruixig1",
+                "start": 0,
+                "url": "https://t.co/pYRJe7v0oT"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2080621541168124362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 467,
+          "like_count": 10341,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 759
+        },
+        "url": "https://t.co/pYRJe7v0oT",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T12:46:46.000Z",
+        "description": "🇨🇳10高二\n永远怀念曾经的大号@mmrnadna😭\n大号@mmrnadna2\n小号@mmrnadnawww\n希望和大家能多多聊天🥺\nDM什么的请随意不用拘谨\n无言关注真是抱歉了\n永远最好最可爱的弟弟🥰永远爱你！！！@Mark67358226\n永远最好最可爱的妹妹🥰@XiyangMinzhiXiy\n永远爱你！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "mmrnadna"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "mmrnadna2"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "mmrnadnawww"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Mark67358226"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "XiyangMinzhiXiy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=ebf878…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=ebf87838-64ac-4aeb-86ec-fcfe7518097e",
+                "start": 0,
+                "url": "https://t.co/lsiXEDgSC7"
+              }
+            ]
+          }
+        },
+        "id": "1948364171160227840",
+        "location": "Utopia😽",
+        "name": "断桥边看雨",
+        "pinned_tweet_id": "2078836679255933328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079164753587712000/PiX4152k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 321,
+          "like_count": 3862,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1177
+        },
+        "url": "https://t.co/lsiXEDgSC7",
+        "username": "Mak1287267",
+        "verified": false
+      }
+    ]
+  }
+}

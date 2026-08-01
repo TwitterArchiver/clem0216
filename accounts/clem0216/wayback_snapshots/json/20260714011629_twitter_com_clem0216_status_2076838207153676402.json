@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2076837868975292818",
+    "created_at": "2026-07-14T01:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076838207153676402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076838207153676402",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076837868975292818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza 给我次次"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076837859722686464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJpB6TacAAM3PW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2076837868975292818",
+        "created_at": "2026-07-14T01:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076838207153676402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076838207153676402",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076837868975292818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza 给我次次"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076837859722686464"
+          ]
+        },
+        "author_id": "2008360423771316224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076837868975292818",
+        "created_at": "2026-07-14T01:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076837868975292818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/amE384bnHN",
+              "end": 35,
+              "expanded_url": "https://x.com/Konizaza/status/2076837868975292818/photo/1",
+              "media_key": "3_2076837859722686464",
+              "start": 12,
+              "url": "https://t.co/amE384bnHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076837868975292818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋豪次豪次豪次喵～❤️ https://t.co/amE384bnHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 137,
+          "like_count": 1214,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜MTF断糖｜生产日期：08年九月|喜欢喵喵叫｜也喜欢大家｜\n｜小号@konizazadesu免得找不到请灌注一下喵～｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbfdds"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "location": "你的心里",
+        "name": "Konizaza🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2076696325467648366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 1223,
+          "like_count": 3839,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 2050
+        },
+        "url": "https://t.co/UxxyJbfdds",
+        "username": "Konizaza",
+        "verified": true
+      }
+    ]
+  }
+}

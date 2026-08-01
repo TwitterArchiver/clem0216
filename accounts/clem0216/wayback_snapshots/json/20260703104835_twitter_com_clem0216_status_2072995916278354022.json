@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072972502041874432"
+      ],
+      "media_source_tweet_id": [
+        "2072972508035448995"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2072995916278354022",
+    "created_at": "2026-07-03T10:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072995916278354022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mgBB0DnD1M",
+          "end": 57,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/2072972508035448995/photo/1",
+          "media_key": "3_2072972502041874432",
+          "start": 34,
+          "url": "https://t.co/mgBB0DnD1M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072995916278354022",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072972508035448995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: 天使なので雲のうえにいる https://t.co/mgBB0DnD1M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2072972502041874432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMStge1b0AAnJyZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072972502041874432"
+          ],
+          "media_source_tweet_id": [
+            "2072972508035448995"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2072995916278354022",
+        "created_at": "2026-07-03T10:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072995916278354022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgBB0DnD1M",
+              "end": 57,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2072972508035448995/photo/1",
+              "media_key": "3_2072972502041874432",
+              "start": 34,
+              "url": "https://t.co/mgBB0DnD1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072995916278354022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072972508035448995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: 天使なので雲のうえにいる https://t.co/mgBB0DnD1M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072972502041874432"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "conversation_id": "2072972508035448995",
+        "created_at": "2026-07-03T09:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072972508035448995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgBB0DnD1M",
+              "end": 36,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2072972508035448995/photo/1",
+              "media_key": "3_2072972502041874432",
+              "start": 13,
+              "url": "https://t.co/mgBB0DnD1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072972508035448995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 30111,
+          "like_count": 2313,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "天使なので雲のうえにいる https://t.co/mgBB0DnD1M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 45,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "location": "キミのぱそこん",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541140,
+          "following_count": 1,
+          "like_count": 19,
+          "listed_count": 1167,
+          "media_count": 802,
+          "tweet_count": 1925
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

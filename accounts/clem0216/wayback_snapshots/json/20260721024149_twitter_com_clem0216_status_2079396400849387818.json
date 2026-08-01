@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2079238194458177538",
+    "created_at": "2026-07-21T02:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079396400849387818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753793649932943360",
+          "start": 0,
+          "username": "wudienendawang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079396400849387818",
+    "in_reply_to_user_id": "1753793649932943360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079395932756693091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wudienendawang 但是我吃的是普瑞和加巴喷丁啊，这两个也会造成血清素中毒吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2079238194458177538",
+        "created_at": "2026-07-21T02:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079396400849387818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753793649932943360",
+              "start": 0,
+              "username": "wudienendawang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079396400849387818",
+        "in_reply_to_user_id": "1753793649932943360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079395932756693091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wudienendawang 但是我吃的是普瑞和加巴喷丁啊，这两个也会造成血清素中毒吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753793649932943360",
+        "conversation_id": "2079238194458177538",
+        "created_at": "2026-07-21T02:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079395932756693091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079395932756693091",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079238194458177538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 血清素中毒 以前o的时候遇到过 浑身痒 挠会有白色的痕迹鼓起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 373,
+          "like_count": 8129,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 560
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T14:52:57.000Z",
+        "description": "一群贱人",
+        "id": "1753793649932943360",
+        "location": "无敌恩恩大王正是在下qwq",
+        "name": "悼念pr",
+        "pinned_tweet_id": "1770891107691343984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073626018393575424/NDIdsV8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 79,
+          "like_count": 858,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "wudienendawang",
+        "verified": false
+      }
+    ]
+  }
+}

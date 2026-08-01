@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2079516281884266607",
+    "created_at": "2026-07-21T13:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079558744816734354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1942770189030023174",
+          "start": 0,
+          "username": "Ariyairis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079558744816734354",
+    "in_reply_to_user_id": "1942770189030023174",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079516281884266607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ariyairis 恭喜恭喜🥳🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079516271826366464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvtCA7a8AAhdla.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2079516281884266607",
+        "created_at": "2026-07-21T13:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079558744816734354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1942770189030023174",
+              "start": 0,
+              "username": "Ariyairis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079558744816734354",
+        "in_reply_to_user_id": "1942770189030023174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079516281884266607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ariyairis 恭喜恭喜🥳🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079516271826366464"
+          ]
+        },
+        "author_id": "1942770189030023174",
+        "conversation_id": "2079516281884266607",
+        "created_at": "2026-07-21T10:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079516281884266607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yh0TrTFoLY",
+              "end": 32,
+              "expanded_url": "https://x.com/Ariyairis/status/2079516281884266607/photo/1",
+              "media_key": "3_2079516271826366464",
+              "start": 9,
+              "url": "https://t.co/Yh0TrTFoLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079516281884266607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 429,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有书读了 万岁🎉 https://t.co/Yh0TrTFoLY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 399,
+          "like_count": 8516,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T02:18:21.000Z",
+        "description": "我是可爱的超级天使酱哦！2008.1.22｜水瓶座｜adhd｜焦虑｜抑郁 可以互fo/找我玩",
+        "id": "1942770189030023174",
+        "name": "Ariya",
+        "pinned_tweet_id": "2078132194460201340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032773880352485376/-vXmFljl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 494,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 539
+        },
+        "url": "",
+        "username": "Ariyairis",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2082332558030000423",
+    "created_at": "2026-07-29T07:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082372248124711401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "116911182",
+          "start": 0,
+          "username": "boheur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082372248124711401",
+    "in_reply_to_user_id": "116911182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082332558030000423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boheur 你可以看看我的贴子，有一条是转的药商，可以信任"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2082332558030000423",
+        "created_at": "2026-07-29T07:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082372248124711401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "116911182",
+              "start": 0,
+              "username": "boheur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082372248124711401",
+        "in_reply_to_user_id": "116911182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082332558030000423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boheur 你可以看看我的贴子，有一条是转的药商，可以信任"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "116911182",
+        "conversation_id": "2082332558030000423",
+        "created_at": "2026-07-29T05:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082332558030000423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082332558030000423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有药代呀，蹲一个 想吃玉米片了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 620,
+          "like_count": 12643,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1009
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2010-02-23T23:41:23.000Z",
+        "description": "",
+        "id": "116911182",
+        "name": "1337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082109763001929728/jaWVzJ0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "boheur",
+        "verified": false
+      }
+    ]
+  }
+}

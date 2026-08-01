@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2076260513567408249",
+    "created_at": "2026-07-12T11:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076260513567408249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TuTri77/status…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/TuTri77/status/2075910396754428193",
+          "start": 53,
+          "url": "https://t.co/35nViYzmfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076260513567408249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075910396754428193",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抱歉女士，你因为手上有疤，这边判定你为没有抗压能力且情绪极端，社会已经不需要你了，进厂都没门，你去跳楼吧 https://t.co/35nViYzmfn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2076260513567408249",
+        "created_at": "2026-07-12T11:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076260513567408249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TuTri77/status…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/TuTri77/status/2075910396754428193",
+              "start": 53,
+              "url": "https://t.co/35nViYzmfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076260513567408249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075910396754428193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抱歉女士，你因为手上有疤，这边判定你为没有抗压能力且情绪极端，社会已经不需要你了，进厂都没门，你去跳楼吧 https://t.co/35nViYzmfn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652985793290604545",
+        "conversation_id": "2075910396754428193",
+        "created_at": "2026-07-11T11:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075910396754428193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075910396754428193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 19868,
+          "like_count": 627,
+          "quote_count": 6,
+          "reply_count": 51,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉女士，你因为手上有疤，这边判定你为没有抗压能力且情绪极端，社会已经不需要你了，进厂都没门，你去跳楼吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/我会回关每一个关注我的人",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 118,
+          "like_count": 970,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "世界是孕育痛苦的子宫 https://t.co/TmlcYNAd4j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nini96993",
+                "end": 34,
+                "expanded_url": "https://ngl.link/nini96993",
+                "start": 11,
+                "url": "https://t.co/TmlcYNAd4j"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88纯绿",
+        "name": "nini",
+        "pinned_tweet_id": "2073017263624687782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929674445811712/AaZ5P8FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12363,
+          "following_count": 267,
+          "like_count": 3429,
+          "listed_count": 22,
+          "media_count": 611,
+          "tweet_count": 2596
+        },
+        "url": "",
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

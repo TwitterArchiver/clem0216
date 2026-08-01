@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2079566070126620990",
+    "created_at": "2026-07-21T14:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079578749528576328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2079224166482575360",
+          "start": 0,
+          "username": "hxrainyhan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079578749528576328",
+    "in_reply_to_user_id": "2079224166482575360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079566070126620990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hxrainyhan 抱抱你🫂🫂🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079565785161474049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwaEEebIAEMQcq.jpg",
+        "width": 363
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2079566070126620990",
+        "created_at": "2026-07-21T14:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079578749528576328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2079224166482575360",
+              "start": 0,
+              "username": "hxrainyhan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079578749528576328",
+        "in_reply_to_user_id": "2079224166482575360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079566070126620990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hxrainyhan 抱抱你🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079565785161474049"
+          ]
+        },
+        "author_id": "2079224166482575360",
+        "conversation_id": "2079566070126620990",
+        "created_at": "2026-07-21T13:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079566070126620990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xCdPyj6heH",
+              "end": 120,
+              "expanded_url": "https://x.com/hxrainyhan/status/2079566070126620990/photo/1",
+              "media_key": "3_2079565785161474049",
+              "start": 97,
+              "url": "https://t.co/xCdPyj6heH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079566070126620990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又崩溃了 我真的好想死啊 家里人的不理解 网友们的谩骂 然后今天翻着 QQ 空间又找到了这篇文章 我看着看着就哭了很久 为什么就没有人理解我 为什么我身边的朋友很少 为什么都会变成这样。。。 https://t.co/xCdPyj6heH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 403,
+          "like_count": 8579,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 629
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-20T15:22:13.000Z",
+        "description": "小男娘/药娘丨In the上海徐汇/南京秦淮丨2009年生出的残品｜二次元迷 喜欢科技｜ 重度jl 有双向 ｜🍥2025/6/10｜是个老傻子｜想交友但是不知道从何下手。。。\n大家可叫我冷雨 或者雨韩\n可扩列：🐧351196734",
+        "id": "2079224166482575360",
+        "location": "中国 上海 徐汇区",
+        "name": "RaInyHan.🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079225573210275840/xjkzeJgr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 44,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "hxrainyhan",
+        "verified": false
+      }
+    ]
+  }
+}

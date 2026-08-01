@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078692600538861568"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2078692608826831106",
+    "created_at": "2026-07-19T04:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T05:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078692608826831106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/urLR2xEIzE",
+          "end": 49,
+          "expanded_url": "https://x.com/clem0216/status/2078692608826831106/photo/1",
+          "media_key": "3_2078692600538861568",
+          "start": 26,
+          "url": "https://t.co/urLR2xEIzE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078692608826831106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去，再次感谢春日野穹的投喂，谢谢你啦，永远爱你😘 https://t.co/urLR2xEIzE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_2078692600538861568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNj_6CRaEAAiTl-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078692600538861568"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2078692608826831106",
+        "created_at": "2026-07-19T04:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078692608826831106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urLR2xEIzE",
+              "end": 49,
+              "expanded_url": "https://x.com/clem0216/status/2078692608826831106/photo/1",
+              "media_key": "3_2078692600538861568",
+              "start": 26,
+              "url": "https://t.co/urLR2xEIzE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078692608826831106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去，再次感谢春日野穹的投喂，谢谢你啦，永远爱你😘 https://t.co/urLR2xEIzE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 332,
+          "like_count": 6849,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 474
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

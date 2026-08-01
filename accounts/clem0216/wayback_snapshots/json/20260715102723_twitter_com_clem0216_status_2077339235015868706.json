@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2077296782997164340",
+    "created_at": "2026-07-15T10:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077339235015868706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2021958978834685952",
+          "start": 0,
+          "username": "Zzerro77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077339235015868706",
+    "in_reply_to_user_id": "2021958978834685952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077296782997164340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzerro77 让我次次🤤😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2077296767398498304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQKZ2na0AAclrh.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2077296782997164340",
+        "created_at": "2026-07-15T10:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077339235015868706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2021958978834685952",
+              "start": 0,
+              "username": "Zzerro77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077339235015868706",
+        "in_reply_to_user_id": "2021958978834685952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077296782997164340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzerro77 让我次次🤤😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077296767398498304"
+          ]
+        },
+        "author_id": "2021958978834685952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077296782997164340",
+        "created_at": "2026-07-15T07:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077296782997164340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssbCPLzafY",
+              "end": 29,
+              "expanded_url": "https://x.com/Zzerro77/status/2077296782997164340/photo/1",
+              "media_key": "3_2077296767398498304",
+              "start": 6,
+              "url": "https://t.co/ssbCPLzafY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077296782997164340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 626,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于吃上了 https://t.co/ssbCPLzafY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo/没回fo请私信",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 200,
+          "like_count": 3079,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 307
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T14:46:10.000Z",
+        "description": "我觉得你有我就够了呀 =⩌⩊⩌=\n另一个我@Zzzero7777\n我的前世@QiuDAOyu0730\n欢迎过🚪♡=•ㅅ＜=)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Zzzero7777"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "QiuDAOyu0730"
+              }
+            ]
+          }
+        },
+        "id": "2021958978834685952",
+        "location": "🚪",
+        "name": "魚（重生版）",
+        "pinned_tweet_id": "2077201345757749263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076344568472330240/9GCMsmXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 59,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "Zzerro77",
+        "verified": false
+      }
+    ]
+  }
+}

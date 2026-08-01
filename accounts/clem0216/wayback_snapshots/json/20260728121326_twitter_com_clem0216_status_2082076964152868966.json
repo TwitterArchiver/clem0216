@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082076920632733696",
+        "3_2082076938097844224"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2082076964152868966",
+    "created_at": "2026-07-28T12:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082076964152868966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1M4pyFA8PZ",
+          "end": 55,
+          "expanded_url": "https://x.com/clem0216/status/2082076964152868966/photo/1",
+          "media_key": "3_2082076920632733696",
+          "start": 32,
+          "url": "https://t.co/1M4pyFA8PZ"
+        },
+        {
+          "display_url": "pic.x.com/1M4pyFA8PZ",
+          "end": 55,
+          "expanded_url": "https://x.com/clem0216/status/2082076964152868966/photo/1",
+          "media_key": "3_2082076938097844224",
+          "start": 32,
+          "url": "https://t.co/1M4pyFA8PZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082076964152868966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你啦宝宝，谢谢的投喂哦\n打算买一个这个，主要是为了小鱼板🍥 https://t.co/1M4pyFA8PZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_2082076920632733696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUF7ZFacAAFOi2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2141,
+        "media_key": "3_2082076938097844224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUF8aJa4AASGcv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082076920632733696",
+            "3_2082076938097844224"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2082076964152868966",
+        "created_at": "2026-07-28T12:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082076964152868966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1M4pyFA8PZ",
+              "end": 55,
+              "expanded_url": "https://x.com/clem0216/status/2082076964152868966/photo/1",
+              "media_key": "3_2082076920632733696",
+              "start": 32,
+              "url": "https://t.co/1M4pyFA8PZ"
+            },
+            {
+              "display_url": "pic.x.com/1M4pyFA8PZ",
+              "end": 55,
+              "expanded_url": "https://x.com/clem0216/status/2082076964152868966/photo/1",
+              "media_key": "3_2082076938097844224",
+              "start": 32,
+              "url": "https://t.co/1M4pyFA8PZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082076964152868966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你啦宝宝，谢谢的投喂哦\n打算买一个这个，主要是为了小鱼板🍥 https://t.co/1M4pyFA8PZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 593,
+          "like_count": 12353,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 962
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      }
+    ]
+  }
+}

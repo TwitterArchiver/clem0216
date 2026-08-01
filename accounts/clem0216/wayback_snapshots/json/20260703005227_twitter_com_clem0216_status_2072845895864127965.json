@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2072764120110436797",
+    "created_at": "2026-07-03T00:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T01:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072845895864127965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042276998668525573",
+          "start": 0,
+          "username": "HiiroGekkaFlan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072845895864127965",
+    "in_reply_to_user_id": "2042276998668525573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072764120110436797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiiroGekkaFlan 我跑不过你，你信不信🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072764112711598081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPv-oFaQAEOxmr.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2072764120110436797",
+        "created_at": "2026-07-03T00:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072845895864127965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072845895864127965",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072764120110436797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 我跑不过你，你信不信🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072764112711598081"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2072764120110436797",
+        "created_at": "2026-07-02T19:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072764120110436797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ptc4sHxjT8",
+              "end": 38,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2072764120110436797/photo/1",
+              "media_key": "3_2072764112711598081",
+              "start": 15,
+              "url": "https://t.co/ptc4sHxjT8"
+            },
+            {
+              "display_url": "x.com/HiiroGekkaFlan…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/HiiroGekkaFlan/status/2072759677558063405",
+              "start": 39,
+              "url": "https://t.co/v2DVxqwQPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072764120110436797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072759677558063405",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至少大部分推友都跑不过我🤓👆 https://t.co/ptc4sHxjT8 https://t.co/v2DVxqwQPk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 41,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 872,
+          "like_count": 11460,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 3523
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

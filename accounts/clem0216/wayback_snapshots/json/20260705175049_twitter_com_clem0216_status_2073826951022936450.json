@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2073826951022936450",
+    "created_at": "2026-07-05T17:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073826951022936450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2051426445654646784",
+          "start": 3,
+          "username": "eilenoca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073826951022936450",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14258
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073603992827855298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eilenoca: 2021: eu devia ter me matado ano passado\n2022: eu devia ter me matado ano passado\n2023: eu devia ter me matado ano passado\n20…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2073826951022936450",
+        "created_at": "2026-07-05T17:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073826951022936450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051426445654646784",
+              "start": 3,
+              "username": "eilenoca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073826951022936450",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14258
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073603992827855298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eilenoca: 2021: eu devia ter me matado ano passado\n2022: eu devia ter me matado ano passado\n2023: eu devia ter me matado ano passado\n20…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051426445654646784",
+        "conversation_id": "2073603992827855298",
+        "created_at": "2026-07-05T03:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073603992827855298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073603992827855298",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1725,
+          "impression_count": 2271240,
+          "like_count": 59712,
+          "quote_count": 466,
+          "reply_count": 152,
+          "retweet_count": 14239
+        },
+        "reply_settings": "everyone",
+        "text": "2021: eu devia ter me matado ano passado\n2022: eu devia ter me matado ano passado\n2023: eu devia ter me matado ano passado\n2024: eu devia ter me matado ano passado\n2025: eu devia ter me matado ano passado\n2026: eu devia ter me matado ano passado"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 59,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T22:20:01.000Z",
+        "description": "de lírios",
+        "id": "2051426445654646784",
+        "name": "lena",
+        "pinned_tweet_id": "2060477649118433633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071688888712564736/PanXW37j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 97,
+          "like_count": 3721,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 800
+        },
+        "url": "",
+        "username": "eilenoca",
+        "verified": false
+      }
+    ]
+  }
+}

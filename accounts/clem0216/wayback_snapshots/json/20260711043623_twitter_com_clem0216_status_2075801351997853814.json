@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075503495055278080",
+        "3_2075503503494307840",
+        "3_2075503512839184384",
+        "3_2075503521815007232"
+      ],
+      "media_source_tweet_id": [
+        "2075503529243054496",
+        "2075503529243054496",
+        "2075503529243054496",
+        "2075503529243054496"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075801351997853814",
+    "created_at": "2026-07-11T04:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075801351997853814"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "ニディガ"
+        },
+        {
+          "end": 30,
+          "start": 20,
+          "tag": "NEEDY_pic"
+        },
+        {
+          "end": 51,
+          "start": 31,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1315885664374718464",
+          "start": 3,
+          "username": "G4mZa007"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SQq6cFd2rw",
+          "end": 75,
+          "expanded_url": "https://x.com/G4mZa007/status/2075503529243054496/photo/1",
+          "media_key": "3_2075503495055278080",
+          "start": 52,
+          "url": "https://t.co/SQq6cFd2rw"
+        },
+        {
+          "display_url": "pic.x.com/SQq6cFd2rw",
+          "end": 75,
+          "expanded_url": "https://x.com/G4mZa007/status/2075503529243054496/photo/1",
+          "media_key": "3_2075503503494307840",
+          "start": 52,
+          "url": "https://t.co/SQq6cFd2rw"
+        },
+        {
+          "display_url": "pic.x.com/SQq6cFd2rw",
+          "end": 75,
+          "expanded_url": "https://x.com/G4mZa007/status/2075503529243054496/photo/1",
+          "media_key": "3_2075503512839184384",
+          "start": 52,
+          "url": "https://t.co/SQq6cFd2rw"
+        },
+        {
+          "display_url": "pic.x.com/SQq6cFd2rw",
+          "end": 75,
+          "expanded_url": "https://x.com/G4mZa007/status/2075503529243054496/photo/1",
+          "media_key": "3_2075503521815007232",
+          "start": 52,
+          "url": "https://t.co/SQq6cFd2rw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075801351997853814",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 765
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075503529243054496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @G4mZa007: #ニディガ #NEEDY_pic #NEEDY_GIRL_OVERDOSE https://t.co/SQq6cFd2rw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 454,
+        "media_key": "3_2075503495055278080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2rbqjaAAAi4Tg.jpg",
+        "width": 696
+      },
+      {
+        "height": 454,
+        "media_key": "3_2075503503494307840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2rcJ_bYAAlPpc.jpg",
+        "width": 696
+      },
+      {
+        "height": 454,
+        "media_key": "3_2075503512839184384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2rcsza4AAOo2m.jpg",
+        "width": 696
+      },
+      {
+        "height": 454,
+        "media_key": "3_2075503521815007232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2rdOPbEAA7mpD.jpg",
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075503495055278080",
+            "3_2075503503494307840",
+            "3_2075503512839184384",
+            "3_2075503521815007232"
+          ],
+          "media_source_tweet_id": [
+            "2075503529243054496",
+            "2075503529243054496",
+            "2075503529243054496",
+            "2075503529243054496"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075801351997853814",
+        "created_at": "2026-07-11T04:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075801351997853814"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 51,
+              "start": 31,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1315885664374718464",
+              "start": 3,
+              "username": "G4mZa007"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SQq6cFd2rw",
+              "end": 75,
+              "expanded_url": "https://x.com/G4mZa007/status/2075503529243054496/photo/1",
+              "media_key": "3_2075503495055278080",
+              "start": 52,
+              "url": "https://t.co/SQq6cFd2rw"
+            },
+            {
+              "display_url": "pic.x.com/SQq6cFd2rw",
+              "end": 75,
+              "expanded_url": "https://x.com/G4mZa007/status/2075503529243054496/photo/1",
+              "media_key": "3_2075503503494307840",
+              "start": 52,
+              "url": "https://t.co/SQq6cFd2rw"
+            },
+            {
+              "display_url": "pic.x.com/SQq6cFd2rw",
+              "end": 75,
+              "expanded_url": "https://x.com/G4mZa007/status/2075503529243054496/photo/1",
+              "media_key": "3_2075503512839184384",
+              "start": 52,
+              "url": "https://t.co/SQq6cFd2rw"
+            },
+            {
+              "display_url": "pic.x.com/SQq6cFd2rw",
+              "end": 75,
+              "expanded_url": "https://x.com/G4mZa007/status/2075503529243054496/photo/1",
+              "media_key": "3_2075503521815007232",
+              "start": 52,
+              "url": "https://t.co/SQq6cFd2rw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075801351997853814",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 765
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075503529243054496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @G4mZa007: #ニディガ #NEEDY_pic #NEEDY_GIRL_OVERDOSE https://t.co/SQq6cFd2rw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075503495055278080",
+            "3_2075503503494307840",
+            "3_2075503512839184384",
+            "3_2075503521815007232"
+          ]
+        },
+        "author_id": "1315885664374718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075503529243054496",
+        "created_at": "2026-07-10T08:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075503529243054496"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 16,
+              "start": 6,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 37,
+              "start": 17,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SQq6cFd2rw",
+              "end": 61,
+              "expanded_url": "https://x.com/G4mZa007/status/2075503529243054496/photo/1",
+              "media_key": "3_2075503495055278080",
+              "start": 38,
+              "url": "https://t.co/SQq6cFd2rw"
+            },
+            {
+              "display_url": "pic.x.com/SQq6cFd2rw",
+              "end": 61,
+              "expanded_url": "https://x.com/G4mZa007/status/2075503529243054496/photo/1",
+              "media_key": "3_2075503503494307840",
+              "start": 38,
+              "url": "https://t.co/SQq6cFd2rw"
+            },
+            {
+              "display_url": "pic.x.com/SQq6cFd2rw",
+              "end": 61,
+              "expanded_url": "https://x.com/G4mZa007/status/2075503529243054496/photo/1",
+              "media_key": "3_2075503512839184384",
+              "start": 38,
+              "url": "https://t.co/SQq6cFd2rw"
+            },
+            {
+              "display_url": "pic.x.com/SQq6cFd2rw",
+              "end": 61,
+              "expanded_url": "https://x.com/G4mZa007/status/2075503529243054496/photo/1",
+              "media_key": "3_2075503521815007232",
+              "start": 38,
+              "url": "https://t.co/SQq6cFd2rw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075503529243054496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 419,
+          "impression_count": 43913,
+          "like_count": 4456,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 765
+        },
+        "reply_settings": "everyone",
+        "text": "#ニディガ #NEEDY_pic #NEEDY_GIRL_OVERDOSE https://t.co/SQq6cFd2rw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder/我会回关每一个关注我的人",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 99,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T05:22:59.000Z",
+        "description": "| Gam | 17 | she/her | th/eng (my eng bad sry😭) | multi fandom, multi shipper | ลงงานกับแอคทีฟในเฟสมากกว่า | mdd, social anxiety, anxiety disorder |",
+        "id": "1315885664374718464",
+        "name": "GamZa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033132233931046912/hg4sqZFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 376,
+          "like_count": 218880,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 115739
+        },
+        "url": "",
+        "username": "G4mZa007",
+        "verified": false
+      }
+    ]
+  }
+}

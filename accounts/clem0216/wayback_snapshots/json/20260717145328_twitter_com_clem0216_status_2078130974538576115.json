@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078130971367604224"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2078130974538576115",
+    "created_at": "2026-07-17T14:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078130974538576115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V0yMqPAWqO",
+          "end": 45,
+          "expanded_url": "https://x.com/clem0216/status/2078130974538576115/photo/1",
+          "media_key": "3_2078130971367604224",
+          "start": 22,
+          "url": "https://t.co/V0yMqPAWqO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078130974538576115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢弟弟妹妹啦，让你们费钱了\n谢谢你们啦🥰 https://t.co/V0yMqPAWqO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 984,
+        "media_key": "3_2078130971367604224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcBG6kagAArAfv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078130971367604224"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2078130974538576115",
+        "created_at": "2026-07-17T14:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078130974538576115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0yMqPAWqO",
+              "end": 45,
+              "expanded_url": "https://x.com/clem0216/status/2078130974538576115/photo/1",
+              "media_key": "3_2078130971367604224",
+              "start": 22,
+              "url": "https://t.co/V0yMqPAWqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078130974538576115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢弟弟妹妹啦，让你们费钱了\n谢谢你们啦🥰 https://t.co/V0yMqPAWqO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 279,
+          "like_count": 5739,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

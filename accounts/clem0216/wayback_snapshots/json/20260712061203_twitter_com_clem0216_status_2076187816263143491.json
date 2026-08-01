@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075878012499951616"
+      ],
+      "media_source_tweet_id": [
+        "2075878823405707613"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076187816263143491",
+    "created_at": "2026-07-12T06:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076187816263143491"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "ニディガ"
+        },
+        {
+          "end": 54,
+          "start": 34,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1640184515464433664",
+          "start": 3,
+          "username": "Urie_haki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vZHEQWhmMN",
+          "end": 78,
+          "expanded_url": "https://x.com/Urie_haki/status/2075878823405707613/photo/1",
+          "media_key": "3_2075878012499951616",
+          "start": 55,
+          "url": "https://t.co/vZHEQWhmMN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076187816263143491",
+    "lang": "ht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 209
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075878823405707613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Urie_haki: Bye, Bye 👋\n\n#ニディガ \n#NEEDY_GIRL_OVERDOSE https://t.co/vZHEQWhmMN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2530,
+        "media_key": "3_2075878012499951616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8ADcwagAAXmQD.jpg",
+        "width": 3534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075878012499951616"
+          ],
+          "media_source_tweet_id": [
+            "2075878823405707613"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076187816263143491",
+        "created_at": "2026-07-12T06:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076187816263143491"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 54,
+              "start": 34,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1640184515464433664",
+              "start": 3,
+              "username": "Urie_haki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZHEQWhmMN",
+              "end": 78,
+              "expanded_url": "https://x.com/Urie_haki/status/2075878823405707613/photo/1",
+              "media_key": "3_2075878012499951616",
+              "start": 55,
+              "url": "https://t.co/vZHEQWhmMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076187816263143491",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 209
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075878823405707613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Urie_haki: Bye, Bye 👋\n\n#ニディガ \n#NEEDY_GIRL_OVERDOSE https://t.co/vZHEQWhmMN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075878012499951616"
+          ]
+        },
+        "author_id": "1640184515464433664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075878823405707613",
+        "created_at": "2026-07-11T09:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075878823405707613"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 39,
+              "start": 19,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZHEQWhmMN",
+              "end": 63,
+              "expanded_url": "https://x.com/Urie_haki/status/2075878823405707613/photo/1",
+              "media_key": "3_2075878012499951616",
+              "start": 40,
+              "url": "https://t.co/vZHEQWhmMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075878823405707613",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 10865,
+          "like_count": 1639,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "Bye, Bye 👋\n\n#ニディガ \n#NEEDY_GIRL_OVERDOSE https://t.co/vZHEQWhmMN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/我会回关每一个关注我的人",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 116,
+          "like_count": 877,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T02:50:47.000Z",
+        "description": "🟥 読 マヨイ\n🟧 フィギュア(オタ)撮影\n🟦 趣味で #イラスト🎨\n⬜️ Fa2d #アニメーション \nたまにイベント参加します！\nFigurephotographer #illustrator \n#animator #cosplay 🔰",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "イラスト"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "アニメーション"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "tag": "illustrator"
+              },
+              {
+                "end": 109,
+                "start": 100,
+                "tag": "animator"
+              },
+              {
+                "end": 118,
+                "start": 110,
+                "tag": "cosplay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/urie_haki/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/urie_haki/",
+                "start": 0,
+                "url": "https://t.co/21Mdey03Ky"
+              }
+            ]
+          }
+        },
+        "id": "1640184515464433664",
+        "location": "⛔️NO AI学習禁止🚫",
+        "name": "マ良イ🐳",
+        "pinned_tweet_id": "2006363033095045371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640185162578423809/745HhBJB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2916,
+          "following_count": 155,
+          "like_count": 4841,
+          "listed_count": 10,
+          "media_count": 1657,
+          "tweet_count": 2117
+        },
+        "url": "https://t.co/21Mdey03Ky",
+        "username": "Urie_haki",
+        "verified": false
+      }
+    ]
+  }
+}

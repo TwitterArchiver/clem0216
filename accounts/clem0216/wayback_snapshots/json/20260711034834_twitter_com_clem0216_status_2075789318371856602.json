@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2075789189443133440",
+        "3_2075789211001884672",
+        "3_2075789208699232256"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075786018528301062",
+    "created_at": "2026-07-11T03:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T04:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075789318371856602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gwNE2LFByS",
+          "end": 45,
+          "expanded_url": "https://x.com/clem0216/status/2075789318371856602/video/1",
+          "media_key": "7_2075789189443133440",
+          "start": 22,
+          "url": "https://t.co/gwNE2LFByS"
+        },
+        {
+          "display_url": "pic.x.com/gwNE2LFByS",
+          "end": 45,
+          "expanded_url": "https://x.com/clem0216/status/2075789318371856602/video/1",
+          "media_key": "3_2075789211001884672",
+          "start": 22,
+          "url": "https://t.co/gwNE2LFByS"
+        },
+        {
+          "display_url": "pic.x.com/gwNE2LFByS",
+          "end": 45,
+          "expanded_url": "https://x.com/clem0216/status/2075789318371856602/video/1",
+          "media_key": "3_2075789208699232256",
+          "start": 22,
+          "url": "https://t.co/gwNE2LFByS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075789318371856602",
+    "in_reply_to_user_id": "1883207896768651264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075786018528301062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补充2(不知道为什么剩下3个视频发不出来🥲 https://t.co/gwNE2LFByS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18877,
+        "height": 720,
+        "media_key": "7_2075789189443133440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075789189443133440/pu/img/1NyEDmapMKpkdhmW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075789189443133440/pu/vid/avc1/480x270/6Svji1zbfL9BVcZI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075789189443133440/pu/vid/avc1/640x360/oA4hkjDJijfIohrE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075789189443133440/pu/vid/avc1/1280x720/xB8kGuoX2W2PnVPG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075789189443133440/pu/pl/Rl7l2AH590-k_VT8.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1356,
+        "media_key": "3_2075789211001884672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6vShZbEAAsP90.jpg",
+        "width": 1800
+      },
+      {
+        "height": 1989,
+        "media_key": "3_2075789208699232256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6vSY0bYAAitoM.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 9793,
+        "height": 720,
+        "media_key": "7_2075784922783232000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075784922783232000/pu/img/dN79q5STZTw8GeJp.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075784922783232000/pu/vid/avc1/480x270/VVWn2H1roph4MUKI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075784922783232000/pu/vid/avc1/640x360/O6GgkmQw4qzp-01x.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075784922783232000/pu/vid/avc1/1280x720/ex_tMVadEElJH7mK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075784922783232000/pu/pl/PV-kiAxooWaJka4N.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 86000,
+        "height": 720,
+        "media_key": "7_2075784868081090560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075784868081090560/pu/img/FKvWm6fsOb3WbZcI.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075784868081090560/pu/vid/avc1/480x270/JDYX7GEeA0BwC2we.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075784868081090560/pu/vid/avc1/640x360/9c_vW3WKgmpG9HlX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075784868081090560/pu/vid/avc1/1280x720/qld9igFmjQc9EVjb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075784868081090560/pu/pl/hKt3wBtKnxd3H3t8.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 6801,
+        "height": 1280,
+        "media_key": "7_2075785625949835265",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075785625949835265/pu/img/Te4IJhzULkYEJ4hS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075785625949835265/pu/vid/avc1/320x568/RLrLsgLnrrle8Amf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075785625949835265/pu/vid/avc1/480x852/UQcASn2RAwtg-xGO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075785625949835265/pu/vid/avc1/720x1280/4Uvv0XvKVyuf3_ol.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075785625949835265/pu/pl/KcB3E9AFqXKRr9V5.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 21733,
+        "height": 720,
+        "media_key": "7_2075785769034399744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075785769034399744/pu/img/-RqZhKdvJhJYoRWn.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075785769034399744/pu/vid/avc1/480x270/3qplfV8PHprAch-F.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075785769034399744/pu/vid/avc1/640x360/MXnnIEVL0YRfjO-9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075785769034399744/pu/vid/avc1/1280x720/prmDgdcyoD37thNI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075785769034399744/pu/pl/scPJijzcDezBCNQZ.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075789189443133440",
+            "3_2075789211001884672",
+            "3_2075789208699232256"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075786018528301062",
+        "created_at": "2026-07-11T03:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075789318371856602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gwNE2LFByS",
+              "end": 45,
+              "expanded_url": "https://x.com/clem0216/status/2075789318371856602/video/1",
+              "media_key": "7_2075789189443133440",
+              "start": 22,
+              "url": "https://t.co/gwNE2LFByS"
+            },
+            {
+              "display_url": "pic.x.com/gwNE2LFByS",
+              "end": 45,
+              "expanded_url": "https://x.com/clem0216/status/2075789318371856602/video/1",
+              "media_key": "3_2075789211001884672",
+              "start": 22,
+              "url": "https://t.co/gwNE2LFByS"
+            },
+            {
+              "display_url": "pic.x.com/gwNE2LFByS",
+              "end": 45,
+              "expanded_url": "https://x.com/clem0216/status/2075789318371856602/video/1",
+              "media_key": "3_2075789208699232256",
+              "start": 22,
+              "url": "https://t.co/gwNE2LFByS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075789318371856602",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075786018528301062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充2(不知道为什么剩下3个视频发不出来🥲 https://t.co/gwNE2LFByS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075784922783232000",
+            "7_2075784868081090560",
+            "7_2075785625949835265",
+            "7_2075785769034399744"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2075786018528301062",
+        "created_at": "2026-07-11T03:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075786018528301062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sdGBdXOAHx",
+              "end": 43,
+              "expanded_url": "https://x.com/clem0216/status/2075786018528301062/video/1",
+              "media_key": "7_2075784922783232000",
+              "start": 20,
+              "url": "https://t.co/sdGBdXOAHx"
+            },
+            {
+              "display_url": "pic.x.com/sdGBdXOAHx",
+              "end": 43,
+              "expanded_url": "https://x.com/clem0216/status/2075786018528301062/video/1",
+              "media_key": "7_2075784868081090560",
+              "start": 20,
+              "url": "https://t.co/sdGBdXOAHx"
+            },
+            {
+              "display_url": "pic.x.com/sdGBdXOAHx",
+              "end": 43,
+              "expanded_url": "https://x.com/clem0216/status/2075786018528301062/video/1",
+              "media_key": "7_2075785625949835265",
+              "start": 20,
+              "url": "https://t.co/sdGBdXOAHx"
+            },
+            {
+              "display_url": "pic.x.com/sdGBdXOAHx",
+              "end": 43,
+              "expanded_url": "https://x.com/clem0216/status/2075786018528301062/video/1",
+              "media_key": "7_2075785769034399744",
+              "start": 20,
+              "url": "https://t.co/sdGBdXOAHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075786018528301062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "震惊！湖北省一所第一中学发生了学生游行 https://t.co/sdGBdXOAHx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder/我会回关每一个关注我的人",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 96,
+          "like_count": 588,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

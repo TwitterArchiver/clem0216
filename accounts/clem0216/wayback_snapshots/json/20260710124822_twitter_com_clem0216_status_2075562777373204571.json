@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2075562777373204571",
+    "created_at": "2026-07-10T12:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075562777373204571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/clem0216/statu…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/clem0216/status/2075429890053279784",
+          "start": 23,
+          "url": "https://t.co/vHdnXOOGiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075562777373204571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075429890053279784",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么这条评论热度这么高？我发的帖都没人看啊 https://t.co/vHdnXOOGiN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2075429877558468608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1oekAa4AArl2A.jpg",
+        "width": 662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2075562777373204571",
+        "created_at": "2026-07-10T12:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075562777373204571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/clem0216/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/clem0216/status/2075429890053279784",
+              "start": 23,
+              "url": "https://t.co/vHdnXOOGiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075562777373204571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075429890053279784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么这条评论热度这么高？我发的帖都没人看啊 https://t.co/vHdnXOOGiN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075429877558468608"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075244109921706009",
+        "created_at": "2026-07-10T04:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075429890053279784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQpAikoTct",
+              "end": 49,
+              "expanded_url": "https://x.com/clem0216/status/2075429890053279784/photo/1",
+              "media_key": "3_2075429877558468608",
+              "start": 26,
+              "url": "https://t.co/QQpAikoTct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075429890053279784",
+        "in_reply_to_user_id": "193648759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2101,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075244109921706009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 你买错了，应该要买紫色的那一款 https://t.co/QQpAikoTct"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder/我会回关每一个关注我的人",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 91,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082055207824105472",
+        "3_2082055219203227648"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2082055227600146739",
+    "created_at": "2026-07-28T10:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082055227600146739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kDhukSwwUe",
+          "end": 71,
+          "expanded_url": "https://x.com/clem0216/status/2082055227600146739/photo/1",
+          "media_key": "3_2082055207824105472",
+          "start": 48,
+          "url": "https://t.co/kDhukSwwUe"
+        },
+        {
+          "display_url": "pic.x.com/kDhukSwwUe",
+          "end": 71,
+          "expanded_url": "https://x.com/clem0216/status/2082055227600146739/photo/1",
+          "media_key": "3_2082055219203227648",
+          "start": 48,
+          "url": "https://t.co/kDhukSwwUe"
+        },
+        {
+          "display_url": "x.com/clem0216/statu…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/clem0216/status/2081958064450945210",
+          "start": 72,
+          "url": "https://t.co/dzqzbdvizJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082055227600146739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081958064450945210",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恶臭性压抑男需付🚪费过，同类和女孩子随便过\n真恶心，一上来就发了张黑黑的小蚓引的图片，去你妈的 https://t.co/kDhukSwwUe https://t.co/dzqzbdvizJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_2082055207824105472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTyLikboAAISGx.jpg",
+        "width": 876
+      },
+      {
+        "height": 1236,
+        "media_key": "3_2082055219203227648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTyMM9bQAAq8Dy.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082055207824105472",
+            "3_2082055219203227648"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2082055227600146739",
+        "created_at": "2026-07-28T10:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082055227600146739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kDhukSwwUe",
+              "end": 71,
+              "expanded_url": "https://x.com/clem0216/status/2082055227600146739/photo/1",
+              "media_key": "3_2082055207824105472",
+              "start": 48,
+              "url": "https://t.co/kDhukSwwUe"
+            },
+            {
+              "display_url": "pic.x.com/kDhukSwwUe",
+              "end": 71,
+              "expanded_url": "https://x.com/clem0216/status/2082055227600146739/photo/1",
+              "media_key": "3_2082055219203227648",
+              "start": 48,
+              "url": "https://t.co/kDhukSwwUe"
+            },
+            {
+              "display_url": "x.com/clem0216/statu…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/clem0216/status/2081958064450945210",
+              "start": 72,
+              "url": "https://t.co/dzqzbdvizJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082055227600146739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081958064450945210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恶臭性压抑男需付🚪费过，同类和女孩子随便过\n真恶心，一上来就发了张黑黑的小蚓引的图片，去你妈的 https://t.co/kDhukSwwUe https://t.co/dzqzbdvizJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2081958064450945210",
+        "created_at": "2026-07-28T04:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081958064450945210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/clem0216/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/clem0216/status/2081030530812744038",
+              "start": 19,
+              "url": "https://t.co/s5cktv9SOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081958064450945210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 679,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081030530812744038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在可以啦，号终于解封了，想加的就加 https://t.co/s5cktv9SOP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 587,
+          "like_count": 12314,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 955
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      }
+    ]
+  }
+}

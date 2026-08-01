@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2081071761395982619",
+    "created_at": "2026-07-27T02:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081568135405309973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2062086575442591744",
+          "start": 0,
+          "username": "ShangDandy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081568135405309973",
+    "in_reply_to_user_id": "2062086575442591744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081473479652856137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShangDandy 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2081473472195440640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLhGEebsAA4g_W.jpg",
+        "width": 1222
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2081071761395982619",
+        "created_at": "2026-07-27T02:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081568135405309973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2062086575442591744",
+              "start": 0,
+              "username": "ShangDandy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081568135405309973",
+        "in_reply_to_user_id": "2062086575442591744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081473479652856137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShangDandy 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081473472195440640"
+          ]
+        },
+        "author_id": "2062086575442591744",
+        "conversation_id": "2081071761395982619",
+        "created_at": "2026-07-26T20:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081473479652856137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HdTqxwW51y",
+              "end": 33,
+              "expanded_url": "https://x.com/ShangDandy/status/2081473479652856137/photo/1",
+              "media_key": "3_2081473472195440640",
+              "start": 10,
+              "url": "https://t.co/HdTqxwW51y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081473479652856137",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081071761395982619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 https://t.co/HdTqxwW51y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo / 09 / 重抑郁 / 中焦虑 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2080621541168124362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 542,
+          "like_count": 11413,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 842
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-03T08:19:31.000Z",
+        "description": "",
+        "id": "2062086575442591744",
+        "name": "殇淡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080467721205198848/pW1ksby-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 39,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "ShangDandy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2072873874132467751",
+    "created_at": "2026-07-03T02:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T03:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072873874132467751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1687931201397432320",
+          "start": 3,
+          "username": "legardanosopla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072873874132467751",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9654
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070786974122701180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @legardanosopla: De que sustancia debo de abusar para sentirme vivo otra vez"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2072873874132467751",
+        "created_at": "2026-07-03T02:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072873874132467751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1687931201397432320",
+              "start": 3,
+              "username": "legardanosopla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072873874132467751",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9654
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070786974122701180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @legardanosopla: De que sustancia debo de abusar para sentirme vivo otra vez"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687931201397432320",
+        "conversation_id": "2070786974122701180",
+        "created_at": "2026-06-27T08:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070786974122701180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070786974122701180",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1172,
+          "impression_count": 600111,
+          "like_count": 32574,
+          "quote_count": 309,
+          "reply_count": 141,
+          "retweet_count": 9654
+        },
+        "reply_settings": "everyone",
+        "text": "De que sustancia debo de abusar para sentirme vivo otra vez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 42,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T20:59:01.000Z",
+        "description": "@lincolngelable",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "lincolngelable"
+              }
+            ]
+          }
+        },
+        "id": "1687931201397432320",
+        "name": "L",
+        "pinned_tweet_id": "2055118457587245476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055117197622521856/sBFCLVZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 140,
+          "like_count": 128125,
+          "listed_count": 4,
+          "media_count": 3665,
+          "tweet_count": 36361
+        },
+        "url": "",
+        "username": "legardanosopla",
+        "verified": false
+      }
+    ]
+  }
+}

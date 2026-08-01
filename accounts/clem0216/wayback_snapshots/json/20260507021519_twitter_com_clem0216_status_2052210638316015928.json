@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052210629487001600"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2052210638316015928",
+    "created_at": "2026-05-07T02:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052210638316015928"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xhgjHvlN2g",
+          "end": 35,
+          "expanded_url": "https://x.com/clem0216/status/2052210638316015928/photo/1",
+          "media_key": "3_2052210629487001600",
+          "start": 12,
+          "url": "https://t.co/xhgjHvlN2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052210638316015928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "服了，58块钱两板愈美 https://t.co/xhgjHvlN2g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052210629487001600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrqscbagAA8nW7.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052210629487001600"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2052210638316015928",
+        "created_at": "2026-05-07T02:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052210638316015928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xhgjHvlN2g",
+              "end": 35,
+              "expanded_url": "https://x.com/clem0216/status/2052210638316015928/photo/1",
+              "media_key": "3_2052210629487001600",
+              "start": 12,
+              "url": "https://t.co/xhgjHvlN2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052210638316015928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服了，58块钱两板愈美 https://t.co/xhgjHvlN2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "",
+        "id": "1883207896768651264",
+        "name": "上吊的qq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030780195284918272/zdOI_npv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

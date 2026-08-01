@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2081962176827507019",
+    "created_at": "2026-07-28T06:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081988391475052972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2074535457879134208",
+          "start": 0,
+          "username": "FoxShiro549"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081988391475052972",
+    "in_reply_to_user_id": "2074535457879134208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081980381016830028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxShiro549 当然是假的啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2081962176827507019",
+        "created_at": "2026-07-28T06:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081988391475052972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2074535457879134208",
+              "start": 0,
+              "username": "FoxShiro549"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081988391475052972",
+        "in_reply_to_user_id": "2074535457879134208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081980381016830028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxShiro549 当然是假的啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074535457879134208",
+        "conversation_id": "2081962176827507019",
+        "created_at": "2026-07-28T05:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081980381016830028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081980381016830028",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081962176827507019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 真的要下海了吗...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 583,
+          "like_count": 12221,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 938
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-07T16:47:02.000Z",
+        "description": "称呼：阿诚 ＞𐋣＜ \n男生 | INFJ | 性格控 | 守序邪恶 | \n| 我人很好丨人在海外丨\n👇🏻👇🏻匿名提问点击下方链接~\n荤素不忌都可聊~\n放心私信~看到会回复~\n已通过ID认证基本不会暴毙呢!\n前世@FoxMox549\n我死的莫名其妙 (˶ｰ`֊´ｰ)\n欢迎匿名提问~我会尽可能都回答~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "FoxMox549"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shiro84011",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shiro84011",
+                "start": 0,
+                "url": "https://t.co/GgLNeAYV6h"
+              }
+            ]
+          }
+        },
+        "id": "2074535457879134208",
+        "name": "Shiro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077127855968763904/CwwXORd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 82,
+          "like_count": 408,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/GgLNeAYV6h",
+        "username": "FoxShiro549",
+        "verified": true
+      }
+    ]
+  }
+}

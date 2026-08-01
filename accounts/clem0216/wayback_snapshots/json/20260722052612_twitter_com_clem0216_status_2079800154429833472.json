@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2079570203407733062",
+    "created_at": "2026-07-22T05:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079800154429833472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917009430845194240",
+          "start": 0,
+          "username": "BDcivetcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079800154429833472",
+    "in_reply_to_user_id": "1917009430845194240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079783823928418708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BDcivetcat 4t舍取林就是最大的剂量了，说明书上有写的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2079570203407733062",
+        "created_at": "2026-07-22T05:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079800154429833472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917009430845194240",
+              "start": 0,
+              "username": "BDcivetcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079800154429833472",
+        "in_reply_to_user_id": "1917009430845194240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079783823928418708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BDcivetcat 4t舍取林就是最大的剂量了，说明书上有写的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917009430845194240",
+        "conversation_id": "2079570203407733062",
+        "created_at": "2026-07-22T04:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079783823928418708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079783823928418708",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079570203407733062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 为什么4t是最大剂量，我吃也毫无感觉。。。我吃过6t8t也没特殊感觉。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo / 09 / 重抑郁 / 中焦虑 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xiaoshanruixig1",
+                "end": 23,
+                "expanded_url": "https://x.com/xiaoshanruixig1",
+                "start": 0,
+                "url": "https://t.co/pYRJe7v0oT"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 417,
+          "like_count": 9066,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 654
+        },
+        "url": "https://t.co/pYRJe7v0oT",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T00:14:10.000Z",
+        "description": "07 精神病休学中 自残 高强度负能掉落 我是男的对不起 现生很糟糕 精神很差 社交=0 烦到你了对不起 我真的很讨厌的话就拉黑我 不爽的话骂我去死 如果这对你有帮助",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%91%AB%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%91%AB%E8%8A%A6%E8%8A%B1%E6%97%A5%E5%BF%97",
+                "start": 0,
+                "url": "https://t.co/YkUZ8VBaOv"
+              }
+            ]
+          }
+        },
+        "id": "1917009430845194240",
+        "name": "葫芦花日志",
+        "pinned_tweet_id": "2068366360993014158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065074655925608448/UjqBCc9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 229,
+          "like_count": 1378,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/YkUZ8VBaOv",
+        "username": "BDcivetcat",
+        "verified": false
+      }
+    ]
+  }
+}

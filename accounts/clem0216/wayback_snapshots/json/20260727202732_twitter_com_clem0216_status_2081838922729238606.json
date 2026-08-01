@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2081837246454579663",
+    "created_at": "2026-07-27T20:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T21:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081838922729238606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1705551597265190912",
+          "start": 0,
+          "username": "QQ195ZZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081838922729238606",
+    "in_reply_to_user_id": "1705551597265190912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081837246454579663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QQ195ZZH 喵~(舔了舔被撞的地方)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081837230721744896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQr7mlaQAAUcch.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2081837246454579663",
+        "created_at": "2026-07-27T20:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081838922729238606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1705551597265190912",
+              "start": 0,
+              "username": "QQ195ZZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081838922729238606",
+        "in_reply_to_user_id": "1705551597265190912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081837246454579663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QQ195ZZH 喵~(舔了舔被撞的地方)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081837230721744896"
+          ]
+        },
+        "author_id": "1705551597265190912",
+        "conversation_id": "2081837246454579663",
+        "created_at": "2026-07-27T20:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081837246454579663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JCIb2DoBkc",
+              "end": 38,
+              "expanded_url": "https://x.com/QQ195ZZH/status/2081837246454579663/photo/1",
+              "media_key": "3_2081837230721744896",
+              "start": 15,
+              "url": "https://t.co/JCIb2DoBkc"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2081837246454579663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再也不低头玩手机了，呜呜呜😭 https://t.co/JCIb2DoBkc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 572,
+          "like_count": 12112,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-23T11:56:16.000Z",
+        "description": "轻度抑郁+0 10年11.18出厂，来自广东揭阳（无证轻糖🍥）",
+        "id": "1705551597265190912",
+        "location": "海南省海口市",
+        "name": "淼淼雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077755239118389248/2zLmU8Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 256,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "QQ195ZZH",
+        "verified": false
+      }
+    ]
+  }
+}

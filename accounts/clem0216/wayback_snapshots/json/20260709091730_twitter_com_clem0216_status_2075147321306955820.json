@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2075147321306955820",
+    "created_at": "2026-07-09T09:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075147321306955820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010249088084959232",
+          "start": 3,
+          "username": "cneshsoeic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075147321306955820",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5364
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074865895353286694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cneshsoeic: 좋아하면 좋아한다고 하세요\n좋아하면서 너 싫어.. 짜증나.. 이런 말은 왜 하는겁니까? 좋아하면 좋 아 한 다 하라고요 다른말다필요없어 좋아한다고해 사랑한다고해 미워싫어짜증나저리가 이런말하지마시라고 좋으면좋다고해제발 좋아…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2075147321306955820",
+        "created_at": "2026-07-09T09:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075147321306955820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010249088084959232",
+              "start": 3,
+              "username": "cneshsoeic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075147321306955820",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5364
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074865895353286694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cneshsoeic: 좋아하면 좋아한다고 하세요\n좋아하면서 너 싫어.. 짜증나.. 이런 말은 왜 하는겁니까? 좋아하면 좋 아 한 다 하라고요 다른말다필요없어 좋아한다고해 사랑한다고해 미워싫어짜증나저리가 이런말하지마시라고 좋으면좋다고해제발 좋아…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010249088084959232",
+        "conversation_id": "2074865895353286694",
+        "created_at": "2026-07-08T14:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074865895353286694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074865895353286694",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2742,
+          "impression_count": 1272185,
+          "like_count": 13842,
+          "quote_count": 6478,
+          "reply_count": 50,
+          "retweet_count": 5363
+        },
+        "reply_settings": "everyone",
+        "text": "좋아하면 좋아한다고 하세요\n좋아하면서 너 싫어.. 짜증나.. 이런 말은 왜 하는겁니까? 좋아하면 좋 아 한 다 하라고요 다른말다필요없어 좋아한다고해 사랑한다고해 미워싫어짜증나저리가 이런말하지마시라고 좋으면좋다고해제발 좋아해좋아해 이게어렵나?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 74,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T07:15:21.000Z",
+        "description": "티부사랑단 회장이올시다",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asked.kr/cneshsoeic",
+                "end": 23,
+                "expanded_url": "https://asked.kr/cneshsoeic",
+                "start": 0,
+                "url": "https://t.co/8qWqwI8ZKv"
+              }
+            ]
+          }
+        },
+        "id": "2010249088084959232",
+        "name": "앵두(상태:소잡이)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026665615621263360/D9vyKsh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 108,
+          "like_count": 8537,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1473
+        },
+        "url": "https://t.co/8qWqwI8ZKv",
+        "username": "cneshsoeic",
+        "verified": false
+      }
+    ]
+  }
+}

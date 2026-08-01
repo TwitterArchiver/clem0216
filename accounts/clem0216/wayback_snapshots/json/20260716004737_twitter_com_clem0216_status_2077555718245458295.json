@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077555713858215936"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2077555718245458295",
+    "created_at": "2026-07-16T00:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T01:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077555718245458295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RVFjWI4wjD",
+          "end": 46,
+          "expanded_url": "https://x.com/clem0216/status/2077555718245458295/photo/1",
+          "media_key": "3_2077555713858215936",
+          "start": 23,
+          "url": "https://t.co/RVFjWI4wjD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077555718245458295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你喵，虽然只有0.2，但心意到了，谢谢你 https://t.co/RVFjWI4wjD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1093,
+        "media_key": "3_2077555713858215936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNT16hWaIAADEOn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077555713858215936"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2077555718245458295",
+        "created_at": "2026-07-16T00:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077555718245458295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RVFjWI4wjD",
+              "end": 46,
+              "expanded_url": "https://x.com/clem0216/status/2077555718245458295/photo/1",
+              "media_key": "3_2077555713858215936",
+              "start": 23,
+              "url": "https://t.co/RVFjWI4wjD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077555718245458295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你喵，虽然只有0.2，但心意到了，谢谢你 https://t.co/RVFjWI4wjD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo/没回fo请私信",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 224,
+          "like_count": 3745,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

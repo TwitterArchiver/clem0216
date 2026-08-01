@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077666219671670784"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2077539867509268642",
+    "created_at": "2026-07-16T08:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T09:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077666222632845680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        },
+        {
+          "end": 25,
+          "id": "2063187473405227008",
+          "start": 14,
+          "username": "yvame_rain"
+        },
+        {
+          "end": 39,
+          "id": "1866458229527764992",
+          "start": 26,
+          "username": "Citrus_amara"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GRaY9YNsCv",
+          "end": 63,
+          "expanded_url": "https://x.com/clem0216/status/2077666222632845680/photo/1",
+          "media_key": "3_2077666219671670784",
+          "start": 40,
+          "url": "https://t.co/GRaY9YNsCv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077666222632845680",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077539867509268642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara @yvame_rain @Citrus_amara https://t.co/GRaY9YNsCv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 475,
+        "media_key": "3_2077666219671670784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVaazlb0AAZApU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077666219671670784"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2077539867509268642",
+        "created_at": "2026-07-16T08:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077666222632845680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 25,
+              "id": "2063187473405227008",
+              "start": 14,
+              "username": "yvame_rain"
+            },
+            {
+              "end": 39,
+              "id": "1866458229527764992",
+              "start": 26,
+              "username": "Citrus_amara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRaY9YNsCv",
+              "end": 63,
+              "expanded_url": "https://x.com/clem0216/status/2077666222632845680/photo/1",
+              "media_key": "3_2077666219671670784",
+              "start": 40,
+              "url": "https://t.co/GRaY9YNsCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077666222632845680",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077539867509268642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @yvame_rain @Citrus_amara https://t.co/GRaY9YNsCv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2077539867509268642",
+        "created_at": "2026-07-15T23:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077539867509268642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077539867509268642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "约死来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo/没回fo请私信",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 235,
+          "like_count": 4471,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "shsh548866"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 1172,
+          "like_count": 21048,
+          "listed_count": 5,
+          "media_count": 435,
+          "tweet_count": 11782
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 109,
+          "like_count": 1169,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

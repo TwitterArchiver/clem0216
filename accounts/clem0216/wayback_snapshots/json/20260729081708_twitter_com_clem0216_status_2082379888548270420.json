@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2082377805539721631",
+    "created_at": "2026-07-29T08:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082379888548270420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697293328352686080",
+          "start": 0,
+          "username": "wentj390787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082379888548270420",
+    "in_reply_to_user_id": "1697293328352686080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082377805539721631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wentj390787 随便选一个，进去之后复制链接，在推特发就行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2071,
+        "media_key": "3_2082377791392432129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYXkYAbwAE5aRV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2082377805539721631",
+        "created_at": "2026-07-29T08:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082379888548270420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697293328352686080",
+              "start": 0,
+              "username": "wentj390787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082379888548270420",
+        "in_reply_to_user_id": "1697293328352686080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082377805539721631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wentj390787 随便选一个，进去之后复制链接，在推特发就行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082377791392432129"
+          ]
+        },
+        "author_id": "1697293328352686080",
+        "conversation_id": "2082377805539721631",
+        "created_at": "2026-07-29T08:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082377805539721631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CZKt5MY2cW",
+              "end": 78,
+              "expanded_url": "https://x.com/wentj390787/status/2082377805539721631/photo/1",
+              "media_key": "3_2082377791392432129",
+              "start": 55,
+              "url": "https://t.co/CZKt5MY2cW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082377805539721631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看好多朋友都挂了NGL,我才下载这个软件😫\n\n为什么没有推特的选项啊，随便选哪个都可以吗😫\n\n你们选的啥？ https://t.co/CZKt5MY2cW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 621,
+          "like_count": 12669,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1013
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-31T17:02:41.000Z",
+        "description": "B站某十万粉丝博主(匿名) ，二次元中登（对子供向也略有研究），锐评家，经常发点疯解读网络热点。互fo请私信 。喜欢一切内心善良的人。",
+        "id": "1697293328352686080",
+        "location": "在你心里",
+        "name": "一起来吃辣条鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082007758245945344/ohD_w7qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 798,
+          "like_count": 846,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1090
+        },
+        "url": "",
+        "username": "wentj390787",
+        "verified": true
+      }
+    ]
+  }
+}

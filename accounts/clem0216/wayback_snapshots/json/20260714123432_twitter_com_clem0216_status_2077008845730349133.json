@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2076986905884066128",
+    "created_at": "2026-07-14T12:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077008845730349133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053009418871357440",
+          "start": 0,
+          "username": "NMD_2012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077008845730349133",
+    "in_reply_to_user_id": "2053009418871357440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077008742173036600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NMD_2012 因为要致敬先辈("
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077008742173036600].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077008742173036600",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077008742173036600"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2076986905884066128",
+        "created_at": "2026-07-14T12:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077008845730349133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077008845730349133",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077008742173036600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 因为要致敬先辈("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 155,
+          "like_count": 1963,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量的人/一个偏恶俗的人 如被冒犯请接受我的下跪/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 312,
+          "like_count": 7410,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1013
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      }
+    ]
+  }
+}

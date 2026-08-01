@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2076949925758443715",
+    "created_at": "2026-07-14T11:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076995807371461042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545050439049064450",
+          "start": 0,
+          "username": "xz8796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076995807371461042",
+    "in_reply_to_user_id": "1545050439049064450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076949925758443715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xz8796 不得了，！这个，金刚烷胺吃了之后。我变成一只，鸡？操你妈。，我要，跳？楼。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_2076949918015799296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLO8j-bwAAGimw.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2076949925758443715",
+        "created_at": "2026-07-14T11:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076995807371461042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "xz8796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076995807371461042",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076949925758443715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xz8796 不得了，！这个，金刚烷胺吃了之后。我变成一只，鸡？操你妈。，我要，跳？楼。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076949918015799296"
+          ]
+        },
+        "author_id": "1545050439049064450",
+        "conversation_id": "2076949925758443715",
+        "created_at": "2026-07-14T08:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076949925758443715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WZSIpIqosn",
+              "end": 28,
+              "expanded_url": "https://x.com/xz8796/status/2076949925758443715/photo/1",
+              "media_key": "3_2076949918015799296",
+              "start": 5,
+              "url": "https://t.co/WZSIpIqosn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076949925758443715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备变🐔 https://t.co/WZSIpIqosn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 151,
+          "like_count": 1944,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 254
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 不好看 可互关 机器人除外\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n生活號 | 一天會發10+條推請見諒\nINTJ | 无所谓性别 | ed | BMI15.5 | 友跨\n有點陰暗 囤積癖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "plane294"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2076197204243742963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076966433515532288/I6rNTjt__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 237,
+          "like_count": 2477,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 1509
+        },
+        "url": "",
+        "username": "xz8796",
+        "verified": true
+      }
+    ]
+  }
+}

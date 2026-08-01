@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073606127749836801",
+        "3_2073606127791800320",
+        "3_2073606127833735168"
+      ],
+      "media_source_tweet_id": [
+        "2073606134834032743",
+        "2073606134834032743",
+        "2073606134834032743"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2074048291244060990",
+    "created_at": "2026-07-06T08:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074048291244060990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041105674005094400",
+          "start": 3,
+          "username": "ririlq9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MDPM1vkjCU",
+          "end": 62,
+          "expanded_url": "https://x.com/ririlq9/status/2073606134834032743/photo/1",
+          "media_key": "3_2073606127749836801",
+          "start": 39,
+          "url": "https://t.co/MDPM1vkjCU"
+        },
+        {
+          "display_url": "pic.x.com/MDPM1vkjCU",
+          "end": 62,
+          "expanded_url": "https://x.com/ririlq9/status/2073606134834032743/photo/1",
+          "media_key": "3_2073606127791800320",
+          "start": 39,
+          "url": "https://t.co/MDPM1vkjCU"
+        },
+        {
+          "display_url": "pic.x.com/MDPM1vkjCU",
+          "end": 62,
+          "expanded_url": "https://x.com/ririlq9/status/2073606134834032743/photo/1",
+          "media_key": "3_2073606127833735168",
+          "start": 39,
+          "url": "https://t.co/MDPM1vkjCU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074048291244060990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 220
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073606134834032743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ririlq9: どんどん素の笑顔になってくあめちゃんがとても可愛い https://t.co/MDPM1vkjCU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_2073606127749836801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbtyWiaMAEQ-pu.jpg",
+        "width": 949
+      },
+      {
+        "height": 388,
+        "media_key": "3_2073606127791800320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbtyWsagAAxkKK.jpg",
+        "width": 443
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2073606127833735168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbtyW2aYAAjJgA.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073606127749836801",
+            "3_2073606127791800320",
+            "3_2073606127833735168"
+          ],
+          "media_source_tweet_id": [
+            "2073606134834032743",
+            "2073606134834032743",
+            "2073606134834032743"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2074048291244060990",
+        "created_at": "2026-07-06T08:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074048291244060990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041105674005094400",
+              "start": 3,
+              "username": "ririlq9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MDPM1vkjCU",
+              "end": 62,
+              "expanded_url": "https://x.com/ririlq9/status/2073606134834032743/photo/1",
+              "media_key": "3_2073606127749836801",
+              "start": 39,
+              "url": "https://t.co/MDPM1vkjCU"
+            },
+            {
+              "display_url": "pic.x.com/MDPM1vkjCU",
+              "end": 62,
+              "expanded_url": "https://x.com/ririlq9/status/2073606134834032743/photo/1",
+              "media_key": "3_2073606127791800320",
+              "start": 39,
+              "url": "https://t.co/MDPM1vkjCU"
+            },
+            {
+              "display_url": "pic.x.com/MDPM1vkjCU",
+              "end": 62,
+              "expanded_url": "https://x.com/ririlq9/status/2073606134834032743/photo/1",
+              "media_key": "3_2073606127833735168",
+              "start": 39,
+              "url": "https://t.co/MDPM1vkjCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074048291244060990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 220
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073606134834032743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ririlq9: どんどん素の笑顔になってくあめちゃんがとても可愛い https://t.co/MDPM1vkjCU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073606127749836801",
+            "3_2073606127791800320",
+            "3_2073606127833735168"
+          ]
+        },
+        "author_id": "2041105674005094400",
+        "conversation_id": "2073606134834032743",
+        "created_at": "2026-07-05T03:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073606134834032743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MDPM1vkjCU",
+              "end": 49,
+              "expanded_url": "https://x.com/ririlq9/status/2073606134834032743/photo/1",
+              "media_key": "3_2073606127749836801",
+              "start": 26,
+              "url": "https://t.co/MDPM1vkjCU"
+            },
+            {
+              "display_url": "pic.x.com/MDPM1vkjCU",
+              "end": 49,
+              "expanded_url": "https://x.com/ririlq9/status/2073606134834032743/photo/1",
+              "media_key": "3_2073606127791800320",
+              "start": 26,
+              "url": "https://t.co/MDPM1vkjCU"
+            },
+            {
+              "display_url": "pic.x.com/MDPM1vkjCU",
+              "end": 49,
+              "expanded_url": "https://x.com/ririlq9/status/2073606134834032743/photo/1",
+              "media_key": "3_2073606127833735168",
+              "start": 26,
+              "url": "https://t.co/MDPM1vkjCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073606134834032743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 238,
+          "impression_count": 37377,
+          "like_count": 3220,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "どんどん素の笑顔になってくあめちゃんがとても可愛い https://t.co/MDPM1vkjCU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 61,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T10:48:48.000Z",
+        "description": "￤07￤♀︎￤義務教育済￤躁鬱￤日常￤ニディガ￤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/aak8j9mbsq59n9…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/aak8j9mbsq59n9x?t=P0LejS&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/8tYQm1240N"
+              }
+            ]
+          }
+        },
+        "id": "2041105674005094400",
+        "location": "インターネットという海の中で私を見つけてくれてありがとな",
+        "name": "𝒶𝓂𝑒 🎀໒꒱♡",
+        "pinned_tweet_id": "2073299583627919500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073326155411881984/Ax55qXhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 192,
+          "like_count": 1321,
+          "listed_count": 3,
+          "media_count": 208,
+          "tweet_count": 2189
+        },
+        "url": "https://t.co/8tYQm1240N",
+        "username": "ririlq9",
+        "verified": false
+      }
+    ]
+  }
+}

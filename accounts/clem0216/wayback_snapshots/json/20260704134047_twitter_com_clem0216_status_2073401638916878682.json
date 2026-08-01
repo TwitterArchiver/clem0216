@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072400963663761408"
+      ],
+      "media_source_tweet_id": [
+        "2072401006877642846"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2073401638916878682",
+    "created_at": "2026-07-04T13:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073401638916878682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069834167358246912",
+          "start": 3,
+          "username": "USER744444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZcSIBpmY1m",
+          "end": 39,
+          "expanded_url": "https://x.com/USER744444/status/2072401006877642846/photo/1",
+          "media_key": "3_2072400963663761408",
+          "start": 16,
+          "url": "https://t.co/ZcSIBpmY1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073401638916878682",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2047
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072401006877642846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @USER744444: https://t.co/ZcSIBpmY1m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3503,
+        "media_key": "3_2072400963663761408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKlskdbEAAfl0n.jpg",
+        "width": 2794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072400963663761408"
+          ],
+          "media_source_tweet_id": [
+            "2072401006877642846"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2073401638916878682",
+        "created_at": "2026-07-04T13:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073401638916878682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069834167358246912",
+              "start": 3,
+              "username": "USER744444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcSIBpmY1m",
+              "end": 39,
+              "expanded_url": "https://x.com/USER744444/status/2072401006877642846/photo/1",
+              "media_key": "3_2072400963663761408",
+              "start": 16,
+              "url": "https://t.co/ZcSIBpmY1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073401638916878682",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2047
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072401006877642846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @USER744444: https://t.co/ZcSIBpmY1m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072400963663761408"
+          ]
+        },
+        "author_id": "2069834167358246912",
+        "conversation_id": "2072401006877642846",
+        "created_at": "2026-07-01T19:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072401006877642846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcSIBpmY1m",
+              "end": 23,
+              "expanded_url": "https://x.com/USER744444/status/2072401006877642846/photo/1",
+              "media_key": "3_2072400963663761408",
+              "start": 0,
+              "url": "https://t.co/ZcSIBpmY1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072401006877642846",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 969,
+          "impression_count": 96428,
+          "like_count": 12553,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 2047
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/ZcSIBpmY1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 53,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-24T17:27:02.000Z",
+        "description": "=lu yao\n-📮 2099164861@qq.com\n https://t.co/VvpWZzNarT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mihuashi.com/profiles/29002…",
+                "end": 53,
+                "expanded_url": "https://www.mihuashi.com/profiles/2900261?role=painter&utm_source=direct&utm_campaign=userpage&utm_medium=share",
+                "start": 30,
+                "url": "https://t.co/VvpWZzNarT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/122548216",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/122548216",
+                "start": 0,
+                "url": "https://t.co/Qmqc6mYpi9"
+              }
+            ]
+          }
+        },
+        "id": "2069834167358246912",
+        "location": "here.🚫AI/中國",
+        "name": "ルーヤオ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069841793781555200/56P61Fz__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 30,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/Qmqc6mYpi9",
+        "username": "USER744444",
+        "verified": true
+      }
+    ]
+  }
+}

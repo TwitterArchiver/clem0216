@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081753631339212800"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081753647101477153",
+    "created_at": "2026-07-27T14:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081753647101477153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 29,
+          "id": "2026081318497665024",
+          "start": 13,
+          "username": "85240609891_2nd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gVuqHV72hF",
+          "end": 53,
+          "expanded_url": "https://x.com/clem0216/status/2081753647101477153/photo/1",
+          "media_key": "3_2081753631339212800",
+          "start": 30,
+          "url": "https://t.co/gVuqHV72hF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081753647101477153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "北極戰警犧牲30天\n新号:@85240609891_2nd https://t.co/gVuqHV72hF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1626,
+        "media_key": "3_2081753631339212800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPf5enacAAnSVP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081753631339212800"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081753647101477153",
+        "created_at": "2026-07-27T14:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081753647101477153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "2026081318497665024",
+              "start": 13,
+              "username": "85240609891_2nd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gVuqHV72hF",
+              "end": 53,
+              "expanded_url": "https://x.com/clem0216/status/2081753647101477153/photo/1",
+              "media_key": "3_2081753631339212800",
+              "start": 30,
+              "url": "https://t.co/gVuqHV72hF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081753647101477153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北極戰警犧牲30天\n新号:@85240609891_2nd https://t.co/gVuqHV72hF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2080621541168124362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 563,
+          "like_count": 11854,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "HELLO\n這裡是北極戰警的第二帳戶\n港英派+民國派\n重視政治民主\n🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳",
+        "id": "2026081318497665024",
+        "location": "中華民國 香港特別市 ROC HK",
+        "name": "北極戰警🇭🇰🎗️",
+        "pinned_tweet_id": "2067380533630505129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080309380814192640/g7IBANK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 374,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "85240609891_2nd",
+        "verified": false
+      }
+    ]
+  }
+}

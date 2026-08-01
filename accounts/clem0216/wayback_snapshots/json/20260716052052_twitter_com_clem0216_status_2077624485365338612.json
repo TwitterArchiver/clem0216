@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2077624485365338612",
+    "created_at": "2026-07-16T05:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T06:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077624485365338612"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077624485365338612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起B站一位大佬说的话，人总是喜欢把自己放在道德的制高点绑架别人，就像你半夜给喜欢的女生送奶茶到楼下，自己却没勇气默默走了，那个女生什么都感觉不到，但你自己可能会自我感动一辈子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2077624485365338612",
+        "created_at": "2026-07-16T05:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077624485365338612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077624485365338612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起B站一位大佬说的话，人总是喜欢把自己放在道德的制高点绑架别人，就像你半夜给喜欢的女生送奶茶到楼下，自己却没勇气默默走了，那个女生什么都感觉不到，但你自己可能会自我感动一辈子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo/没回fo请私信",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 233,
+          "like_count": 3985,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

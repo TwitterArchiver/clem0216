@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075189209070231552"
+      ],
+      "media_source_tweet_id": [
+        "2075768790311211450"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "conversation_id": "2075799376996491409",
+    "created_at": "2026-07-11T04:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075799376996491409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/POhncXAYFc",
+          "end": 66,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/2075768790311211450/photo/1",
+          "media_key": "3_2075189209070231552",
+          "start": 43,
+          "url": "https://t.co/POhncXAYFc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075799376996491409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 383
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075768790311211450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: 超てんちゃんもちもちほっぺだいさくせん！！ https://t.co/POhncXAYFc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2075189209070231552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyNl0Ba4AAM-ND.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075189209070231552"
+          ],
+          "media_source_tweet_id": [
+            "2075768790311211450"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2075799376996491409",
+        "created_at": "2026-07-11T04:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075799376996491409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/POhncXAYFc",
+              "end": 66,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2075768790311211450/photo/1",
+              "media_key": "3_2075189209070231552",
+              "start": 43,
+              "url": "https://t.co/POhncXAYFc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075799376996491409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075768790311211450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: 超てんちゃんもちもちほっぺだいさくせん！！ https://t.co/POhncXAYFc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075189209070231552"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "conversation_id": "2075768790311211450",
+        "created_at": "2026-07-11T02:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T03:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075768790311211450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/POhncXAYFc",
+              "end": 45,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2075768790311211450/photo/1",
+              "media_key": "3_2075189209070231552",
+              "start": 22,
+              "url": "https://t.co/POhncXAYFc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075768790311211450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 38262,
+          "like_count": 3426,
+          "quote_count": 11,
+          "reply_count": 18,
+          "retweet_count": 383
+        },
+        "reply_settings": "everyone",
+        "text": "超てんちゃんもちもちほっぺだいさくせん！！ https://t.co/POhncXAYFc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/抑郁症/焦虑症/od重度依赖/oder/我会回关每一个关注我的人",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 98,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "location": "キミのぱそこん",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543361,
+          "following_count": 1,
+          "like_count": 44,
+          "listed_count": 1166,
+          "media_count": 813,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

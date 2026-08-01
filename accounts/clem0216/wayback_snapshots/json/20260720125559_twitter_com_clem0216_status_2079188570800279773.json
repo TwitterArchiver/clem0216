@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2079182306070405517",
+    "created_at": "2026-07-20T12:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079188570800279773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1959893383633358848",
+          "start": 0,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 18,
+          "id": "2023460446075056133",
+          "start": 8,
+          "username": "N_ull_0x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079188570800279773",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079182306070405517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cbscfe @N_ull_0x0 恭喜恭喜，摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2079182306070405517",
+        "created_at": "2026-07-20T12:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079188570800279773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 18,
+              "id": "2023460446075056133",
+              "start": 8,
+              "username": "N_ull_0x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079188570800279773",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079182306070405517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @N_ull_0x0 恭喜恭喜，摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2079182306070405517",
+        "created_at": "2026-07-20T12:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079182306070405517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 75,
+              "id": "2023460446075056133",
+              "start": 65,
+              "username": "N_ull_0x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079182306070405517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们出院了终于拿到电脑了终于能上推特了\n在似乎重新住院的这几天（其实也快一个月的时间）里\n我发病磕了一堆劳拉右美什么的\n然后去了@N_ull_0x0家\n然后被住院了，做了7次MECT。。。\n同时转躁了\n啊哈哈哈\n\n好久没有碰到我的键盘我的鼠标我的电脑\naaaaa 165hz刷新率的屏幕，爽！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 355,
+          "like_count": 7789,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 681,
+          "like_count": 24532,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 6237
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T18:12:36.000Z",
+        "description": "电子宠物です",
+        "id": "2023460446075056133",
+        "location": "Cbscfe",
+        "name": "Null0x0",
+        "pinned_tweet_id": "2063565065220231204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032095085438132224/nAXS6d_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 63,
+          "like_count": 2789,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "N_ull_0x0",
+        "verified": false
+      }
+    ]
+  }
+}
