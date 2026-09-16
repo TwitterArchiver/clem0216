@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2084569744238379481",
+    "created_at": "2026-08-04T09:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084579960224887081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1708822635503841280",
+          "start": 0,
+          "username": "wutuobang369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084579960224887081",
+    "in_reply_to_user_id": "1708822635503841280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084579431302000816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wutuobang369 这号原本就是我的号，认识她后就和她共享这个号了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2084569744238379481",
+        "created_at": "2026-08-04T09:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084579960224887081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1708822635503841280",
+              "start": 0,
+              "username": "wutuobang369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084579960224887081",
+        "in_reply_to_user_id": "1708822635503841280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084579431302000816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wutuobang369 这号原本就是我的号，认识她后就和她共享这个号了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708822635503841280",
+        "conversation_id": "2084569744238379481",
+        "created_at": "2026-08-04T09:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084579431302000816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084579431302000816",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084569744238379481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 有没有可能👀你俩是同一个人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千五百fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPqCil"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 751,
+          "like_count": 13750,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 1157
+        },
+        "url": "https://t.co/WPFwIPqCil",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-02T12:34:11.000Z",
+        "description": "八奈見の勝率が高すぎるから、志喜屋先輩も佳樹ももう勝ち目がない。だから今は焼塩ママを応援してる。",
+        "id": "1708822635503841280",
+        "name": "乌人卜",
+        "pinned_tweet_id": "1746520127711932658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975171175094370304/ncAA3eCp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 195,
+          "like_count": 19227,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 4392
+        },
+        "url": "",
+        "username": "wutuobang369",
+        "verified": false
+      }
+    ]
+  }
+}

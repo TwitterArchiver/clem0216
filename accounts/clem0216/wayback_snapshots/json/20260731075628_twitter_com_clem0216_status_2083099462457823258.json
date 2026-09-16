@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083099453310013440"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083085657338200493",
+    "created_at": "2026-07-31T07:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083099462457823258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1716000108003946496",
+          "start": 0,
+          "username": "steampork_114"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4nAA9TqerH",
+          "end": 45,
+          "expanded_url": "https://x.com/clem0216/status/2083099462457823258/photo/1",
+          "media_key": "3_2083099453310013440",
+          "start": 22,
+          "url": "https://t.co/4nAA9TqerH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083099462457823258",
+    "in_reply_to_user_id": "1716000108003946496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083085657338200493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@steampork_114 要买紫色的😡 https://t.co/4nAA9TqerH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2083099453310013440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOin6oJakAAu958.jpg",
+        "width": 662
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083085637499133953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOibWcPaoAE_gaw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083099453310013440"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083085657338200493",
+        "created_at": "2026-07-31T07:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083099462457823258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1716000108003946496",
+              "start": 0,
+              "username": "steampork_114"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nAA9TqerH",
+              "end": 45,
+              "expanded_url": "https://x.com/clem0216/status/2083099462457823258/photo/1",
+              "media_key": "3_2083099453310013440",
+              "start": 22,
+              "url": "https://t.co/4nAA9TqerH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083099462457823258",
+        "in_reply_to_user_id": "1716000108003946496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083085657338200493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@steampork_114 要买紫色的😡 https://t.co/4nAA9TqerH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083085637499133953"
+          ]
+        },
+        "author_id": "1716000108003946496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083085657338200493",
+        "created_at": "2026-07-31T07:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083085657338200493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hP44GEYZyM",
+              "end": 30,
+              "expanded_url": "https://x.com/steampork_114/status/2083085657338200493/photo/1",
+              "media_key": "3_2083085637499133953",
+              "start": 7,
+              "url": "https://t.co/hP44GEYZyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083085657338200493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋试图飞升呜 https://t.co/hP44GEYZyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千五百fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPqCil"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 716,
+          "like_count": 13507,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1098
+        },
+        "url": "https://t.co/WPFwIPqCil",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-22T07:54:52.000Z",
+        "description": "HRT2026.2.22🏳️‍⚧️🍥｜普通的学生｜生产日期2012.3.18｜断糖没钱呜｜坐标北京",
+        "id": "1716000108003946496",
+        "location": "Beijing",
+        "name": "stmpk_114🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082311453407944704/q1IRSlvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 213,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "steampork_114",
+        "verified": false
+      }
+    ]
+  }
+}

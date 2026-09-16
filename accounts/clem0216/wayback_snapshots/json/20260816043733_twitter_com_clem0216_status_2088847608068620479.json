@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2088653968948003137",
+    "created_at": "2026-08-16T04:37:33.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T05:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088847608068620479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027785341495873540",
+          "start": 0,
+          "username": "Zhouzhou28ep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088847608068620479",
+    "in_reply_to_user_id": "2027785341495873540",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088653968948003137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhouzhou28ep 可爱捏✟昇天✟"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10467,
+        "height": 720,
+        "media_key": "13_2088653166179127296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088653166179127296/img/TmtJ8L5QckeF52ib.jpg",
+        "public_metrics": {
+          "view_count": 164
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088653166179127296/vid/avc1/480x270/ETrSh-GKt155mROY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088653166179127296/vid/avc1/640x360/hPcmSy92UG0AZi3p.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088653166179127296/vid/avc1/1280x720/FZfZWhg2h_tAytmb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088653166179127296/pl/IRud_UMZM9b1ZvNd.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2088653968948003137",
+        "created_at": "2026-08-16T04:37:33.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088847608068620479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027785341495873540",
+              "start": 0,
+              "username": "Zhouzhou28ep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088847608068620479",
+        "in_reply_to_user_id": "2027785341495873540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088653968948003137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhouzhou28ep 可爱捏✟昇天✟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088653166179127296"
+          ]
+        },
+        "author_id": "2027785341495873540",
+        "conversation_id": "2088653968948003137",
+        "created_at": "2026-08-15T15:48:06.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088653968948003137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HdhLaBEJKU",
+              "end": 35,
+              "expanded_url": "https://x.com/Zhouzhou28ep/status/2088653968948003137/video/1",
+              "media_key": "13_2088653166179127296",
+              "start": 12,
+              "url": "https://t.co/HdhLaBEJKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088653968948003137",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088653166179127296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡鸡鸡鸡贝贝贝贝贝库存 https://t.co/HdhLaBEJKU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为两千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem02161",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem02161",
+                "start": 0,
+                "url": "https://t.co/ZtOzowjylj"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2088847608068620479",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883207896768651264/1776001298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 1028,
+          "like_count": 15540,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/ZtOzowjylj",
+        "username": "clem0216",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T16:39:01.000Z",
+        "description": "本人没素质傻逼一个此账号发表的所有言论,意在取悦自己,并通过文字或图片强制干预他人的思想,如果翻阅之后出现不适等症状,恭喜你,你怀了我的孩子 查成分回fo 🚪15仅加好友解锁朋友圈直接甩口令",
+        "id": "2027785341495873540",
+        "is_identity_verified": false,
+        "location": "0.01km",
+        "most_recent_tweet_id": "2088822199012467090",
+        "name": "zhou",
+        "pinned_tweet_id": "2087256331161936304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027785341495873540/1786110842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085726540848152576/cmX7prxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 145,
+          "like_count": 817,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "Zhouzhou28ep",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

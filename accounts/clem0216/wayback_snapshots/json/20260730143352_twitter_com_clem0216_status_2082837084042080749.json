@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2082475740218683813",
+    "created_at": "2026-07-30T14:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082837084042080749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1658125884283289603",
+          "start": 0,
+          "username": "istillloveuTT"
+        },
+        {
+          "end": 31,
+          "id": "1871543886801424384",
+          "start": 15,
+          "username": "fsnuoVd7as36268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082837084042080749",
+    "in_reply_to_user_id": "1658125884283289603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082836483803947239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@istillloveuTT @fsnuoVd7as36268 盐野义，紫色的那个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2082475740218683813",
+        "created_at": "2026-07-30T14:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082837084042080749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1658125884283289603",
+              "start": 0,
+              "username": "istillloveuTT"
+            },
+            {
+              "end": 31,
+              "id": "1871543886801424384",
+              "start": 15,
+              "username": "fsnuoVd7as36268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082837084042080749",
+        "in_reply_to_user_id": "1658125884283289603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082836483803947239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@istillloveuTT @fsnuoVd7as36268 盐野义，紫色的那个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658125884283289603",
+        "conversation_id": "2082475740218683813",
+        "created_at": "2026-07-30T14:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082836483803947239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1871543886801424384",
+              "start": 0,
+              "username": "fsnuoVd7as36268"
+            },
+            {
+              "end": 26,
+              "id": "1883207896768651264",
+              "start": 17,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082836483803947239",
+        "in_reply_to_user_id": "1871543886801424384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082820252342329555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fsnuoVd7as36268 @clem0216 宝贝我该搜什么呀……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 662,
+          "like_count": 13042,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-15T15:03:21.000Z",
+        "description": "我求你快来救我每天都跟孤独一起",
+        "id": "1658125884283289603",
+        "location": "Seoul, Republic of Korea",
+        "name": "therewillbetearssss",
+        "pinned_tweet_id": "2060785938838573311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069010882282328064/AcjX0-V9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 53,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1095
+        },
+        "url": "",
+        "username": "istillloveuTT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T13:10:28.000Z",
+        "description": "",
+        "id": "1871543886801424384",
+        "name": "樂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027281602494218240/3-LzAdgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 43,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "fsnuoVd7as36268",
+        "verified": false
+      }
+    ]
+  }
+}

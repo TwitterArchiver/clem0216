@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2084946119713599512",
+    "created_at": "2026-08-05T10:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084946119713599512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1561806114274287616",
+          "start": 3,
+          "username": "crossyangshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084946119713599512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084914582607511860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crossyangshe: 大家好！我是az，我想走出深深陷入的泥沼，这是一条不归路，我一直在欺骗自己，我没有任何改变甚至越陷越深，我想活着，我想自救，我不想再这么下去了。我不会歧视任何一个人毕竟我也不是什么好东西，在病痛中的人是看不清自己的，大家都是不幸的，我要战胜逆…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3556,
+        "media_key": "3_2084914558863613952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8avrQbIAA5Emx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2084946119713599512",
+        "created_at": "2026-08-05T10:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084946119713599512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1561806114274287616",
+              "start": 3,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084946119713599512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084914582607511860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crossyangshe: 大家好！我是az，我想走出深深陷入的泥沼，这是一条不归路，我一直在欺骗自己，我没有任何改变甚至越陷越深，我想活着，我想自救，我不想再这么下去了。我不会歧视任何一个人毕竟我也不是什么好东西，在病痛中的人是看不清自己的，大家都是不幸的，我要战胜逆…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084914558863613952"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2084914582607511860",
+        "created_at": "2026-08-05T08:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084914582607511860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rpVYDsgVHk",
+              "end": 165,
+              "expanded_url": "https://x.com/crossyangshe/status/2084914582607511860/photo/1",
+              "media_key": "3_2084914558863613952",
+              "start": 142,
+              "url": "https://t.co/rpVYDsgVHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084914582607511860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 273,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大家好！我是az，我想走出深深陷入的泥沼，这是一条不归路，我一直在欺骗自己，我没有任何改变甚至越陷越深，我想活着，我想自救，我不想再这么下去了。我不会歧视任何一个人毕竟我也不是什么好东西，在病痛中的人是看不清自己的，大家都是不幸的，我要战胜逆流河，我不想再吃药了哭泣了QAQwwww https://t.co/rpVYDsgVHk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千五百fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPqCil"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 806,
+          "like_count": 13750,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 1173
+        },
+        "url": "https://t.co/WPFwIPqCil",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2084914582607511860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 474,
+          "like_count": 4119,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1058
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087528949408817152",
+        "3_2087528975602155520",
+        "3_2087528997563564032",
+        "3_2087529012432449536"
+      ]
+    },
+    "author_id": "1883207896768651264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087529025367601391",
+    "created_at": "2026-08-12T13:17:58.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087529025367601391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OBK5PQEIJL",
+          "end": 56,
+          "expanded_url": "https://x.com/clem0216/status/2087529025367601391/photo/1",
+          "media_key": "3_2087528949408817152",
+          "start": 33,
+          "url": "https://t.co/OBK5PQEIJL"
+        },
+        {
+          "display_url": "pic.x.com/OBK5PQEIJL",
+          "end": 56,
+          "expanded_url": "https://x.com/clem0216/status/2087529025367601391/photo/1",
+          "media_key": "3_2087528975602155520",
+          "start": 33,
+          "url": "https://t.co/OBK5PQEIJL"
+        },
+        {
+          "display_url": "pic.x.com/OBK5PQEIJL",
+          "end": 56,
+          "expanded_url": "https://x.com/clem0216/status/2087529025367601391/photo/1",
+          "media_key": "3_2087528997563564032",
+          "start": 33,
+          "url": "https://t.co/OBK5PQEIJL"
+        },
+        {
+          "display_url": "pic.x.com/OBK5PQEIJL",
+          "end": 56,
+          "expanded_url": "https://x.com/clem0216/status/2087529025367601391/photo/1",
+          "media_key": "3_2087529012432449536",
+          "start": 33,
+          "url": "https://t.co/OBK5PQEIJL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087529025367601391",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087528949408817152"
+      },
+      {
+        "media_key": "3_2087528975602155520"
+      },
+      {
+        "media_key": "3_2087528997563564032"
+      },
+      {
+        "media_key": "3_2087529012432449536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不会死的\n我也喜欢你\n最喜欢的是流行曲吧\n问什么问题呀，会答应的 https://t.co/OBK5PQEIJL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2087528949408817152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhkhO_bYAATHI-.jpg",
+        "width": 1256
+      },
+      {
+        "height": 883,
+        "media_key": "3_2087528975602155520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhkiwkaAAA3lYN.jpg",
+        "width": 1256
+      },
+      {
+        "height": 879,
+        "media_key": "3_2087528997563564032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhkkCYagAAnhFq.jpg",
+        "width": 1256
+      },
+      {
+        "height": 849,
+        "media_key": "3_2087529012432449536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhkk5xbsAAqSAJ.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087528949408817152",
+            "3_2087528975602155520",
+            "3_2087528997563564032",
+            "3_2087529012432449536"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087529025367601391",
+        "created_at": "2026-08-12T13:17:58.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087529025367601391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBK5PQEIJL",
+              "end": 56,
+              "expanded_url": "https://x.com/clem0216/status/2087529025367601391/photo/1",
+              "media_key": "3_2087528949408817152",
+              "start": 33,
+              "url": "https://t.co/OBK5PQEIJL"
+            },
+            {
+              "display_url": "pic.x.com/OBK5PQEIJL",
+              "end": 56,
+              "expanded_url": "https://x.com/clem0216/status/2087529025367601391/photo/1",
+              "media_key": "3_2087528975602155520",
+              "start": 33,
+              "url": "https://t.co/OBK5PQEIJL"
+            },
+            {
+              "display_url": "pic.x.com/OBK5PQEIJL",
+              "end": 56,
+              "expanded_url": "https://x.com/clem0216/status/2087529025367601391/photo/1",
+              "media_key": "3_2087528997563564032",
+              "start": 33,
+              "url": "https://t.co/OBK5PQEIJL"
+            },
+            {
+              "display_url": "pic.x.com/OBK5PQEIJL",
+              "end": 56,
+              "expanded_url": "https://x.com/clem0216/status/2087529025367601391/photo/1",
+              "media_key": "3_2087529012432449536",
+              "start": 33,
+              "url": "https://t.co/OBK5PQEIJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087529025367601391",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087528949408817152"
+          },
+          {
+            "media_key": "3_2087528975602155520"
+          },
+          {
+            "media_key": "3_2087528997563564032"
+          },
+          {
+            "media_key": "3_2087529012432449536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不会死的\n我也喜欢你\n最喜欢的是流行曲吧\n问什么问题呀，会答应的 https://t.co/OBK5PQEIJL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为两千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem02161",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem02161",
+                "start": 0,
+                "url": "https://t.co/ZtOzowjylj"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2087529025367601391",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883207896768651264/1776001298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 975,
+          "like_count": 14490,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 1295
+        },
+        "url": "https://t.co/ZtOzowjylj",
+        "username": "clem0216",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

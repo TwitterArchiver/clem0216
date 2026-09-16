@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2086772617323930051",
+    "created_at": "2026-08-10T11:41:08.000Z",
+    "display_text_range": [
+      15,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T12:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086779879266414621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2085535031368273920",
+          "start": 0,
+          "username": "shierdian6639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086779879266414621",
+    "in_reply_to_user_id": "2085535031368273920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086772617323930051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shierdian6639 舔舔伤口，痛痛飞走喽！😝"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4650,
+        "height": 720,
+        "media_key": "13_2086738348144795648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086738348144795648/img/mdx0NAKmXevc-mtC.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086738348144795648/vid/avc1/480x270/3TOS1aOyaTvIQUe-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086738348144795648/vid/avc1/640x360/T8dxJHHXAm5bO9vi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086738348144795648/vid/avc1/1280x720/JuZevLq9WUohYB6x.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086738348144795648/pl/KklwgEYR1iPrxscm.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2086772617323930051",
+        "created_at": "2026-08-10T11:41:08.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086779879266414621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2085535031368273920",
+              "start": 0,
+              "username": "shierdian6639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086779879266414621",
+        "in_reply_to_user_id": "2085535031368273920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086772617323930051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shierdian6639 舔舔伤口，痛痛飞走喽！😝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086738348144795648"
+          ]
+        },
+        "author_id": "2085535031368273920",
+        "conversation_id": "2086772617323930051",
+        "created_at": "2026-08-10T11:12:16.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086772617323930051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Vk2brEjNg",
+              "end": 45,
+              "expanded_url": "https://x.com/shierdian6639/status/2086772617323930051/video/1",
+              "media_key": "13_2086738348144795648",
+              "start": 22,
+              "url": "https://t.co/4Vk2brEjNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086772617323930051",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086738348144795648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃pr骑车算不算毒驾。嗯。我摔车了呀 痛痛 https://t.co/4Vk2brEjNg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为两千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem02161",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem02161",
+                "start": 0,
+                "url": "https://t.co/ZtOzowjylj"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2086779879266414621",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883207896768651264/1776001298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 904,
+          "like_count": 14355,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 1258
+        },
+        "url": "https://t.co/ZtOzowjylj",
+        "username": "clem0216",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T01:15:22.000Z",
+        "description": "",
+        "id": "2085535031368273920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086779744964817293",
+        "name": "12.",
+        "pinned_tweet_id": "2085903657829372221",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085876788404826112/pBkwIuqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 68,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "shierdian6639",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

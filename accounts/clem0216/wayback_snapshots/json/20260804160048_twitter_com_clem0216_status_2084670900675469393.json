@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883207896768651264",
+    "conversation_id": "2084670900675469393",
+    "created_at": "2026-08-04T16:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084670900675469393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/angel555483858…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/angel5554838581/status/2079991224497475799",
+          "start": 15,
+          "url": "https://t.co/9vXmvlAzMX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084670900675469393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079991224497475799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人知道她吗，她好像也失联了 https://t.co/9vXmvlAzMX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079991210006163456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2c_DhaMAAbamz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2084670900675469393",
+        "created_at": "2026-08-04T16:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084670900675469393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angel555483858…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/angel5554838581/status/2079991224497475799",
+              "start": 15,
+              "url": "https://t.co/9vXmvlAzMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084670900675469393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079991224497475799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人知道她吗，她好像也失联了 https://t.co/9vXmvlAzMX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079991210006163456"
+          ]
+        },
+        "author_id": "1989742696077168645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079991224497475799",
+        "created_at": "2026-07-22T18:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079991224497475799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KrLWudcu2y",
+              "end": 50,
+              "expanded_url": "https://x.com/angel5554838581/status/2079991224497475799/photo/1",
+              "media_key": "3_2079991210006163456",
+              "start": 27,
+              "url": "https://t.co/KrLWudcu2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079991224497475799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1215,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中毒了 应该烧的不够多 剩260个等药到了再一起烧吧 https://t.co/KrLWudcu2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千五百fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPqCil"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 752,
+          "like_count": 13751,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 1165
+        },
+        "url": "https://t.co/WPFwIPqCil",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T17:10:13.000Z",
+        "description": "每天都很懵逼",
+        "id": "1989742696077168645",
+        "location": "Tokyo-to, Japan",
+        "name": "angel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989968123639013377/_RFJ8qJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 39,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "angel5554838581",
+        "verified": false
+      }
+    ]
+  }
+}
